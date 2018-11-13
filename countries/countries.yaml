@@ -1,0 +1,1993 @@
+---
+-
+    id: AD
+    iso_a3: AND
+    fips: AN
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Andorra
+-
+    id: AE
+    iso_a3: ARE
+    fips: AE
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: United Arab Emirates
+-
+    id: AF
+    iso_a3: AFG
+    fips: AF
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Afghanistan
+-
+    id: AG
+    iso_a3: ATG
+    fips: AC
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: Antigua and Barbuda
+-
+    id: AI
+    iso_a3: AIA
+    fips: AV
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: Anguilla
+-
+    id: AL
+    iso_a3: ALB
+    fips: AL
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Albania
+-
+    id: AM
+    iso_a3: ARM
+    fips: AM
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Armenia
+-
+    id: AO
+    iso_a3: AGO
+    fips: AO
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Angola
+-
+    id: AR
+    iso_a3: ARG
+    fips: AR
+    wfb: 1
+    ethnologue: 1
+    continent: SA
+    name: Argentina
+-
+    id: AS
+    iso_a3: ASM
+    fips: AQ
+    wfb: 1
+    ethnologue: 1
+    continent: OC
+    name: American Samoa
+-
+    id: AT
+    iso_a3: AUT
+    fips: AU
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Austria
+-
+    id: AU
+    iso_a3: AUS
+    fips: AS
+    wfb: 1
+    ethnologue: 1
+    continent: OC
+    name: Australia
+-
+    id: AW
+    iso_a3: ABW
+    fips: AA
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: Aruba
+-
+    id: AX
+    iso_a3: ALA
+    fips: NULL
+    wfb: 0
+    ethnologue: 0
+    continent: EU
+    name: Åland
+-
+    id: AZ
+    iso_a3: AZE
+    fips: AJ
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Azerbaijan
+-
+    id: BA
+    iso_a3: BIH
+    fips: BK
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Bosnia and Herzegovina
+-
+    id: BB
+    iso_a3: BRB
+    fips: BB
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: Barbados
+-
+    id: BD
+    iso_a3: BGD
+    fips: BG
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Bangladesh
+-
+    id: BE
+    iso_a3: BEL
+    fips: BE
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Belgium
+-
+    id: BF
+    iso_a3: BFA
+    fips: UV
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Burkina Faso
+-
+    id: BG
+    iso_a3: BGR
+    fips: BU
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Bulgaria
+-
+    id: BH
+    iso_a3: BHR
+    fips: BA
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Bahrain
+-
+    id: BI
+    iso_a3: BDI
+    fips: BY
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Burundi
+-
+    id: BJ
+    iso_a3: BEN
+    fips: BN
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Benin
+-
+    id: BL
+    iso_a3: BLM
+    fips: TB
+    wfb: 1
+    ethnologue: 0
+    continent: NA
+    name: Saint Barthélemy
+-
+    id: BM
+    iso_a3: BMU
+    fips: BD
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: Bermuda
+-
+    id: BN
+    iso_a3: BRN
+    fips: BX
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Brunei
+-
+    id: BO
+    iso_a3: BOL
+    fips: BL
+    wfb: 1
+    ethnologue: 1
+    continent: SA
+    name: Bolivia
+-
+    id: BQ
+    iso_a3: BES
+    fips: NULL
+    wfb: 0
+    ethnologue: 0
+    continent: NA
+    name: Bonaire
+-
+    id: BR
+    iso_a3: BRA
+    fips: BR
+    wfb: 1
+    ethnologue: 1
+    continent: SA
+    name: Brazil
+-
+    id: BS
+    iso_a3: BHS
+    fips: BF
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: Bahamas
+-
+    id: BT
+    iso_a3: BTN
+    fips: BT
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Bhutan
+-
+    id: BV
+    iso_a3: BVT
+    fips: BV
+    wfb: 1
+    ethnologue: 0
+    continent: AN
+    name: Bouvet Island
+-
+    id: BW
+    iso_a3: BWA
+    fips: BC
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Botswana
+-
+    id: BY
+    iso_a3: BLR
+    fips: BO
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Belarus
+-
+    id: BZ
+    iso_a3: BLZ
+    fips: BH
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: Belize
+-
+    id: CA
+    iso_a3: CAN
+    fips: CA
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: Canada
+-
+    id: CC
+    iso_a3: CCK
+    fips: CK
+    wfb: 1
+    ethnologue: 0
+    continent: AS
+    name: Cocos (Keeling) Islands
+-
+    id: CD
+    iso_a3: COD
+    fips: CG
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Democratic Republic of the Congo
+-
+    id: CF
+    iso_a3: CAF
+    fips: CT
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Central African Republic
+-
+    id: CG
+    iso_a3: COG
+    fips: CF
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Republic of the Congo
+-
+    id: CH
+    iso_a3: CHE
+    fips: SZ
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Switzerland
+-
+    id: CI
+    iso_a3: CIV
+    fips: IV
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Ivory Coast
+-
+    id: CK
+    iso_a3: COK
+    fips: CW
+    wfb: 1
+    ethnologue: 1
+    continent: OC
+    name: Cook Islands
+-
+    id: CL
+    iso_a3: CHL
+    fips: CI
+    wfb: 1
+    ethnologue: 1
+    continent: SA
+    name: Chile
+-
+    id: CM
+    iso_a3: CMR
+    fips: CM
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Cameroon
+-
+    id: CN
+    iso_a3: CHN
+    fips: CH
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: China
+-
+    id: CO
+    iso_a3: COL
+    fips: CO
+    wfb: 1
+    ethnologue: 1
+    continent: SA
+    name: Colombia
+-
+    id: CR
+    iso_a3: CRI
+    fips: CS
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: Costa Rica
+-
+    id: CU
+    iso_a3: CUB
+    fips: CU
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: Cuba
+-
+    id: CV
+    iso_a3: CPV
+    fips: CV
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Cape Verde
+-
+    id: CW
+    iso_a3: CUW
+    fips: UC
+    wfb: 1
+    ethnologue: 0
+    continent: NA
+    name: Curacao
+-
+    id: CX
+    iso_a3: CXR
+    fips: KT
+    wfb: 1
+    ethnologue: 0
+    continent: AS
+    name: Christmas Island
+-
+    id: CY
+    iso_a3: CYP
+    fips: CY
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Cyprus
+-
+    id: CZ
+    iso_a3: CZE
+    fips: EZ
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Czech Republic
+-
+    id: DE
+    iso_a3: DEU
+    fips: GM
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Germany
+-
+    id: DJ
+    iso_a3: DJI
+    fips: DJ
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Djibouti
+-
+    id: DK
+    iso_a3: DNK
+    fips: DA
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Denmark
+-
+    id: DM
+    iso_a3: DMA
+    fips: DO
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: Dominica
+-
+    id: DO
+    iso_a3: DOM
+    fips: DR
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: Dominican Republic
+-
+    id: DZ
+    iso_a3: DZA
+    fips: AG
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Algeria
+-
+    id: EC
+    iso_a3: ECU
+    fips: EC
+    wfb: 1
+    ethnologue: 1
+    continent: SA
+    name: Ecuador
+-
+    id: EE
+    iso_a3: EST
+    fips: EN
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Estonia
+-
+    id: EG
+    iso_a3: EGY
+    fips: EG
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Egypt
+-
+    id: EH
+    iso_a3: ESH
+    fips: WI
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Western Sahara
+-
+    id: ER
+    iso_a3: ERI
+    fips: ER
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Eritrea
+-
+    id: ES
+    iso_a3: ESP
+    fips: SP
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Spain
+-
+    id: ET
+    iso_a3: ETH
+    fips: ET
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Ethiopia
+-
+    id: FI
+    iso_a3: FIN
+    fips: FI
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Finland
+-
+    id: FJ
+    iso_a3: FJI
+    fips: FJ
+    wfb: 1
+    ethnologue: 1
+    continent: OC
+    name: Fiji
+-
+    id: FK
+    iso_a3: FLK
+    fips: FK
+    wfb: 1
+    ethnologue: 1
+    continent: SA
+    name: Falkland Islands
+-
+    id: FM
+    iso_a3: FSM
+    fips: FM
+    wfb: 1
+    ethnologue: 1
+    continent: OC
+    name: Micronesia
+-
+    id: FO
+    iso_a3: FRO
+    fips: FO
+    wfb: 1
+    ethnologue: 0
+    continent: EU
+    name: Faroe Islands
+-
+    id: FR
+    iso_a3: FRA
+    fips: FR
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: France
+-
+    id: GA
+    iso_a3: GAB
+    fips: GB
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Gabon
+-
+    id: GB
+    iso_a3: GBR
+    fips: UK
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: United Kingdom
+-
+    id: GD
+    iso_a3: GRD
+    fips: GJ
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: Grenada
+-
+    id: GE
+    iso_a3: GEO
+    fips: GG
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Georgia
+-
+    id: GF
+    iso_a3: GUF
+    fips: FG
+    wfb: 0
+    ethnologue: 1
+    continent: SA
+    name: French Guiana
+-
+    id: GG
+    iso_a3: GGY
+    fips: GK
+    wfb: 1
+    ethnologue: 0
+    continent: EU
+    name: Guernsey
+-
+    id: GH
+    iso_a3: GHA
+    fips: GH
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Ghana
+-
+    id: GI
+    iso_a3: GIB
+    fips: GI
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Gibraltar
+-
+    id: GL
+    iso_a3: GRL
+    fips: GL
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: Greenland
+-
+    id: GM
+    iso_a3: GMB
+    fips: GA
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Gambia
+-
+    id: GN
+    iso_a3: GIN
+    fips: GV
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Guinea
+-
+    id: GP
+    iso_a3: GLP
+    fips: GP
+    wfb: 0
+    ethnologue: 1
+    continent: NA
+    name: Guadeloupe
+-
+    id: GQ
+    iso_a3: GNQ
+    fips: EK
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Equatorial Guinea
+-
+    id: GR
+    iso_a3: GRC
+    fips: GR
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Greece
+-
+    id: GS
+    iso_a3: SGS
+    fips: SX
+    wfb: 1
+    ethnologue: 0
+    continent: AN
+    name: South Georgia and the South Sandwich Islands
+-
+    id: GT
+    iso_a3: GTM
+    fips: GT
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: Guatemala
+-
+    id: GU
+    iso_a3: GUM
+    fips: GQ
+    wfb: 1
+    ethnologue: 1
+    continent: OC
+    name: Guam
+-
+    id: GW
+    iso_a3: GNB
+    fips: PU
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Guinea-Bissau
+-
+    id: GY
+    iso_a3: GUY
+    fips: GY
+    wfb: 1
+    ethnologue: 1
+    continent: SA
+    name: Guyana
+-
+    id: HK
+    iso_a3: HKG
+    fips: HK
+    wfb: 1
+    ethnologue: 0
+    continent: AS
+    name: Hong Kong
+-
+    id: HM
+    iso_a3: HMD
+    fips: HM
+    wfb: 1
+    ethnologue: 0
+    continent: AN
+    name: Heard Island and McDonald Islands
+-
+    id: HN
+    iso_a3: HND
+    fips: HO
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: Honduras
+-
+    id: HR
+    iso_a3: HRV
+    fips: HR
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Croatia
+-
+    id: HT
+    iso_a3: HTI
+    fips: HA
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: Haiti
+-
+    id: HU
+    iso_a3: HUN
+    fips: HU
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Hungary
+-
+    id: ID
+    iso_a3: IDN
+    fips: ID
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Indonesia
+-
+    id: IE
+    iso_a3: IRL
+    fips: EI
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Ireland
+-
+    id: IL
+    iso_a3: ISR
+    fips: IS
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Israel
+-
+    id: IM
+    iso_a3: IMN
+    fips: IM
+    wfb: 1
+    ethnologue: 0
+    continent: EU
+    name: Isle of Man
+-
+    id: IN
+    iso_a3: IND
+    fips: IN
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: India
+-
+    id: IO
+    iso_a3: IOT
+    fips: IO
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: British Indian Ocean Territory
+-
+    id: IQ
+    iso_a3: IRQ
+    fips: IZ
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Iraq
+-
+    id: IR
+    iso_a3: IRN
+    fips: IR
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Iran
+-
+    id: IS
+    iso_a3: ISL
+    fips: IC
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Iceland
+-
+    id: IT
+    iso_a3: ITA
+    fips: IT
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Italy
+-
+    id: JE
+    iso_a3: JEY
+    fips: JE
+    wfb: 1
+    ethnologue: 0
+    continent: EU
+    name: Jersey
+-
+    id: JM
+    iso_a3: JAM
+    fips: JM
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: Jamaica
+-
+    id: JO
+    iso_a3: JOR
+    fips: JO
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Jordan
+-
+    id: JP
+    iso_a3: JPN
+    fips: JA
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Japan
+-
+    id: KE
+    iso_a3: KEN
+    fips: KE
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Kenya
+-
+    id: KG
+    iso_a3: KGZ
+    fips: KG
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Kyrgyzstan
+-
+    id: KH
+    iso_a3: KHM
+    fips: CB
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Cambodia
+-
+    id: KI
+    iso_a3: KIR
+    fips: KR
+    wfb: 1
+    ethnologue: 1
+    continent: OC
+    name: Kiribati
+-
+    id: KM
+    iso_a3: COM
+    fips: CN
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Comoros
+-
+    id: KN
+    iso_a3: KNA
+    fips: SC
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: Saint Kitts and Nevis
+-
+    id: KP
+    iso_a3: PRK
+    fips: KN
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: North Korea
+-
+    id: KR
+    iso_a3: KOR
+    fips: KS
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: South Korea
+-
+    id: KW
+    iso_a3: KWT
+    fips: KU
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Kuwait
+-
+    id: KY
+    iso_a3: CYM
+    fips: CJ
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: Cayman Islands
+-
+    id: KZ
+    iso_a3: KAZ
+    fips: KZ
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Kazakhstan
+-
+    id: LA
+    iso_a3: LAO
+    fips: LA
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Laos
+-
+    id: LB
+    iso_a3: LBN
+    fips: LE
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Lebanon
+-
+    id: LC
+    iso_a3: LCA
+    fips: ST
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: Saint Lucia
+-
+    id: LI
+    iso_a3: LIE
+    fips: LS
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Liechtenstein
+-
+    id: LK
+    iso_a3: LKA
+    fips: CE
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Sri Lanka
+-
+    id: LR
+    iso_a3: LBR
+    fips: LI
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Liberia
+-
+    id: LS
+    iso_a3: LSO
+    fips: LT
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Lesotho
+-
+    id: LT
+    iso_a3: LTU
+    fips: LH
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Lithuania
+-
+    id: LU
+    iso_a3: LUX
+    fips: LU
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Luxembourg
+-
+    id: LV
+    iso_a3: LVA
+    fips: LG
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Latvia
+-
+    id: LY
+    iso_a3: LBY
+    fips: LY
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Libya
+-
+    id: MA
+    iso_a3: MAR
+    fips: MO
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Morocco
+-
+    id: MC
+    iso_a3: MCO
+    fips: MN
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Monaco
+-
+    id: MD
+    iso_a3: MDA
+    fips: MD
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Moldova
+-
+    id: ME
+    iso_a3: MNE
+    fips: MJ
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Montenegro
+-
+    id: MF
+    iso_a3: MAF
+    fips: RN
+    wfb: 1
+    ethnologue: 0
+    continent: NA
+    name: Saint Martin
+-
+    id: MG
+    iso_a3: MDG
+    fips: MA
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Madagascar
+-
+    id: MH
+    iso_a3: MHL
+    fips: RM
+    wfb: 1
+    ethnologue: 1
+    continent: OC
+    name: Marshall Islands
+-
+    id: MK
+    iso_a3: MKD
+    fips: MK
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Macedonia
+-
+    id: ML
+    iso_a3: MLI
+    fips: ML
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Mali
+-
+    id: MM
+    iso_a3: MMR
+    fips: BM
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Myanmar (Burma)
+-
+    id: MN
+    iso_a3: MNG
+    fips: MG
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Mongolia
+-
+    id: MO
+    iso_a3: MAC
+    fips: MC
+    wfb: 1
+    ethnologue: 0
+    continent: AS
+    name: Macao
+-
+    id: MP
+    iso_a3: MNP
+    fips: CQ
+    wfb: 1
+    ethnologue: 1
+    continent: OC
+    name: Northern Mariana Islands
+-
+    id: MQ
+    iso_a3: MTQ
+    fips: MB
+    wfb: 0
+    ethnologue: 1
+    continent: NA
+    name: Martinique
+-
+    id: MR
+    iso_a3: MRT
+    fips: MR
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Mauritania
+-
+    id: MS
+    iso_a3: MSR
+    fips: MH
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: Montserrat
+-
+    id: MT
+    iso_a3: MLT
+    fips: MT
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Malta
+-
+    id: MU
+    iso_a3: MUS
+    fips: MP
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Mauritius
+-
+    id: MV
+    iso_a3: MDV
+    fips: MV
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Maldives
+-
+    id: MW
+    iso_a3: MWI
+    fips: MI
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Malawi
+-
+    id: MX
+    iso_a3: MEX
+    fips: MX
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: Mexico
+-
+    id: MY
+    iso_a3: MYS
+    fips: MY
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Malaysia
+-
+    id: MZ
+    iso_a3: MOZ
+    fips: MZ
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Mozambique
+-
+    id: NA
+    iso_a3: NAM
+    fips: WA
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Namibia
+-
+    id: NC
+    iso_a3: NCL
+    fips: NC
+    wfb: 1
+    ethnologue: 1
+    continent: OC
+    name: New Caledonia
+-
+    id: NE
+    iso_a3: NER
+    fips: NG
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Niger
+-
+    id: NF
+    iso_a3: NFK
+    fips: NF
+    wfb: 1
+    ethnologue: 1
+    continent: OC
+    name: Norfolk Island
+-
+    id: NG
+    iso_a3: NGA
+    fips: NI
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Nigeria
+-
+    id: NI
+    iso_a3: NIC
+    fips: NU
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: Nicaragua
+-
+    id: NL
+    iso_a3: NLD
+    fips: NL
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Netherlands
+-
+    id: NO
+    iso_a3: NOR
+    fips: NO
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Norway
+-
+    id: NP
+    iso_a3: NPL
+    fips: NP
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Nepal
+-
+    id: NR
+    iso_a3: NRU
+    fips: NR
+    wfb: 1
+    ethnologue: 1
+    continent: OC
+    name: Nauru
+-
+    id: NU
+    iso_a3: NIU
+    fips: NE
+    wfb: 1
+    ethnologue: 1
+    continent: OC
+    name: Niue
+-
+    id: NZ
+    iso_a3: NZL
+    fips: NZ
+    wfb: 1
+    ethnologue: 1
+    continent: OC
+    name: New Zealand
+-
+    id: OM
+    iso_a3: OMN
+    fips: MU
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Oman
+-
+    id: PA
+    iso_a3: PAN
+    fips: PM
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: Panama
+-
+    id: PE
+    iso_a3: PER
+    fips: PE
+    wfb: 1
+    ethnologue: 1
+    continent: SA
+    name: Peru
+-
+    id: PF
+    iso_a3: PYF
+    fips: FP
+    wfb: 1
+    ethnologue: 1
+    continent: OC
+    name: French Polynesia
+-
+    id: PG
+    iso_a3: PNG
+    fips: PP
+    wfb: 1
+    ethnologue: 1
+    continent: OC
+    name: Papua New Guinea
+-
+    id: PH
+    iso_a3: PHL
+    fips: RP
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Philippines
+-
+    id: PK
+    iso_a3: PAK
+    fips: PK
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Pakistan
+-
+    id: PL
+    iso_a3: POL
+    fips: PL
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Poland
+-
+    id: PM
+    iso_a3: SPM
+    fips: SB
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: Saint Pierre and Miquelon
+-
+    id: PN
+    iso_a3: PCN
+    fips: PC
+    wfb: 1
+    ethnologue: 1
+    continent: OC
+    name: Pitcairn Islands
+-
+    id: PR
+    iso_a3: PRI
+    fips: RQ
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: Puerto Rico
+-
+    id: PS
+    iso_a3: PSE
+    fips: WE
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Palestine
+-
+    id: PT
+    iso_a3: PRT
+    fips: PO
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Portugal
+-
+    id: PW
+    iso_a3: PLW
+    fips: PS
+    wfb: 1
+    ethnologue: 1
+    continent: OC
+    name: Palau
+-
+    id: PY
+    iso_a3: PRY
+    fips: PA
+    wfb: 1
+    ethnologue: 1
+    continent: SA
+    name: Paraguay
+-
+    id: QA
+    iso_a3: QAT
+    fips: QA
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Qatar
+-
+    id: RE
+    iso_a3: REU
+    fips: RE
+    wfb: 0
+    ethnologue: 1
+    continent: AF
+    name: Réunion
+-
+    id: RO
+    iso_a3: ROU
+    fips: RO
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Romania
+-
+    id: RS
+    iso_a3: SRB
+    fips: RI
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Serbia
+-
+    id: RU
+    iso_a3: RUS
+    fips: RS
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Russia
+-
+    id: RW
+    iso_a3: RWA
+    fips: RW
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Rwanda
+-
+    id: SA
+    iso_a3: SAU
+    fips: SA
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Saudi Arabia
+-
+    id: SB
+    iso_a3: SLB
+    fips: BP
+    wfb: 1
+    ethnologue: 1
+    continent: OC
+    name: Solomon Islands
+-
+    id: SC
+    iso_a3: SYC
+    fips: SE
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Seychelles
+-
+    id: SD
+    iso_a3: SDN
+    fips: SU
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Sudan
+-
+    id: SE
+    iso_a3: SWE
+    fips: SW
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Sweden
+-
+    id: SG
+    iso_a3: SGP
+    fips: SN
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Singapore
+-
+    id: SH
+    iso_a3: SHN
+    fips: SH
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Saint Helena
+-
+    id: SI
+    iso_a3: SVN
+    fips: SI
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Slovenia
+-
+    id: SJ
+    iso_a3: SJM
+    fips: SV
+    wfb: 1
+    ethnologue: 0
+    continent: EU
+    name: Svalbard and Jan Mayen
+-
+    id: SK
+    iso_a3: SVK
+    fips: LO
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Slovakia
+-
+    id: SL
+    iso_a3: SLE
+    fips: SL
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Sierra Leone
+-
+    id: SM
+    iso_a3: SMR
+    fips: SM
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: San Marino
+-
+    id: SN
+    iso_a3: SEN
+    fips: SG
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Senegal
+-
+    id: SO
+    iso_a3: SOM
+    fips: SO
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Somalia
+-
+    id: SR
+    iso_a3: SUR
+    fips: NS
+    wfb: 1
+    ethnologue: 1
+    continent: SA
+    name: Suriname
+-
+    id: SS
+    iso_a3: SSD
+    fips: OD
+    wfb: 1
+    ethnologue: 0
+    continent: AF
+    name: South Sudan
+-
+    id: ST
+    iso_a3: STP
+    fips: TP
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: São Tomé and Príncipe
+-
+    id: SV
+    iso_a3: SLV
+    fips: ES
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: El Salvador
+-
+    id: SX
+    iso_a3: SXM
+    fips: NN
+    wfb: 1
+    ethnologue: 0
+    continent: NA
+    name: Sint Maarten
+-
+    id: SY
+    iso_a3: SYR
+    fips: SY
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Syria
+-
+    id: SZ
+    iso_a3: SWZ
+    fips: WZ
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Swaziland
+-
+    id: TC
+    iso_a3: TCA
+    fips: TK
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: Turks and Caicos Islands
+-
+    id: TD
+    iso_a3: TCD
+    fips: CD
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Chad
+-
+    id: TF
+    iso_a3: ATF
+    fips: FS
+    wfb: 1
+    ethnologue: 0
+    continent: AN
+    name: French Southern Territories
+-
+    id: TG
+    iso_a3: TGO
+    fips: TO
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Togo
+-
+    id: TH
+    iso_a3: THA
+    fips: TH
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Thailand
+-
+    id: TJ
+    iso_a3: TJK
+    fips: TI
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Tajikistan
+-
+    id: TK
+    iso_a3: TKL
+    fips: TL
+    wfb: 1
+    ethnologue: 1
+    continent: OC
+    name: Tokelau
+-
+    id: TL
+    iso_a3: TLS
+    fips: TT
+    wfb: 1
+    ethnologue: 1
+    continent: OC
+    name: East Timor
+-
+    id: TM
+    iso_a3: TKM
+    fips: TX
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Turkmenistan
+-
+    id: TN
+    iso_a3: TUN
+    fips: TS
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Tunisia
+-
+    id: TO
+    iso_a3: TON
+    fips: TN
+    wfb: 1
+    ethnologue: 1
+    continent: OC
+    name: Tonga
+-
+    id: TR
+    iso_a3: TUR
+    fips: TU
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Turkey
+-
+    id: TT
+    iso_a3: TTO
+    fips: TD
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: Trinidad and Tobago
+-
+    id: TV
+    iso_a3: TUV
+    fips: TV
+    wfb: 1
+    ethnologue: 1
+    continent: OC
+    name: Tuvalu
+-
+    id: TW
+    iso_a3: TWN
+    fips: TW
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Taiwan
+-
+    id: TZ
+    iso_a3: TZA
+    fips: TZ
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Tanzania
+-
+    id: UA
+    iso_a3: UKR
+    fips: UP
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Ukraine
+-
+    id: UG
+    iso_a3: UGA
+    fips: UG
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Uganda
+-
+    id: UM
+    iso_a3: UMI
+    fips: NULL
+    wfb: 0
+    ethnologue: 0
+    continent: OC
+    name: U.S. Minor Outlying Islands
+-
+    id: US
+    iso_a3: USA
+    fips: US
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: United States
+-
+    id: UY
+    iso_a3: URY
+    fips: UY
+    wfb: 1
+    ethnologue: 1
+    continent: SA
+    name: Uruguay
+-
+    id: UZ
+    iso_a3: UZB
+    fips: UZ
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Uzbekistan
+-
+    id: VA
+    iso_a3: VAT
+    fips: VT
+    wfb: 1
+    ethnologue: 1
+    continent: EU
+    name: Vatican City
+-
+    id: VC
+    iso_a3: VCT
+    fips: VC
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: Saint Vincent and the Grenadines
+-
+    id: VE
+    iso_a3: VEN
+    fips: VE
+    wfb: 1
+    ethnologue: 1
+    continent: SA
+    name: Venezuela
+-
+    id: VG
+    iso_a3: VGB
+    fips: VI
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: British Virgin Islands
+-
+    id: VI
+    iso_a3: VIR
+    fips: VQ
+    wfb: 1
+    ethnologue: 1
+    continent: NA
+    name: U.S. Virgin Islands
+-
+    id: VN
+    iso_a3: VNM
+    fips: VM
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Vietnam
+-
+    id: VU
+    iso_a3: VUT
+    fips: NH
+    wfb: 1
+    ethnologue: 1
+    continent: OC
+    name: Vanuatu
+-
+    id: WF
+    iso_a3: WLF
+    fips: WF
+    wfb: 1
+    ethnologue: 1
+    continent: OC
+    name: Wallis and Futuna
+-
+    id: WS
+    iso_a3: WSM
+    fips: WS
+    wfb: 1
+    ethnologue: 1
+    continent: OC
+    name: Samoa
+-
+    id: XK
+    iso_a3: XKX
+    fips: KV
+    wfb: 1
+    ethnologue: 0
+    continent: EU
+    name: Kosovo
+-
+    id: YE
+    iso_a3: YEM
+    fips: YM
+    wfb: 1
+    ethnologue: 1
+    continent: AS
+    name: Yemen
+-
+    id: YT
+    iso_a3: MYT
+    fips: MF
+    wfb: 0
+    ethnologue: 1
+    continent: AF
+    name: Mayotte
+-
+    id: ZA
+    iso_a3: ZAF
+    fips: SF
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: South Africa
+-
+    id: ZM
+    iso_a3: ZMB
+    fips: ZA
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Zambia
+-
+    id: ZW
+    iso_a3: ZWE
+    fips: ZI
+    wfb: 1
+    ethnologue: 1
+    continent: AF
+    name: Zimbabwe
