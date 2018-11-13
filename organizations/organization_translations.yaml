@@ -1,0 +1,7751 @@
+---
+-
+    language_id: 68
+    organization_id: 123
+    vernacular: 0
+    name: Bybelgenootskap van Suid-Afrika
+-
+    language_id: 1003
+    organization_id: 51
+    vernacular: 0
+    name: Българско библейско дружество
+-
+    language_id: 1003
+    organization_id: 1138
+    vernacular: 0
+    name: Петър Евангелатов
+-
+    language_id: 2534
+    organization_id: 81
+    vernacular: 0
+    name: Lembaga Alkitab Indonesia
+-
+    language_id: 2595
+    organization_id: 575
+    vernacular: 0
+    name: Sosiedat di Beibel
+-
+    language_id: 3969
+    organization_id: 92
+    vernacular: 0
+    name: Pertubuhan Bible Malaysia
+-
+    language_id: 4754
+    organization_id: 1
+    vernacular: 0
+    name: अमेरिकन बाइबल सोसाइटी
+-
+    language_id: 4754
+    organization_id: 2
+    vernacular: 0
+    name: बाइबल लिग अफ क्यानाडा
+-
+    language_id: 4754
+    organization_id: 3
+    vernacular: 0
+    name: अन्तर्राष्ट्रीय बाइबल लिग
+-
+    language_id: 4754
+    organization_id: 4
+    vernacular: 0
+    name: बिब्लिका
+-
+    language_id: 4754
+    organization_id: 5
+    vernacular: 0
+    name: क्रस्वे (सु समाचार प्रकाशकहरू)
+-
+    language_id: 4754
+    organization_id: 6
+    vernacular: 0
+    name: ढोका अन्तर्राष्ट्रीय
+-
+    language_id: 4754
+    organization_id: 7
+    vernacular: 0
+    name: डबर
+-
+    language_id: 4754
+    organization_id: 8
+    vernacular: 0
+    name: डिजिटल बाइबल सोसाइटी
+-
+    language_id: 4754
+    organization_id: 9
+    vernacular: 0
+    name: विश्वास सुनेर अऊँदछ
+-
+    language_id: 4754
+    organization_id: 9
+    vernacular: 0
+    name: होसन्ना सेवाकाइ
+-
+    language_id: 4754
+    organization_id: 10
+    vernacular: 0
+    name: बाइबल अनुवाद संस्थान
+-
+    language_id: 4754
+    organization_id: 11
+    vernacular: 0
+    name: लुथरन बाइबल अनुवादकहरू
+-
+    language_id: 4754
+    organization_id: 12
+    vernacular: 0
+    name: मर्स हील प्रडच्यांस / आशा
+-
+    language_id: 4754
+    organization_id: 13
+    vernacular: 0
+    name: नू त्राइब्स मिशन
+-
+    language_id: 4754
+    organization_id: 14
+    vernacular: 0
+    name: एक आशा
+-
+    language_id: 4754
+    organization_id: 15
+    vernacular: 0
+    name: खुला ढोकाहरू
+-
+    language_id: 4754
+    organization_id: 16
+    vernacular: 0
+    name: अग्रगामी बाइबल अनुवादकहरू
+-
+    language_id: 4754
+    organization_id: 17
+    vernacular: 0
+    name: अन्तर्राष्ट्रिय धर्मशास्त्र संघ
+-
+    language_id: 4754
+    organization_id: 18
+    vernacular: 0
+    name: एस जी यम जीवन शब्दहरू
+-
+    language_id: 4754
+    organization_id: 19
+    vernacular: 0
+    name: एस आइ यल अन्तर्राष्ट्रिय
+-
+    language_id: 4754
+    organization_id: 20
+    vernacular: 0
+    name: सिम
+-
+    language_id: 4754
+    organization_id: 21
+    vernacular: 0
+    name: अन्तर्राष्ट्रीय बोल्ने बाइबलहरू
+-
+    language_id: 4754
+    organization_id: 22
+    vernacular: 0
+    name: टेलर विश्वविद्यालय धर्मशास्त्र केन्द्र
+-
+    language_id: 4754
+    organization_id: 23
+    vernacular: 0
+    name: बाइबल अनुवादकहरूको लागि घर
+-
+    language_id: 4754
+    organization_id: 24
+    vernacular: 0
+    name: येशू फ्लिम परियोजना
+-
+    language_id: 4754
+    organization_id: 25
+    vernacular: 0
+    name: बीउ कम्पनी
+-
+    language_id: 4754
+    organization_id: 26
+    vernacular: 0
+    name: विश्वलाई वचन बाइबल अनुवादकहरू
+-
+    language_id: 4754
+    organization_id: 27
+    vernacular: 0
+    name: संयुक्त बाइबल समाजहरू
+-
+    language_id: 4754
+    organization_id: 28
+    vernacular: 0
+    name: भर्चुअल भंडार
+-
+    language_id: 4754
+    organization_id: 29
+    vernacular: 0
+    name: संसार मिशन
+-
+    language_id: 4754
+    organization_id: 31
+    vernacular: 0
+    name: सबै सन्तहरू उत्तर अमेरिका अर्थोडक्स मण्डली
+-
+    language_id: 4754
+    organization_id: 32
+    vernacular: 0
+    name: अमेजन एभान्जेलिकल मिशन
+-
+    language_id: 4754
+    organization_id: 33
+    vernacular: 0
+    name: अमेरिकी ब्यापटिस्ट मिशन प्रेस
+-
+    language_id: 4754
+    organization_id: 34
+    vernacular: 0
+    name: विदेशी मिशनको लागि अमेरिकी आयुक्त बोर्ड
+-
+    language_id: 4754
+    organization_id: 35
+    vernacular: 0
+    name: अमेरिकी प्रस्बिटरियन मण्डली
+-
+    language_id: 4754
+    organization_id: 36
+    vernacular: 0
+    name: मित्रता प्रकसर्ण कम्पनी
+-
+    language_id: 4754
+    organization_id: 37
+    vernacular: 0
+    name: अर्जेण्टीन बाइबल समाज
+-
+    language_id: 4754
+    organization_id: 38
+    vernacular: 0
+    name: अर्मेनियन प्रेरितिया मण्डली
+-
+    language_id: 4754
+    organization_id: 39
+    vernacular: 0
+    name: अर्मेनियन मिशनरी अमेरिकाको संघ
+-
+    language_id: 4754
+    organization_id: 40
+    vernacular: 0
+    name: बायार्ड
+-
+    language_id: 4754
+    organization_id: 41
+    vernacular: 0
+    name: अष्ट्रेलिया बाइबल समाज
+-
+    language_id: 4754
+    organization_id: 42
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ अल्बानिया
+-
+    language_id: 4754
+    organization_id: 43
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ अङ्गोला
+-
+    language_id: 4754
+    organization_id: 44
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ आर्मेनिया
+-
+    language_id: 4754
+    organization_id: 45
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ बङ्गलादेश
+-
+    language_id: 4754
+    organization_id: 46
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ बेलारुस
+-
+    language_id: 4754
+    organization_id: 47
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ बेनिन
+-
+    language_id: 4754
+    organization_id: 48
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ बोलिभिया
+-
+    language_id: 4754
+    organization_id: 49
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ बोट्सवाना
+-
+    language_id: 4754
+    organization_id: 50
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ ब्राजील
+-
+    language_id: 4754
+    organization_id: 51
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ बुल्गारिया
+-
+    language_id: 4754
+    organization_id: 52
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ बुर्किना फासो
+-
+    language_id: 4754
+    organization_id: 53
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ बुरुण्डी
+-
+    language_id: 4754
+    organization_id: 54
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ कम्बोडिया
+-
+    language_id: 4754
+    organization_id: 55
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ क्यामरुन
+-
+    language_id: 4754
+    organization_id: 56
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ क्यानाडा
+-
+    language_id: 4754
+    organization_id: 57
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ सिलोन
+-
+    language_id: 4754
+    organization_id: 58
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ चाड
+-
+    language_id: 4754
+    organization_id: 59
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ चिली
+-
+    language_id: 4754
+    organization_id: 60
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ चीन
+-
+    language_id: 4754
+    organization_id: 61
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ कोमोरोस
+-
+    language_id: 4754
+    organization_id: 62
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ कोट आइवरी
+-
+    language_id: 4754
+    organization_id: 63
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ डिजिबुटी
+-
+    language_id: 4754
+    organization_id: 64
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ मिश्र
+-
+    language_id: 4754
+    organization_id: 65
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ एरित्रिया
+-
+    language_id: 4754
+    organization_id: 66
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ इथोपिया
+-
+    language_id: 4754
+    organization_id: 67
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ फिनल्याण्ड
+-
+    language_id: 4754
+    organization_id: 68
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ गावोन
+-
+    language_id: 4754
+    organization_id: 69
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ जेनेभा
+-
+    language_id: 4754
+    organization_id: 70
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ जोर्जिया
+-
+    language_id: 4754
+    organization_id: 71
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ जर्मनी
+-
+    language_id: 4754
+    organization_id: 72
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ घाना
+-
+    language_id: 4754
+    organization_id: 73
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ ग्वाटेमालामा
+-
+    language_id: 4754
+    organization_id: 74
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ गुयाना
+-
+    language_id: 4754
+    organization_id: 75
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ हैटी
+-
+    language_id: 4754
+    organization_id: 76
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ हन्डुरास
+-
+    language_id: 4754
+    organization_id: 77
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ हङकङ
+-
+    language_id: 4754
+    organization_id: 78
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ हंगेरी
+-
+    language_id: 4754
+    organization_id: 79
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ आइसल्याण्ड
+-
+    language_id: 4754
+    organization_id: 80
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ भारत
+-
+    language_id: 4754
+    organization_id: 81
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ इन्डोनेशिया
+-
+    language_id: 4754
+    organization_id: 82
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ इस्राएल
+-
+    language_id: 4754
+    organization_id: 83
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ जापान
+-
+    language_id: 4754
+    organization_id: 84
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ केन्या
+-
+    language_id: 4754
+    organization_id: 85
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ कोरिया
+-
+    language_id: 4754
+    organization_id: 86
+    vernacular: 0
+    name: लाटविया बाइबल समाज
+-
+    language_id: 4754
+    organization_id: 87
+    vernacular: 0
+    name: लेबनान बाइबल समाज
+-
+    language_id: 4754
+    organization_id: 88
+    vernacular: 0
+    name: लाइबेरिया बाइबल समाज
+-
+    language_id: 4754
+    organization_id: 89
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ लिथुआनिया
+-
+    language_id: 4754
+    organization_id: 90
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ मालागासी
+-
+    language_id: 4754
+    organization_id: 91
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ मालावी
+-
+    language_id: 4754
+    organization_id: 92
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ मलेशिया
+-
+    language_id: 4754
+    organization_id: 93
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ माली
+-
+    language_id: 4754
+    organization_id: 94
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ माउरिटिअस
+-
+    language_id: 4754
+    organization_id: 95
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ मायोत
+-
+    language_id: 4754
+    organization_id: 96
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ मेक्सिको
+-
+    language_id: 4754
+    organization_id: 97
+    vernacular: 0
+    name: माइक्रोनेशिया बाइबल समाज
+-
+    language_id: 4754
+    organization_id: 98
+    vernacular: 0
+    name: मङ्गोलिया बाइबल समाज
+-
+    language_id: 4754
+    organization_id: 99
+    vernacular: 0
+    name: मोरक्को बाइबल समाज
+-
+    language_id: 4754
+    organization_id: 100
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ मोजाम्बिक
+-
+    language_id: 4754
+    organization_id: 101
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ म्यानमार
+-
+    language_id: 4754
+    organization_id: 102
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ नामिबिया
+-
+    language_id: 4754
+    organization_id: 103
+    vernacular: 0
+    name: नेपाल बाइबल समाज
+-
+    language_id: 4754
+    organization_id: 104
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ न्यूजील्याण्ड
+-
+    language_id: 4754
+    organization_id: 105
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ निकारागुआ
+-
+    language_id: 4754
+    organization_id: 106
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ नाइजेरिया
+-
+    language_id: 4754
+    organization_id: 107
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ नर्वे
+-
+    language_id: 4754
+    organization_id: 108
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ पाकिस्तान
+-
+    language_id: 4754
+    organization_id: 109
+    vernacular: 0
+    name: पनामा बाइबल समाज
+-
+    language_id: 4754
+    organization_id: 110
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ पपुवा न्यू गिनी
+-
+    language_id: 4754
+    organization_id: 111
+    vernacular: 0
+    name: प्यारागुये बाइबल समाज
+-
+    language_id: 4754
+    organization_id: 112
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ पेरु
+-
+    language_id: 4754
+    organization_id: 113
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ पोल्याण्ड
+-
+    language_id: 4754
+    organization_id: 114
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ पोर्चुगल
+-
+    language_id: 4754
+    organization_id: 115
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ रोमानिया
+-
+    language_id: 4754
+    organization_id: 116
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ रूस
+-
+    language_id: 4754
+    organization_id: 117
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ रवान्डा
+-
+    language_id: 4754
+    organization_id: 118
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ सेनेगल
+-
+    language_id: 4754
+    organization_id: 119
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ सियरा लियोन
+-
+    language_id: 4754
+    organization_id: 120
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ सिंगापुर
+-
+    language_id: 4754
+    organization_id: 121
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ स्लोभेनिया
+-
+    language_id: 4754
+    organization_id: 122
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ सोमालिया
+-
+    language_id: 4754
+    organization_id: 123
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ दक्षिण अफ्रिका
+-
+    language_id: 4754
+    organization_id: 124
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ दक्षिण सुडान
+-
+    language_id: 4754
+    organization_id: 125
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ स्पेन
+-
+    language_id: 4754
+    organization_id: 126
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ श्रीलंका
+-
+    language_id: 4754
+    organization_id: 127
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ सुरिनाम
+-
+    language_id: 4754
+    organization_id: 128
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ स्वाजील्याण्ड
+-
+    language_id: 4754
+    organization_id: 129
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ स्वीडेन
+-
+    language_id: 4754
+    organization_id: 130
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ ताइवान
+-
+    language_id: 4754
+    organization_id: 131
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ तान्जानिया
+-
+    language_id: 4754
+    organization_id: 132
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ थाईल्याण्ड
+-
+    language_id: 4754
+    organization_id: 133
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ मध्य अफ्रिकी गणतन्त्र
+-
+    language_id: 4754
+    organization_id: 134
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ चेक गणतन्त्र
+-
+    language_id: 4754
+    organization_id: 135
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ कंगो लोकतान्त्रिक गणतन्त्र
+-
+    language_id: 4754
+    organization_id: 136
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ डोमिनिकन गणतन्त्र
+-
+    language_id: 4754
+    organization_id: 137
+    vernacular: 0
+    name: पूर्व क्यारेबियन बाइबल समाज
+-
+    language_id: 4754
+    organization_id: 138
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ गाम्बिया
+-
+    language_id: 4754
+    organization_id: 139
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ नेदरल्यान्ड्स
+-
+    language_id: 4754
+    organization_id: 140
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ फिलिपिन्स
+-
+    language_id: 4754
+    organization_id: 141
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ दक्षिण प्यासिफिक
+-
+    language_id: 4754
+    organization_id: 142
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ टोगो
+-
+    language_id: 4754
+    organization_id: 143
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ टर्की
+-
+    language_id: 4754
+    organization_id: 144
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ युगांडा
+-
+    language_id: 4754
+    organization_id: 145
+    vernacular: 0
+    name: युक्रेन बाइबल समाज
+-
+    language_id: 4754
+    organization_id: 146
+    vernacular: 0
+    name: भियतनाम बाइबल समाज
+-
+    language_id: 4754
+    organization_id: 147
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ वेस्ट इन्डिज
+-
+    language_id: 4754
+    organization_id: 148
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ जाम्बिया
+-
+    language_id: 4754
+    organization_id: 149
+    vernacular: 0
+    name: बाइबल सोसाइटी अफ जिम्बाब्वे
+-
+    language_id: 4754
+    organization_id: 150
+    vernacular: 0
+    name: अन्तर्राष्ट्रीय बाइबलहरू
+-
+    language_id: 4754
+    organization_id: 151
+    vernacular: 0
+    name: बाइबल अध्ययन प्रेस
+-
+    language_id: 4754
+    organization_id: 152
+    vernacular: 0
+    name: ब्रेपल्स प्रकाशकहरू
+-
+    language_id: 4754
+    organization_id: 153
+    vernacular: 0
+    name: ब्रिटिश र विदेशी बाइबल समाज
+-
+    language_id: 4754
+    organization_id: 155
+    vernacular: 0
+    name: कलकत्ता सहायक बाइबल समाज
+-
+    language_id: 4754
+    organization_id: 156
+    vernacular: 0
+    name: बाइबल अनुवाद र साक्षरता लागि क्यामरुन संघ
+-
+    language_id: 4754
+    organization_id: 157
+    vernacular: 0
+    name: कार्पे दिएम मिडिया
+-
+    language_id: 4754
+    organization_id: 158
+    vernacular: 0
+    name: क्याथोलिक बाइबल फाउंडेशन
+-
+    language_id: 4754
+    organization_id: 159
+    vernacular: 0
+    name: क्याथोलिक बाइबल सोसाइटी
+-
+    language_id: 4754
+    organization_id: 160
+    vernacular: 0
+    name: बङ्गलादेश को क्याथोलिक बिशप सम्मेलन
+-
+    language_id: 4754
+    organization_id: 161
+    vernacular: 0
+    name: छेरोकी बाइबल परियोजना
+-
+    language_id: 4754
+    organization_id: 162
+    vernacular: 0
+    name: अन्तर्राष्ट्रीय चीनको बाइबल
+-
+    language_id: 4754
+    organization_id: 163
+    vernacular: 0
+    name: वीक्लिफ ग्लोबल एलाइन्स
+-
+    language_id: 4754
+    organization_id: 164
+    vernacular: 0
+    name: मण्डली मिशनरी समाज
+-
+    language_id: 4754
+    organization_id: 165
+    vernacular: 0
+    name: क्लारेतियान् प्रकाशर्ण
+-
+    language_id: 4754
+    organization_id: 166
+    vernacular: 0
+    name: कंकर्दंत प्रकाशर्ण कोंसेर्ण
+-
+    language_id: 4754
+    organization_id: 167
+    vernacular: 0
+    name: कुने चट्टान सेवाकाइ
+-
+    language_id: 4754
+    organization_id: 168
+    vernacular: 0
+    name: कर्निश बाइबल परियोजना
+-
+    language_id: 4754
+    organization_id: 169
+    vernacular: 0
+    name: कर्निश भाषा बोर्ड
+-
+    language_id: 4754
+    organization_id: 170
+    vernacular: 0
+    name: देनिश बाइबल समाज
+-
+    language_id: 4754
+    organization_id: 171
+    vernacular: 0
+    name: डविद सी कुक
+-
+    language_id: 4754
+    organization_id: 172
+    vernacular: 0
+    name: बहरा बाइबल
+-
+    language_id: 4754
+    organization_id: 173
+    vernacular: 0
+    name: डेस्कले ब्रवेर
+-
+    language_id: 4754
+    organization_id: 174
+    vernacular: 0
+    name: किछे मण्डली
+-
+    language_id: 4754
+    organization_id: 175
+    vernacular: 0
+    name: पूर्वी हिमालयन भाषा र साक्षरता परियोजना
+-
+    language_id: 4754
+    organization_id: 176
+    vernacular: 0
+    name: क्लिए संपादकीय
+-
+    language_id: 4754
+    organization_id: 177
+    vernacular: 0
+    name: एलम सेवाकाइ
+-
+    language_id: 4754
+    organization_id: 178
+    vernacular: 0
+    name: एभेरताईप
+-
+    language_id: 4754
+    organization_id: 179
+    vernacular: 0
+    name: एफ एच बादर
+-
+    language_id: 4754
+    organization_id: 180
+    vernacular: 0
+    name: फयर्द
+-
+    language_id: 4754
+    organization_id: 181
+    vernacular: 0
+    name: फिनिस लूथेराण चर्च
+-
+    language_id: 4754
+    organization_id: 182
+    vernacular: 0
+    name: फोल्क र स्प्राक
+-
+    language_id: 4754
+    organization_id: 183
+    vernacular: 0
+    name: फ्रान्सेली बाइबल समाज
+-
+    language_id: 4754
+    organization_id: 184
+    vernacular: 0
+    name: आशा ढोकाहरू फ्न्दचन
+-
+    language_id: 4754
+    organization_id: 185
+    vernacular: 0
+    name: गलिमार्ड
+-
+    language_id: 4754
+    organization_id: 186
+    vernacular: 0
+    name: घाना को भाषा बिज्ञान साक्षरता र बाइबल अनुवाद संस्थान
+-
+    language_id: 4754
+    organization_id: 187
+    vernacular: 0
+    name: गिलक मिडिया
+-
+    language_id: 4754
+    organization_id: 188
+    vernacular: 0
+    name: ग्लोबल बाइबल पहल
+-
+    language_id: 4754
+    organization_id: 189
+    vernacular: 0
+    name: विश्व रिकर्डिङ नेटवर्क
+-
+    language_id: 4754
+    organization_id: 190
+    vernacular: 0
+    name: समूह व्याख्या घण्टाको पूजन पद्धति
+-
+    language_id: 4754
+    organization_id: 191
+    vernacular: 0
+    name: एच रस्वल
+-
+    language_id: 4754
+    organization_id: 192
+    vernacular: 0
+    name: हागेफेन
+-
+    language_id: 4754
+    organization_id: 193
+    vernacular: 0
+    name: हार्पर कलिंस
+-
+    language_id: 4754
+    organization_id: 194
+    vernacular: 0
+    name: हेलेन मैनेर मिलर
+-
+    language_id: 4754
+    organization_id: 195
+    vernacular: 0
+    name: ह्ल्लेनिक बाइबल समाज
+-
+    language_id: 4754
+    organization_id: 196
+    vernacular: 0
+    name: हल्मन बाइबल प्रकाशकहरू
+-
+    language_id: 4754
+    organization_id: 197
+    vernacular: 0
+    name: वेल्स को लागि आशा
+-
+    language_id: 4754
+    organization_id: 199
+    vernacular: 0
+    name: काटालुन्य एभान्जेलिकल बाइबल संस्थान
+-
+    language_id: 4754
+    organization_id: 200
+    vernacular: 0
+    name: हेल्सिन्की - बाइबल अनुवाद लागि संस्थान
+-
+    language_id: 4754
+    organization_id: 201
+    vernacular: 0
+    name: मास्को - बाइबल अनुवाद लागि संस्थान
+-
+    language_id: 4754
+    organization_id: 202
+    vernacular: 0
+    name: स्टकहोम - बाइबल अनुवाद संस्थान
+-
+    language_id: 4754
+    organization_id: 203
+    vernacular: 0
+    name: अन्तर्राष्ट्रिय शरिफ बाइबल समाज
+-
+    language_id: 4754
+    organization_id: 204
+    vernacular: 0
+    name: आयोवा र सक मिशन प्रेस
+-
+    language_id: 4754
+    organization_id: 205
+    vernacular: 0
+    name: जक ब्लान्को
+-
+    language_id: 4754
+    organization_id: 206
+    vernacular: 0
+    name: यहूदी प्रकाशन समाज
+-
+    language_id: 4754
+    organization_id: 207
+    vernacular: 0
+    name: कैरोस् अन्तर्राष्ट्रिय
+-
+    language_id: 4754
+    organization_id: 208
+    vernacular: 0
+    name: केइल हेवेत मण्डली
+-
+    language_id: 4754
+    organization_id: 209
+    vernacular: 0
+    name: केरल क्याथोलिक बाइबल समाज
+-
+    language_id: 4754
+    organization_id: 210
+    vernacular: 0
+    name: किन्द्रेड प्रदक्चंस
+-
+    language_id: 4754
+    organization_id: 211
+    vernacular: 0
+    name: असल उपन्यास
+-
+    language_id: 4754
+    organization_id: 212
+    vernacular: 0
+    name: बाइबल घर
+-
+    language_id: 4754
+    organization_id: 213
+    vernacular: 0
+    name: लागुना मिशन प्रेस
+-
+    language_id: 4754
+    organization_id: 214
+    vernacular: 0
+    name: लाकोटा बाइबल अनुवाद परियोजना
+-
+    language_id: 4754
+    organization_id: 215
+    vernacular: 0
+    name: ले सेर्फ
+-
+    language_id: 4754
+    organization_id: 216
+    vernacular: 0
+    name: लेदेरेर माशिह सेवाकाइ
+-
+    language_id: 4754
+    organization_id: 217
+    vernacular: 0
+    name: शव्द प्यारावे
+-
+    language_id: 4754
+    organization_id: 218
+    vernacular: 0
+    name: व्यटिकन एदित्रिसे पुस्ताकालय
+-
+    language_id: 4754
+    organization_id: 219
+    vernacular: 0
+    name: जीवन वाक्य
+-
+    language_id: 4754
+    organization_id: 220
+    vernacular: 0
+    name: बाइबल लिग अफ पेरु
+-
+    language_id: 4754
+    organization_id: 221
+    vernacular: 0
+    name: घरको बिस्व बाइबल लिग
+-
+    language_id: 4754
+    organization_id: 222
+    vernacular: 0
+    name: लुथरन मण्डली नाइजेरिया
+-
+    language_id: 4754
+    organization_id: 223
+    vernacular: 0
+    name: बीउ रोप्ने लिग
+-
+    language_id: 4754
+    organization_id: 224
+    vernacular: 0
+    name: साक्षरता र बाइबल अनुवाद
+-
+    language_id: 4754
+    organization_id: 225
+    vernacular: 0
+    name: जीवित स्रोत सेवाकाइ
+-
+    language_id: 4754
+    organization_id: 226
+    vernacular: 0
+    name: लगस बाइबल सफ्टवेयर
+-
+    language_id: 4754
+    organization_id: 227
+    vernacular: 0
+    name: लौकस फाउंडेशन
+-
+    language_id: 4754
+    organization_id: 228
+    vernacular: 0
+    name: मल्दोवाई
+-
+    language_id: 4754
+    organization_id: 229
+    vernacular: 0
+    name: मंक्स गाएलिक समाज
+-
+    language_id: 4754
+    organization_id: 230
+    vernacular: 0
+    name: मार्गरेट जंक
+-
+    language_id: 4754
+    organization_id: 231
+    vernacular: 0
+    name: मेरिक्नोल
+-
+    language_id: 4754
+    organization_id: 232
+    vernacular: 0
+    name: ख्रीष्टको दूतहरू
+-
+    language_id: 4754
+    organization_id: 233
+    vernacular: 0
+    name: मसीही यहूदी परिवार बाइबल समाज
+-
+    language_id: 4754
+    organization_id: 234
+    vernacular: 0
+    name: मेथोडिस्ट एपिस्कोपल मिशन प्रेस
+-
+    language_id: 4754
+    organization_id: 235
+    vernacular: 0
+    name: माइकल जे मक्गिल
+-
+    language_id: 4754
+    organization_id: 236
+    vernacular: 0
+    name: सैनिक बाइबल संघ
+-
+    language_id: 4754
+    organization_id: 237
+    vernacular: 0
+    name: मिशन सहयोग शामिल
+-
+    language_id: 4754
+    organization_id: 238
+    vernacular: 0
+    name: मिट्ला स्टूडियोहरू
+-
+    language_id: 4754
+    organization_id: 239
+    vernacular: 0
+    name: आधुनिक बाइबल अनुवादहरू
+-
+    language_id: 4754
+    organization_id: 240
+    vernacular: 0
+    name: मङ्गोलियन बाइबल अनुवाद समिति
+-
+    language_id: 4754
+    organization_id: 241
+    vernacular: 0
+    name: मङ्गोलियन संघ बाइबल समाज
+-
+    language_id: 4754
+    organization_id: 242
+    vernacular: 0
+    name: न्यूफाउन्डल्याण्ड लेब्राडार मा मोराभ्याँ मण्डली
+-
+    language_id: 4754
+    organization_id: 243
+    vernacular: 0
+    name: नस्कपी विकास निगम
+-
+    language_id: 4754
+    organization_id: 244
+    vernacular: 0
+    name: नथन टरल
+-
+    language_id: 4754
+    organization_id: 245
+    vernacular: 0
+    name: आयरल्याण्ड राष्ट्रीय बाइबल समाज
+-
+    language_id: 4754
+    organization_id: 246
+    vernacular: 0
+    name: स्कटल्याण्ड को राष्ट्रीय
+-
+    language_id: 4754
+    organization_id: 247
+    vernacular: 0
+    name: नवा जीवन साहित्य
+-
+    language_id: 4754
+    organization_id: 248
+    vernacular: 0
+    name: न्यूयोर्क बाइबल समाज
+-
+    language_id: 4754
+    organization_id: 249
+    vernacular: 0
+    name: नाइजेरिया बाइबल अनुवाद ट्रस्ट
+-
+    language_id: 4754
+    organization_id: 250
+    vernacular: 0
+    name: निशाद एच काइपाली
+-
+    language_id: 4754
+    organization_id: 251
+    vernacular: 0
+    name: नर्वे बाइबल
+-
+    language_id: 4754
+    organization_id: 252
+    vernacular: 0
+    name: उत्तर थाईल्याण्ड ईसाई मिशन
+-
+    language_id: 4754
+    organization_id: 253
+    vernacular: 0
+    name: नर्वे साम्गालेट
+-
+    language_id: 4754
+    organization_id: 254
+    vernacular: 0
+    name: ओ एम एफ अन्तर्राष्ट्रीय फिलिपिन्स
+-
+    language_id: 4754
+    organization_id: 255
+    vernacular: 0
+    name: प्रवासी मिशनरी वृत्ति
+-
+    language_id: 4754
+    organization_id: 256
+    vernacular: 0
+    name: अक्सफोर्ड: क्लारेन्दों प्रेस
+-
+    language_id: 4754
+    organization_id: 257
+    vernacular: 0
+    name: पकार्ड र वनबेन्तुइसेन्
+-
+    language_id: 4754
+    organization_id: 258
+    vernacular: 0
+    name: पालतिन बाइबल क्लब
+-
+    language_id: 4754
+    organization_id: 259
+    vernacular: 0
+    name: पलोतिनम प्रकाशकहरू
+-
+    language_id: 4754
+    organization_id: 260
+    vernacular: 0
+    name: पामीर प्रडकचन्स
+-
+    language_id: 4754
+    organization_id: 261
+    vernacular: 0
+    name: पार्क हील मिशन प्रेस
+-
+    language_id: 4754
+    organization_id: 262
+    vernacular: 0
+    name: प्रायद्वीप बाइबल मण्डली
+-
+    language_id: 4754
+    organization_id: 263
+    vernacular: 0
+    name: पर्केंस धर्मशास्त्र स्कूल
+-
+    language_id: 4754
+    organization_id: 264
+    vernacular: 0
+    name: पी एन जी बाइबल अनुवाद संघ
+-
+    language_id: 4754
+    organization_id: 265
+    vernacular: 0
+    name: ताइवान मा प्रेस्बिटेरियन चर्च
+-
+    language_id: 4754
+    organization_id: 266
+    vernacular: 0
+    name: आदिम मेथोडिस्ट मण्डली
+-
+    language_id: 4754
+    organization_id: 267
+    vernacular: 0
+    name: पी अर एम् अन्तर्राष्ट्रिय
+-
+    language_id: 4754
+    organization_id: 268
+    vernacular: 0
+    name: बाबेल परियोजना
+-
+    language_id: 4754
+    organization_id: 269
+    vernacular: 0
+    name: सार्वजनिक आधिकार
+-
+    language_id: 4754
+    organization_id: 270
+    vernacular: 0
+    name: रेईमा प्रकाशकहरू
+-
+    language_id: 4754
+    organization_id: 271
+    vernacular: 0
+    name: रोमानेस-अर्बिट मर्बर्ग इ बि
+-
+    language_id: 4754
+    organization_id: 272
+    vernacular: 0
+    name: रूसी अर्थोडक्स अलास्का मिशन
+-
+    language_id: 4754
+    organization_id: 273
+    vernacular: 0
+    name: रूसी आध्यात्मिक मिशन
+-
+    language_id: 4754
+    organization_id: 274
+    vernacular: 0
+    name: संत एस्तेफानस समाज
+-
+    language_id: 4754
+    organization_id: 275
+    vernacular: 0
+    name: हरेक मानिस्को लागि धर्मशास्त्र अनुवाद
+-
+    language_id: 4754
+    organization_id: 276
+    vernacular: 0
+    name: सेविल
+-
+    language_id: 4754
+    organization_id: 277
+    vernacular: 0
+    name: एभान्जेलिकल चर्च को shuar संघ
+-
+    language_id: 4754
+    organization_id: 278
+    vernacular: 0
+    name: इस्लोबाक बाइबल सोसाइटी
+-
+    language_id: 4754
+    organization_id: 279
+    vernacular: 0
+    name: मसीही ज्ञान प्रवर्धनका लागि समाज
+-
+    language_id: 4754
+    organization_id: 280
+    vernacular: 0
+    name: बाइबलीय साहित्य समाज
+-
+    language_id: 4754
+    organization_id: 281
+    vernacular: 0
+    name: सर्बोच्च आनुग्रह प्रकाशकहरू
+-
+    language_id: 4754
+    organization_id: 282
+    vernacular: 0
+    name: स्पाइरिस ए गेर्नोउ
+-
+    language_id: 4754
+    organization_id: 283
+    vernacular: 0
+    name: जरोम प्रकाशन
+-
+    language_id: 4754
+    organization_id: 284
+    vernacular: 0
+    name: पावल प्रकाशन
+-
+    language_id: 4754
+    organization_id: 285
+    vernacular: 0
+    name: विद्यार्थी भाषा संघ
+-
+    language_id: 4754
+    organization_id: 286
+    vernacular: 0
+    name: लोकप्रिय बाइबल स्विडिश फाउंडेशन
+-
+    language_id: 4754
+    organization_id: 287
+    vernacular: 0
+    name: स्विडिश मिशन एलियाँस
+-
+    language_id: 4754
+    organization_id: 288
+    vernacular: 0
+    name: द लक्मन फ्न्देचन
+-
+    language_id: 4754
+    organization_id: 289
+    vernacular: 0
+    name: अनुवाद समिती
+-
+    language_id: 4754
+    organization_id: 290
+    vernacular: 0
+    name: शिकागो प्रेस विश्वविद्यालय
+-
+    language_id: 4754
+    organization_id: 291
+    vernacular: 0
+    name: थमस नल्सन
+-
+    language_id: 4754
+    organization_id: 292
+    vernacular: 0
+    name: Tiospaye बाइबल एंव
+-
+    language_id: 4754
+    organization_id: 293
+    vernacular: 0
+    name: टोरन्टो सहायक बाइबल समाज
+-
+    language_id: 4754
+    organization_id: 294
+    vernacular: 0
+    name: त्रिएक बाइबल सोसाइटी
+-
+    language_id: 4754
+    organization_id: 295
+    vernacular: 0
+    name: तिन्देल प्रकाशकहरू हाउस
+-
+    language_id: 4754
+    organization_id: 296
+    vernacular: 0
+    name: अमेरिका विश्व मिशन केन्द्र
+-
+    language_id: 4754
+    organization_id: 297
+    vernacular: 0
+    name: ऊइगुर्चे मुकेदेस किताब जेमियिती
+-
+    language_id: 4754
+    organization_id: 298
+    vernacular: 0
+    name: बेरेन प्रकाशकहरू
+-
+    language_id: 4754
+    organization_id: 299
+    vernacular: 0
+    name: आगुवारिको प्रेरितिया पास्टर
+-
+    language_id: 4754
+    organization_id: 300
+    vernacular: 0
+    name: VoKo
+-
+    language_id: 4754
+    organization_id: 301
+    vernacular: 0
+    name: आनुग्रहको शब्द सेवाकाइ
+-
+    language_id: 4754
+    organization_id: 302
+    vernacular: 0
+    name: विश्व बाइबल अनुवाद केन्द्र
+-
+    language_id: 4754
+    organization_id: 303
+    vernacular: 0
+    name: विश्व दल
+-
+    language_id: 4754
+    organization_id: 304
+    vernacular: 0
+    name: संसार बाइबल सोसाइटी
+-
+    language_id: 4754
+    organization_id: 305
+    vernacular: 0
+    name: ययसन सम्बर सेजातेरा
+-
+    language_id: 4754
+    organization_id: 306
+    vernacular: 0
+    name: यनी यसम ययिन्लारी
+-
+    language_id: 4754
+    organization_id: 307
+    vernacular: 0
+    name: जन्दर्बन प्रकाशन हाउस
+-
+    language_id: 4754
+    organization_id: 308
+    vernacular: 0
+    name: ज्यूरिख धर्मशास्त्र प्रकाशक
+-
+    language_id: 4754
+    organization_id: 309
+    vernacular: 0
+    name: GNPI
+-
+    language_id: 5580
+    organization_id: 113
+    vernacular: 0
+    name: Towarzystwo Biblijne w Polsce
+-
+    language_id: 5580
+    organization_id: 562
+    vernacular: 1
+    name: Ewangeliczny Instytut Bibilijny
+-
+    language_id: 5580
+    organization_id: 568
+    vernacular: 0
+    name: Society for World Internet Mission
+-
+    language_id: 5580
+    organization_id: 569
+    vernacular: 0
+    name: Finnish Bible Society
+-
+    language_id: 5580
+    organization_id: 570
+    vernacular: 0
+    name: Imatt Solutions
+-
+    language_id: 5580
+    organization_id: 571
+    vernacular: 0
+    name: Press Bible
+-
+    language_id: 5580
+    organization_id: 572
+    vernacular: 0
+    name: Library for All
+-
+    language_id: 5580
+    organization_id: 573
+    vernacular: 0
+    name: Short Sands
+-
+    language_id: 5598
+    organization_id: 598
+    vernacular: 1
+    name: Editora Mundo Cristão
+-
+    language_id: 5598
+    organization_id: 783
+    vernacular: 0
+    name: La Liga Biblica
+-
+    language_id: 5779
+    organization_id: 728
+    vernacular: 0
+    name: Societăţii Biblice Interconfesionale din România
+-
+    language_id: 6405
+    organization_id: 719
+    vernacular: 0
+    name: Shoqëria Biblike Ndërkonfesionale e Shqipërisë
+-
+    language_id: 6411
+    organization_id: 1
+    vernacular: 0
+    name: Sociedad Bíblica Americana
+-
+    language_id: 6411
+    organization_id: 2
+    vernacular: 0
+    name: Liga Bíblica de Canadá
+-
+    language_id: 6411
+    organization_id: 3
+    vernacular: 0
+    name: Liga Bíblica Internacional
+-
+    language_id: 6411
+    organization_id: 4
+    vernacular: 0
+    name: Bíblica
+-
+    language_id: 6411
+    organization_id: 4
+    vernacular: 0
+    name: Biblica, Inc.
+-
+    language_id: 6411
+    organization_id: 5
+    vernacular: 0
+    name: Crossway (Publicaciones Buenas Nuevas)
+-
+    language_id: 6411
+    organization_id: 6
+    vernacular: 0
+    name: D.O.O.R Internacional
+-
+    language_id: 6411
+    organization_id: 7
+    vernacular: 0
+    name: DAVAR
+-
+    language_id: 6411
+    organization_id: 8
+    vernacular: 0
+    name: Sociedad Bíblica Digital
+-
+    language_id: 6411
+    organization_id: 9
+    vernacular: 0
+    name: Fe Viene por el Oír
+-
+    language_id: 6411
+    organization_id: 9
+    vernacular: 0
+    name: Ministerios Hosana
+-
+    language_id: 6411
+    organization_id: 10
+    vernacular: 0
+    name: Instituto para la Traducción Bíblica
+-
+    language_id: 6411
+    organization_id: 11
+    vernacular: 0
+    name: Traductores de Biblia Luteranos
+-
+    language_id: 6411
+    organization_id: 12
+    vernacular: 0
+    name: Producciones Mars Hill / La Esperanza
+-
+    language_id: 6411
+    organization_id: 13
+    vernacular: 0
+    name: Misión Nuevas Tribus
+-
+    language_id: 6411
+    organization_id: 14
+    vernacular: 0
+    name: UnaEsperanza
+-
+    language_id: 6411
+    organization_id: 15
+    vernacular: 0
+    name: Puertas Abiertas
+-
+    language_id: 6411
+    organization_id: 16
+    vernacular: 0
+    name: Traducteurs Pionniers de la Bible
+-
+    language_id: 6411
+    organization_id: 16
+    vernacular: 0
+    name: Traductores Bíblicos Pioneros
+-
+    language_id: 6411
+    organization_id: 17
+    vernacular: 0
+    name: Unión de la Escritura Internacional
+-
+    language_id: 6411
+    organization_id: 18
+    vernacular: 0
+    name: Palabras de Vida
+-
+    language_id: 6411
+    organization_id: 19
+    vernacular: 0
+    name: ILV Internacional
+-
+    language_id: 6411
+    organization_id: 20
+    vernacular: 0
+    name: SIM
+-
+    language_id: 6411
+    organization_id: 20
+    vernacular: 0
+    name: SIM International
+-
+    language_id: 6411
+    organization_id: 21
+    vernacular: 0
+    name: Biblias Hablantes Internacional
+-
+    language_id: 6411
+    organization_id: 22
+    vernacular: 0
+    name: Centro para Exposición Escritural de la Universidad Taylor
+-
+    language_id: 6411
+    organization_id: 23
+    vernacular: 0
+    name: El Hogar para Traductores Bíblicos
+-
+    language_id: 6411
+    organization_id: 24
+    vernacular: 0
+    name: El Proyecto de la Película Jesús
+-
+    language_id: 6411
+    organization_id: 25
+    vernacular: 0
+    name: Compañía de la Semilla
+-
+    language_id: 6411
+    organization_id: 26
+    vernacular: 0
+    name: Traductores Bíblicos La Palabra para el Mundo
+-
+    language_id: 6411
+    organization_id: 27
+    vernacular: 0
+    name: Sociedades Bíblicas Unidas
+-
+    language_id: 6411
+    organization_id: 28
+    vernacular: 0
+    name: Almacén Virtual
+-
+    language_id: 6411
+    organization_id: 29
+    vernacular: 0
+    name: Misión Mundial
+-
+    language_id: 6411
+    organization_id: 31
+    vernacular: 0
+    name: Iglesia Ortodoxa Todos los Santos de Norteamérica
+-
+    language_id: 6411
+    organization_id: 32
+    vernacular: 0
+    name: Misión Evangélica del Amazonas
+-
+    language_id: 6411
+    organization_id: 33
+    vernacular: 0
+    name: Imprenta de la Misión Bautista Americana
+-
+    language_id: 6411
+    organization_id: 34
+    vernacular: 0
+    name: Junta Americana de los Comisionados para Misiones Foráneas
+-
+    language_id: 6411
+    organization_id: 35
+    vernacular: 0
+    name: Iglesia Presbiteriana Americana
+-
+    language_id: 6411
+    organization_id: 36
+    vernacular: 0
+    name: Compañía Impresora de la Concordia
+-
+    language_id: 6411
+    organization_id: 37
+    vernacular: 0
+    name: Sociedad Bíblica Argentina
+-
+    language_id: 6411
+    organization_id: 38
+    vernacular: 0
+    name: Iglesia Apostólica Armenia
+-
+    language_id: 6411
+    organization_id: 39
+    vernacular: 0
+    name: Asociación Misionera Armenia de América
+-
+    language_id: 6411
+    organization_id: 40
+    vernacular: 0
+    name: Bayard
+-
+    language_id: 6411
+    organization_id: 41
+    vernacular: 0
+    name: Sociedad Bíblica de Australia
+-
+    language_id: 6411
+    organization_id: 42
+    vernacular: 0
+    name: Sociedad Bíblica de Albania
+-
+    language_id: 6411
+    organization_id: 43
+    vernacular: 0
+    name: Sociedad Bíblica de Angola
+-
+    language_id: 6411
+    organization_id: 44
+    vernacular: 0
+    name: Sociedad Bíblica de Armenia
+-
+    language_id: 6411
+    organization_id: 45
+    vernacular: 0
+    name: Sociedad Bíblica de Bangladesh
+-
+    language_id: 6411
+    organization_id: 46
+    vernacular: 0
+    name: Sociedad Bíblica de Belorusia
+-
+    language_id: 6411
+    organization_id: 47
+    vernacular: 0
+    name: Sociedad Bíblica de Benin
+-
+    language_id: 6411
+    organization_id: 48
+    vernacular: 0
+    name: Sociedad Bíblica Boliviana
+-
+    language_id: 6411
+    organization_id: 49
+    vernacular: 0
+    name: Sociedad Bíblica en Botswana
+-
+    language_id: 6411
+    organization_id: 50
+    vernacular: 0
+    name: Sociedade Bíblica do Brasil
+-
+    language_id: 6411
+    organization_id: 51
+    vernacular: 0
+    name: Sociedad Bíblica de Bulgaria
+-
+    language_id: 6411
+    organization_id: 52
+    vernacular: 0
+    name: Sociedad Bíblica de Burkina Faso
+-
+    language_id: 6411
+    organization_id: 53
+    vernacular: 0
+    name: Sociedad Bíblica de Burundi
+-
+    language_id: 6411
+    organization_id: 54
+    vernacular: 0
+    name: Sociedad Bíblica de Camboya
+-
+    language_id: 6411
+    organization_id: 55
+    vernacular: 0
+    name: Sociedad Bíblica de Camerún
+-
+    language_id: 6411
+    organization_id: 56
+    vernacular: 0
+    name: Sociedad Bíblica de Canadá
+-
+    language_id: 6411
+    organization_id: 57
+    vernacular: 0
+    name: Sociedad Bíblica de Ceilón
+-
+    language_id: 6411
+    organization_id: 58
+    vernacular: 0
+    name: Sociedad Bíblica de Chad
+-
+    language_id: 6411
+    organization_id: 60
+    vernacular: 0
+    name: Sociedad Bíblica de China
+-
+    language_id: 6411
+    organization_id: 61
+    vernacular: 0
+    name: Sociedad Bíblica de Comoros
+-
+    language_id: 6411
+    organization_id: 62
+    vernacular: 0
+    name: Sociedad Bíblica de Costa de Marfil
+-
+    language_id: 6411
+    organization_id: 63
+    vernacular: 0
+    name: Sociedad Bíblica de Djibouti
+-
+    language_id: 6411
+    organization_id: 64
+    vernacular: 0
+    name: Sociedad Bíblica de Egipto
+-
+    language_id: 6411
+    organization_id: 65
+    vernacular: 0
+    name: Sociedad Bíblica de Eritrea
+-
+    language_id: 6411
+    organization_id: 66
+    vernacular: 0
+    name: Sociedad Bíblica de Etiopía
+-
+    language_id: 6411
+    organization_id: 67
+    vernacular: 0
+    name: Sociedad Bíblica de Finlandia
+-
+    language_id: 6411
+    organization_id: 68
+    vernacular: 0
+    name: Sociedad Bíblica de Gabón
+-
+    language_id: 6411
+    organization_id: 69
+    vernacular: 0
+    name: Sociedad Bíblica de Génova
+-
+    language_id: 6411
+    organization_id: 70
+    vernacular: 0
+    name: Sociedad Bíblica de Georgia
+-
+    language_id: 6411
+    organization_id: 71
+    vernacular: 0
+    name: Sociedad Bíblica de Alemania
+-
+    language_id: 6411
+    organization_id: 72
+    vernacular: 0
+    name: Sociedad Bíblica de Ghana
+-
+    language_id: 6411
+    organization_id: 73
+    vernacular: 0
+    name: Sociedad Bíblica de Guatemala
+-
+    language_id: 6411
+    organization_id: 74
+    vernacular: 0
+    name: Sociedad Bíblica de Guyana
+-
+    language_id: 6411
+    organization_id: 75
+    vernacular: 0
+    name: Sociedad Bíblica de Haití
+-
+    language_id: 6411
+    organization_id: 76
+    vernacular: 0
+    name: Sociedad Bíblica de Honduras
+-
+    language_id: 6411
+    organization_id: 77
+    vernacular: 0
+    name: Sociedad Bíblica de Hong Kong
+-
+    language_id: 6411
+    organization_id: 78
+    vernacular: 0
+    name: Sociedad Bíblica Húngara
+-
+    language_id: 6411
+    organization_id: 79
+    vernacular: 0
+    name: Sociedad Bíblica de Islandia
+-
+    language_id: 6411
+    organization_id: 80
+    vernacular: 0
+    name: Sociedad Bíblica de India
+-
+    language_id: 6411
+    organization_id: 81
+    vernacular: 0
+    name: Sociedad Bíblica de Indonesia
+-
+    language_id: 6411
+    organization_id: 82
+    vernacular: 0
+    name: Sociedad Bíblica de Israel
+-
+    language_id: 6411
+    organization_id: 83
+    vernacular: 0
+    name: Sociedad Bíblica de Japón
+-
+    language_id: 6411
+    organization_id: 84
+    vernacular: 0
+    name: Sociedad Bíblica de Kenya
+-
+    language_id: 6411
+    organization_id: 85
+    vernacular: 0
+    name: Sociedad Bíblica de Corea
+-
+    language_id: 6411
+    organization_id: 86
+    vernacular: 0
+    name: Sociedad Bíblica de Letonia
+-
+    language_id: 6411
+    organization_id: 87
+    vernacular: 0
+    name: Sociedad Bíblica del Líbano
+-
+    language_id: 6411
+    organization_id: 88
+    vernacular: 0
+    name: Sociedad Bíblica de Liberia
+-
+    language_id: 6411
+    organization_id: 89
+    vernacular: 0
+    name: Sociedad Bíblica de Lithuania
+-
+    language_id: 6411
+    organization_id: 90
+    vernacular: 0
+    name: Sociedad Bíblica de Malagasy
+-
+    language_id: 6411
+    organization_id: 91
+    vernacular: 0
+    name: Sociedad Bíblica de Malawi
+-
+    language_id: 6411
+    organization_id: 92
+    vernacular: 0
+    name: Sociedad Bíblica de Malasia
+-
+    language_id: 6411
+    organization_id: 93
+    vernacular: 0
+    name: Sociedad Bíblica de Mali
+-
+    language_id: 6411
+    organization_id: 94
+    vernacular: 0
+    name: Sociedad Bíblica de Mauricio
+-
+    language_id: 6411
+    organization_id: 95
+    vernacular: 0
+    name: Sociedad Bíblica de Mayotte
+-
+    language_id: 6411
+    organization_id: 96
+    vernacular: 0
+    name: Sociedad Bíblica de México
+-
+    language_id: 6411
+    organization_id: 97
+    vernacular: 0
+    name: Sociedad Bíblica de Micronesia
+-
+    language_id: 6411
+    organization_id: 98
+    vernacular: 0
+    name: Sociedad Bíblica de Mongolia
+-
+    language_id: 6411
+    organization_id: 99
+    vernacular: 0
+    name: Sociedad Bíblica de Marruecos
+-
+    language_id: 6411
+    organization_id: 100
+    vernacular: 0
+    name: Sociedad Bíblica de Mozambique
+-
+    language_id: 6411
+    organization_id: 101
+    vernacular: 0
+    name: Sociedad Bíblica de Myanmar
+-
+    language_id: 6411
+    organization_id: 102
+    vernacular: 0
+    name: Sociedad Bíblica de Namibia
+-
+    language_id: 6411
+    organization_id: 103
+    vernacular: 0
+    name: Sociedad Bíblica de Nepal
+-
+    language_id: 6411
+    organization_id: 104
+    vernacular: 0
+    name: Sociedad Bíblica de Nueva Zelanda
+-
+    language_id: 6411
+    organization_id: 105
+    vernacular: 0
+    name: Sociedad Bíblica de Nicaragua
+-
+    language_id: 6411
+    organization_id: 106
+    vernacular: 0
+    name: Sociedad Bíblica de Nigeria
+-
+    language_id: 6411
+    organization_id: 107
+    vernacular: 0
+    name: Sociedad Bíblica de Noruega
+-
+    language_id: 6411
+    organization_id: 108
+    vernacular: 0
+    name: Sociedad Bíblica de Paquistán
+-
+    language_id: 6411
+    organization_id: 109
+    vernacular: 0
+    name: Sociedad Bíblica de Panamá
+-
+    language_id: 6411
+    organization_id: 110
+    vernacular: 0
+    name: Sociedad Bíblica de Papua Nueva Guinea
+-
+    language_id: 6411
+    organization_id: 112
+    vernacular: 0
+    name: Sociedad Bíblica Peruana
+-
+    language_id: 6411
+    organization_id: 113
+    vernacular: 0
+    name: Sociedad Bíblica de Polonia
+-
+    language_id: 6411
+    organization_id: 114
+    vernacular: 0
+    name: Sociedade Bíblica de Portugal
+-
+    language_id: 6411
+    organization_id: 115
+    vernacular: 0
+    name: Sociedad Bíblica de Rumania
+-
+    language_id: 6411
+    organization_id: 116
+    vernacular: 0
+    name: Sociedad Bíblica de Rusia
+-
+    language_id: 6411
+    organization_id: 117
+    vernacular: 0
+    name: Sociedad Bíblica de Rwanda
+-
+    language_id: 6411
+    organization_id: 118
+    vernacular: 0
+    name: Sociedad Bíblica de Senegal
+-
+    language_id: 6411
+    organization_id: 119
+    vernacular: 0
+    name: Sociedad Bíblica de Sierra Leona
+-
+    language_id: 6411
+    organization_id: 120
+    vernacular: 0
+    name: Sociedad Bíblica de Singapur
+-
+    language_id: 6411
+    organization_id: 121
+    vernacular: 0
+    name: Sociedad Bíblica de Eslovenia
+-
+    language_id: 6411
+    organization_id: 122
+    vernacular: 0
+    name: Sociedad Bíblica de Somalia
+-
+    language_id: 6411
+    organization_id: 123
+    vernacular: 0
+    name: Sociedad Bíblica de Sudáfrica
+-
+    language_id: 6411
+    organization_id: 124
+    vernacular: 0
+    name: Sociedad Bíblica de Sudán del Sur
+-
+    language_id: 6411
+    organization_id: 125
+    vernacular: 0
+    name: Sociedad Bíblica de España
+-
+    language_id: 6411
+    organization_id: 126
+    vernacular: 0
+    name: Sociedad Bíblica de Sri Lanka
+-
+    language_id: 6411
+    organization_id: 127
+    vernacular: 0
+    name: Sociedad Bíblica de Surinam
+-
+    language_id: 6411
+    organization_id: 128
+    vernacular: 0
+    name: Sociedad Bíblica de Swazilandia
+-
+    language_id: 6411
+    organization_id: 129
+    vernacular: 0
+    name: Sociedad Bíblica de Sweden
+-
+    language_id: 6411
+    organization_id: 130
+    vernacular: 0
+    name: Sociedad Bíblica de Taiwan
+-
+    language_id: 6411
+    organization_id: 131
+    vernacular: 0
+    name: Sociedad Bíblica de Tanzania
+-
+    language_id: 6411
+    organization_id: 132
+    vernacular: 0
+    name: Sociedad Bíblica de Tailandia
+-
+    language_id: 6411
+    organization_id: 133
+    vernacular: 0
+    name: Sociedad Bíblica de la República Africana Central
+-
+    language_id: 6411
+    organization_id: 134
+    vernacular: 0
+    name: Sociedad Bíblica de la República Checa
+-
+    language_id: 6411
+    organization_id: 135
+    vernacular: 0
+    name: Sociedad Bíblica de la República Democrática del Congo
+-
+    language_id: 6411
+    organization_id: 136
+    vernacular: 0
+    name: Sociedad Bíblica de la República Dominicana
+-
+    language_id: 6411
+    organization_id: 137
+    vernacular: 0
+    name: Sociedad Bíblica del Caribe Oriental
+-
+    language_id: 6411
+    organization_id: 138
+    vernacular: 0
+    name: Sociedad Bíblica de Gambia
+-
+    language_id: 6411
+    organization_id: 139
+    vernacular: 0
+    name: Sociedad Bíblica de los Países Bajos
+-
+    language_id: 6411
+    organization_id: 140
+    vernacular: 0
+    name: Sociedad Bíblica de Las Filipinas
+-
+    language_id: 6411
+    organization_id: 141
+    vernacular: 0
+    name: Sociedad Bíblica en el Pacífico Sur
+-
+    language_id: 6411
+    organization_id: 142
+    vernacular: 0
+    name: Sociedad Bíblica de Togo
+-
+    language_id: 6411
+    organization_id: 143
+    vernacular: 0
+    name: Sociedad Bíblica de Turquía
+-
+    language_id: 6411
+    organization_id: 144
+    vernacular: 0
+    name: Sociedad Bíblica de Uganda
+-
+    language_id: 6411
+    organization_id: 145
+    vernacular: 0
+    name: Sociedad Bíblica de Ucrania
+-
+    language_id: 6411
+    organization_id: 146
+    vernacular: 0
+    name: Sociedad Bíblica de Vietnam
+-
+    language_id: 6411
+    organization_id: 147
+    vernacular: 0
+    name: Sociedad Bíblica de las Antillas
+-
+    language_id: 6411
+    organization_id: 148
+    vernacular: 0
+    name: Sociedad Bíblica de Zambia
+-
+    language_id: 6411
+    organization_id: 149
+    vernacular: 0
+    name: Sociedad Bíblica de Zimbabwe
+-
+    language_id: 6411
+    organization_id: 150
+    vernacular: 0
+    name: Biblias Internacional
+-
+    language_id: 6411
+    organization_id: 151
+    vernacular: 0
+    name: Imprenta de Estudios Bíblicos
+-
+    language_id: 6411
+    organization_id: 152
+    vernacular: 0
+    name: Publicadores Brepols
+-
+    language_id: 6411
+    organization_id: 153
+    vernacular: 0
+    name: Sociedad Bíblica Británica Foránea
+-
+    language_id: 6411
+    organization_id: 155
+    vernacular: 0
+    name: Sociedad Bíblica Auxiliar de Calcuta
+-
+    language_id: 6411
+    organization_id: 156
+    vernacular: 0
+    name: Asociación de Camerún para Traducción Bíblica y Alfabetismo
+-
+    language_id: 6411
+    organization_id: 157
+    vernacular: 0
+    name: Carpe Diem Media
+-
+    language_id: 6411
+    organization_id: 158
+    vernacular: 0
+    name: Fundación Bíblica Católica
+-
+    language_id: 6411
+    organization_id: 159
+    vernacular: 0
+    name: Sociedad Bíblica Católica
+-
+    language_id: 6411
+    organization_id: 160
+    vernacular: 0
+    name: Conferencia de Obispos Católicos de Bangladesh
+-
+    language_id: 6411
+    organization_id: 161
+    vernacular: 0
+    name: Proyecto de Biblia Cherokí
+-
+    language_id: 6411
+    organization_id: 162
+    vernacular: 0
+    name: Biblia China Internacional
+-
+    language_id: 6411
+    organization_id: 163
+    vernacular: 0
+    name: Alianza Global Wycliffe
+-
+    language_id: 6411
+    organization_id: 164
+    vernacular: 0
+    name: Sociedad Misionera Iglesia
+-
+    language_id: 6411
+    organization_id: 165
+    vernacular: 0
+    name: Publicaciones Claterianas
+-
+    language_id: 6411
+    organization_id: 166
+    vernacular: 0
+    name: Publicaciones Concordantes
+-
+    language_id: 6411
+    organization_id: 167
+    vernacular: 0
+    name: Ministerios Piedra Angular
+-
+    language_id: 6411
+    organization_id: 168
+    vernacular: 0
+    name: Proyecto Bíblico Cornish
+-
+    language_id: 6411
+    organization_id: 169
+    vernacular: 0
+    name: Junta de Idioma Cornish
+-
+    language_id: 6411
+    organization_id: 170
+    vernacular: 0
+    name: Sociedad Bíblica Danesa
+-
+    language_id: 6411
+    organization_id: 171
+    vernacular: 0
+    name: David C. Cook
+-
+    language_id: 6411
+    organization_id: 172
+    vernacular: 0
+    name: Biblia para Sordos
+-
+    language_id: 6411
+    organization_id: 173
+    vernacular: 0
+    name: Desclée De Brouwer
+-
+    language_id: 6411
+    organization_id: 174
+    vernacular: 0
+    name: Diócesis de Quiché
+-
+    language_id: 6411
+    organization_id: 175
+    vernacular: 0
+    name: Proyecto de Idioma y Alfabetización del Himalaya Oriental
+-
+    language_id: 6411
+    organization_id: 176
+    vernacular: 0
+    name: Editorial CLIE
+-
+    language_id: 6411
+    organization_id: 177
+    vernacular: 0
+    name: Ministerios Elam
+-
+    language_id: 6411
+    organization_id: 178
+    vernacular: 0
+    name: Evertype
+-
+    language_id: 6411
+    organization_id: 179
+    vernacular: 0
+    name: F.H. Baader
+-
+    language_id: 6411
+    organization_id: 180
+    vernacular: 0
+    name: Fayard
+-
+    language_id: 6411
+    organization_id: 181
+    vernacular: 0
+    name: Iglesia Luterana Finlandesa
+-
+    language_id: 6411
+    organization_id: 182
+    vernacular: 0
+    name: Folk&Språk
+-
+    language_id: 6411
+    organization_id: 183
+    vernacular: 0
+    name: Sociedad Bíblica Francesa
+-
+    language_id: 6411
+    organization_id: 184
+    vernacular: 0
+    name: Fundación de Esperanza Puertas
+-
+    language_id: 6411
+    organization_id: 185
+    vernacular: 0
+    name: Gallimard
+-
+    language_id: 6411
+    organization_id: 186
+    vernacular: 0
+    name: Instituto Lingüístico de Alfabetización y Traducción de la Biblia de Ghana
+-
+    language_id: 6411
+    organization_id: 187
+    vernacular: 0
+    name: Gilak Media
+-
+    language_id: 6411
+    organization_id: 188
+    vernacular: 0
+    name: Iniciativa Global de la Biblia
+-
+    language_id: 6411
+    organization_id: 189
+    vernacular: 0
+    name: Red de Grabaciones Globales
+-
+    language_id: 6411
+    organization_id: 190
+    vernacular: 0
+    name: Grupo de Interpretación La Liturgia de las Horas
+-
+    language_id: 6411
+    organization_id: 191
+    vernacular: 0
+    name: H Roswell
+-
+    language_id: 6411
+    organization_id: 192
+    vernacular: 0
+    name: Publicaciones HaGefen
+-
+    language_id: 6411
+    organization_id: 193
+    vernacular: 0
+    name: HarperCollins
+-
+    language_id: 6411
+    organization_id: 194
+    vernacular: 0
+    name: Helen Miner Miller
+-
+    language_id: 6411
+    organization_id: 195
+    vernacular: 0
+    name: Sociedad Bíblica Helénica
+-
+    language_id: 6411
+    organization_id: 196
+    vernacular: 0
+    name: Publicadores de Biblia Holman
+-
+    language_id: 6411
+    organization_id: 197
+    vernacular: 0
+    name: Esperanza para Gales
+-
+    language_id: 6411
+    organization_id: 199
+    vernacular: 0
+    name: Institució Bíblica Evangèlica de Catalunya
+-
+    language_id: 6411
+    organization_id: 200
+    vernacular: 0
+    name: Instituto para la Traducción Bíblica - Helsinki
+-
+    language_id: 6411
+    organization_id: 201
+    vernacular: 0
+    name: Instituto para la Traducción Bíblica - Moscú
+-
+    language_id: 6411
+    organization_id: 202
+    vernacular: 0
+    name: Instituto para la Traducción Bíblica - Estocolmo
+-
+    language_id: 6411
+    organization_id: 203
+    vernacular: 0
+    name: Sociedad Bíblica Internacional Sharif
+-
+    language_id: 6411
+    organization_id: 204
+    vernacular: 0
+    name: Imprenta Misionera de Iowa y Sac
+-
+    language_id: 6411
+    organization_id: 205
+    vernacular: 0
+    name: Jack Blanco
+-
+    language_id: 6411
+    organization_id: 206
+    vernacular: 0
+    name: Sociedad de Publicación Judía
+-
+    language_id: 6411
+    organization_id: 207
+    vernacular: 0
+    name: Kairos Internacional
+-
+    language_id: 6411
+    organization_id: 208
+    vernacular: 0
+    name: Iglesia Kale Heywet
+-
+    language_id: 6411
+    organization_id: 209
+    vernacular: 0
+    name: Sociedad Bíblica Católica de Kerala
+-
+    language_id: 6411
+    organization_id: 210
+    vernacular: 0
+    name: Producciones Kindred
+-
+    language_id: 6411
+    organization_id: 211
+    vernacular: 0
+    name: La Buona Novella
+-
+    language_id: 6411
+    organization_id: 212
+    vernacular: 0
+    name: La Casa de la Biblia
+-
+    language_id: 6411
+    organization_id: 213
+    vernacular: 0
+    name: Imprenta Misionera Laguna
+-
+    language_id: 6411
+    organization_id: 214
+    vernacular: 0
+    name: Proyecto de Traducción Bíblica Lakota
+-
+    language_id: 6411
+    organization_id: 215
+    vernacular: 0
+    name: Le Cerf
+-
+    language_id: 6411
+    organization_id: 216
+    vernacular: 0
+    name: Ministerios Mesiánicos Lederer
+-
+    language_id: 6411
+    organization_id: 217
+    vernacular: 0
+    name: LETRA Paraguay
+-
+    language_id: 6411
+    organization_id: 218
+    vernacular: 0
+    name: Libreria Editrice Vaticana
+-
+    language_id: 6411
+    organization_id: 219
+    vernacular: 0
+    name: SENTENCIA DE VIDA
+-
+    language_id: 6411
+    organization_id: 220
+    vernacular: 0
+    name: Liga Bíblica del Peru
+-
+    language_id: 6411
+    organization_id: 221
+    vernacular: 0
+    name: Liga Biblica Mundial del Hogar
+-
+    language_id: 6411
+    organization_id: 222
+    vernacular: 0
+    name: Iglesia Luterana de Nigeria
+-
+    language_id: 6411
+    organization_id: 223
+    vernacular: 0
+    name: Liga del Sembrador
+-
+    language_id: 6411
+    organization_id: 224
+    vernacular: 0
+    name: Traducción Bíblica y Alfabetismo
+-
+    language_id: 6411
+    organization_id: 225
+    vernacular: 0
+    name: Ministerio Fuente Viva
+-
+    language_id: 6411
+    organization_id: 226
+    vernacular: 0
+    name: Software Bíblico Logos
+-
+    language_id: 6411
+    organization_id: 227
+    vernacular: 0
+    name: Fundación Loukas
+-
+    language_id: 6411
+    organization_id: 228
+    vernacular: 0
+    name: Malvoday
+-
+    language_id: 6411
+    organization_id: 229
+    vernacular: 0
+    name: Soiedad Galesa Manx
+-
+    language_id: 6411
+    organization_id: 230
+    vernacular: 0
+    name: Margaret Jank
+-
+    language_id: 6411
+    organization_id: 231
+    vernacular: 0
+    name: Maryknoll
+-
+    language_id: 6411
+    organization_id: 232
+    vernacular: 0
+    name: Mensajero de Cristo
+-
+    language_id: 6411
+    organization_id: 233
+    vernacular: 0
+    name: Sociedad Bíblica de la Familia Judía Mesiánica
+-
+    language_id: 6411
+    organization_id: 234
+    vernacular: 0
+    name: Imprenta Misionera Metodista Episcopal
+-
+    language_id: 6411
+    organization_id: 235
+    vernacular: 0
+    name: Michael J. Magill
+-
+    language_id: 6411
+    organization_id: 236
+    vernacular: 0
+    name: Asociación Bíblica Militar
+-
+    language_id: 6411
+    organization_id: 237
+    vernacular: 0
+    name: Misión Aides Incorporada
+-
+    language_id: 6411
+    organization_id: 238
+    vernacular: 0
+    name: Estudios Mitla
+-
+    language_id: 6411
+    organization_id: 239
+    vernacular: 0
+    name: Traducciones Bíblicas Modernas
+-
+    language_id: 6411
+    organization_id: 240
+    vernacular: 0
+    name: Comité de Traducción Bíblica de Mongolia
+-
+    language_id: 6411
+    organization_id: 241
+    vernacular: 0
+    name: Sociedad Bíblica de la Unión de Mongolia
+-
+    language_id: 6411
+    organization_id: 242
+    vernacular: 0
+    name: Iglesia Morava de Newfoundland y Labrador
+-
+    language_id: 6411
+    organization_id: 243
+    vernacular: 0
+    name: Corporacón de Desarrollo Naskapi
+-
+    language_id: 6411
+    organization_id: 244
+    vernacular: 0
+    name: Nathan Terrell
+-
+    language_id: 6411
+    organization_id: 245
+    vernacular: 0
+    name: Sociedad Bíblica Nacional de Irlanda
+-
+    language_id: 6411
+    organization_id: 246
+    vernacular: 0
+    name: Nacional de Escocia
+-
+    language_id: 6411
+    organization_id: 247
+    vernacular: 0
+    name: Literatura Nueva Vida
+-
+    language_id: 6411
+    organization_id: 248
+    vernacular: 0
+    name: Sociedad Bíblica de Nueva York
+-
+    language_id: 6411
+    organization_id: 249
+    vernacular: 0
+    name: Fideicomiso de Traducción Bíblica de Nigeria
+-
+    language_id: 6411
+    organization_id: 250
+    vernacular: 0
+    name: Nishad H. Kaippally
+-
+    language_id: 6411
+    organization_id: 251
+    vernacular: 0
+    name: Biblia Noruuega
+-
+    language_id: 6411
+    organization_id: 252
+    vernacular: 0
+    name: Misión Cristiana del Norte de Tailandia
+-
+    language_id: 6411
+    organization_id: 253
+    vernacular: 0
+    name: Samlaget Noruego
+-
+    language_id: 6411
+    organization_id: 254
+    vernacular: 0
+    name: SMU (OMF) Internacional de Filipinas
+-
+    language_id: 6411
+    organization_id: 255
+    vernacular: 0
+    name: Sociedad Misionera de Ultramar
+-
+    language_id: 6411
+    organization_id: 256
+    vernacular: 0
+    name: Oxford: La Imprenta Claredon
+-
+    language_id: 6411
+    organization_id: 257
+    vernacular: 0
+    name: Packard and Van Benthuysen
+-
+    language_id: 6411
+    organization_id: 258
+    vernacular: 0
+    name: Club Bíblico de Palatine
+-
+    language_id: 6411
+    organization_id: 259
+    vernacular: 0
+    name: Publicadores Pallottinum
+-
+    language_id: 6411
+    organization_id: 260
+    vernacular: 0
+    name: Producciones Pamir
+-
+    language_id: 6411
+    organization_id: 261
+    vernacular: 0
+    name: Imprenta Misionera Park Hill
+-
+    language_id: 6411
+    organization_id: 262
+    vernacular: 0
+    name: Iglesia Bíblica de Península
+-
+    language_id: 6411
+    organization_id: 263
+    vernacular: 0
+    name: Escuela de Teología Perkins
+-
+    language_id: 6411
+    organization_id: 264
+    vernacular: 0
+    name: Asociación de Traducción Bíblica PNG
+-
+    language_id: 6411
+    organization_id: 265
+    vernacular: 0
+    name: Iglesia Presbiteriana de Taiwán
+-
+    language_id: 6411
+    organization_id: 266
+    vernacular: 0
+    name: Iglesia Merodista Primitiva
+-
+    language_id: 6411
+    organization_id: 267
+    vernacular: 0
+    name: PRM Internacional
+-
+    language_id: 6411
+    organization_id: 268
+    vernacular: 0
+    name: Proyecto Babel
+-
+    language_id: 6411
+    organization_id: 269
+    vernacular: 0
+    name: Dominio Público
+-
+    language_id: 6411
+    organization_id: 270
+    vernacular: 0
+    name: Publicaciones Reyma
+-
+    language_id: 6411
+    organization_id: 271
+    vernacular: 0
+    name: Romanes-Arbeit Marbug e.V.
+-
+    language_id: 6411
+    organization_id: 272
+    vernacular: 0
+    name: Misión Ortodoxa Rusa de Alaska
+-
+    language_id: 6411
+    organization_id: 273
+    vernacular: 0
+    name: Misión Espiritual Rusa
+-
+    language_id: 6411
+    organization_id: 274
+    vernacular: 0
+    name: Sociedad San Esteban
+-
+    language_id: 6411
+    organization_id: 275
+    vernacular: 0
+    name: Traducción de la Escritura para Cada Pueblo
+-
+    language_id: 6411
+    organization_id: 276
+    vernacular: 0
+    name: Seuil
+-
+    language_id: 6411
+    organization_id: 277
+    vernacular: 0
+    name: AIESE Asociación de Iglesias Evangélicas Shuar
+-
+    language_id: 6411
+    organization_id: 278
+    vernacular: 0
+    name: Sociedad Bíblica Eslovaka
+-
+    language_id: 6411
+    organization_id: 279
+    vernacular: 0
+    name: Sociedad Para la Promoción del Conocimiento Cristiano
+-
+    language_id: 6411
+    organization_id: 280
+    vernacular: 0
+    name: Sociedad de Literatura Bíblica
+-
+    language_id: 6411
+    organization_id: 281
+    vernacular: 0
+    name: Publicaciones Gracia Soberana
+-
+    language_id: 6411
+    organization_id: 282
+    vernacular: 0
+    name: Spyrys a Gernow
+-
+    language_id: 6411
+    organization_id: 283
+    vernacular: 0
+    name: Publicaciones San Jerónimo
+-
+    language_id: 6411
+    organization_id: 284
+    vernacular: 0
+    name: Publicaciones San Pablo
+-
+    language_id: 6411
+    organization_id: 285
+    vernacular: 0
+    name: Asociación Estudiantil de Idioma
+-
+    language_id: 6411
+    organization_id: 286
+    vernacular: 0
+    name: Fundación Sueca de la Biblia Popular
+-
+    language_id: 6411
+    organization_id: 287
+    vernacular: 0
+    name: Alianza Misionera Sueca
+-
+    language_id: 6411
+    organization_id: 288
+    vernacular: 0
+    name: La Fundación Lockman
+-
+    language_id: 6411
+    organization_id: 289
+    vernacular: 0
+    name: El Fideicomiso de Traducción
+-
+    language_id: 6411
+    organization_id: 290
+    vernacular: 0
+    name: La Imprenta de la Universidad de Chicago
+-
+    language_id: 6411
+    organization_id: 291
+    vernacular: 0
+    name: Thomas Nelson, Inc.
+-
+    language_id: 6411
+    organization_id: 292
+    vernacular: 0
+    name: Bautistas Bíblicos de Tiospaye
+-
+    language_id: 6411
+    organization_id: 293
+    vernacular: 0
+    name: Sociedad Bíblica Auxiliar de Toronto
+-
+    language_id: 6411
+    organization_id: 294
+    vernacular: 0
+    name: Sociedad Bíblica Trinitaria
+-
+    language_id: 6411
+    organization_id: 295
+    vernacular: 0
+    name: Casa Publicadora Tyndale
+-
+    language_id: 6411
+    organization_id: 296
+    vernacular: 0
+    name: Centro Estadounidense para la Misión Mundial
+-
+    language_id: 6411
+    organization_id: 297
+    vernacular: 0
+    name: Uyghurche Muqeddes Kitab Jemiyiti (UMKJ)
+-
+    language_id: 6411
+    organization_id: 298
+    vernacular: 0
+    name: Publicadores Veren
+-
+    language_id: 6411
+    organization_id: 299
+    vernacular: 0
+    name: Vicariato Apostolico de Aguarico
+-
+    language_id: 6411
+    organization_id: 300
+    vernacular: 0
+    name: VoKo
+-
+    language_id: 6411
+    organization_id: 301
+    vernacular: 0
+    name: Ministerios Palabras de Gracia
+-
+    language_id: 6411
+    organization_id: 302
+    vernacular: 0
+    name: Centro de Traducción Bíblica Mundial
+-
+    language_id: 6411
+    organization_id: 303
+    vernacular: 0
+    name: Equipo Mundo
+-
+    language_id: 6411
+    organization_id: 304
+    vernacular: 0
+    name: Sociedad Bíblica Mundial
+-
+    language_id: 6411
+    organization_id: 305
+    vernacular: 0
+    name: Yayasan Sumber Sejahtera
+-
+    language_id: 6411
+    organization_id: 306
+    vernacular: 0
+    name: Yeni Yasam Yayinlari
+-
+    language_id: 6411
+    organization_id: 307
+    vernacular: 0
+    name: Casa Publicadora Zondervan
+-
+    language_id: 6411
+    organization_id: 308
+    vernacular: 0
+    name: Publicadores Teológicos de Zúrich
+-
+    language_id: 6411
+    organization_id: 309
+    vernacular: 0
+    name: GNPI
+-
+    language_id: 6411
+    organization_id: 321
+    vernacular: 0
+    name: Dar Al Farabi
+-
+    language_id: 6411
+    organization_id: 334
+    vernacular: 0
+    name: Sociedad Biblica Colombiana
+-
+    language_id: 6411
+    organization_id: 535
+    vernacular: 0
+    name: Sociedad Bíblica de El Salvador
+-
+    language_id: 6411
+    organization_id: 733
+    vernacular: 0
+    name: Sociedad Bíblica de Chilena
+-
+    language_id: 6411
+    organization_id: 781
+    vernacular: 0
+    name: Sociedad Bíblica Paraguaya
+-
+    language_id: 6411
+    organization_id: 866
+    vernacular: 0
+    name: Sociedad Biblica Ecuatoriana
+-
+    language_id: 6411
+    organization_id: 866
+    vernacular: 0
+    name: Sociedades Bíblicas Unidas en Ecuador
+-
+    language_id: 6411
+    organization_id: 1027
+    vernacular: 0
+    name: 'Association Nationale pour la Traduction de la Bible et l''Alphabétisation (ANTBA)'
+-
+    language_id: 6411
+    organization_id: 1028
+    vernacular: 0
+    name: Francisco Garcia
+-
+    language_id: 6411
+    organization_id: 1049
+    vernacular: 1
+    name: Sociedad Internacional Misionera en el Paraguay
+-
+    language_id: 6413
+    organization_id: 47
+    vernacular: 0
+    name: Alliance Biblique du Bénin
+-
+    language_id: 6413
+    organization_id: 47
+    vernacular: 0
+    name: Societe Biblique du Benin
+-
+    language_id: 6413
+    organization_id: 52
+    vernacular: 0
+    name: Alliance Biblique du Burkina Faso
+-
+    language_id: 6413
+    organization_id: 58
+    vernacular: 0
+    name: Alliance Biblique du Tchad
+-
+    language_id: 6413
+    organization_id: 75
+    vernacular: 0
+    name: Société Biblique Haïtienne
+-
+    language_id: 6413
+    organization_id: 118
+    vernacular: 0
+    name: Alliance Biblique du Sénégal
+-
+    language_id: 6413
+    organization_id: 183
+    vernacular: 0
+    name: Société biblique francaise
+-
+    language_id: 6413
+    organization_id: 340
+    vernacular: 0
+    name: Alliance Biblique de Guinée
+-
+    language_id: 6413
+    organization_id: 596
+    vernacular: 1
+    name: Mission Évangélique Neerlandaise
+-
+    language_id: 6413
+    organization_id: 783
+    vernacular: 0
+    name: La Ligue Biblique
+-
+    language_id: 6413
+    organization_id: 847
+    vernacular: 0
+    name: Alliance Biblique du Congo
+-
+    language_id: 6413
+    organization_id: 989
+    vernacular: 0
+    name: La Societe au Rwanda
+-
+    language_id: 6413
+    organization_id: 1027
+    vernacular: 0
+    name: 'L''Assoc Nationale Traduction Bible et l''Alphabt'
+-
+    language_id: 6413
+    organization_id: 1058
+    vernacular: 0
+    name: Mission Evangélique Réformée Néerlandaise
+-
+    language_id: 6414
+    organization_id: 1
+    vernacular: 0
+    name: American Bible Society
+-
+    language_id: 6414
+    organization_id: 2
+    vernacular: 0
+    name: Bible League Canada
+-
+    language_id: 6414
+    organization_id: 3
+    vernacular: 0
+    name: Bible League International
+-
+    language_id: 6414
+    organization_id: 4
+    vernacular: 0
+    name: Biblica
+-
+    language_id: 6414
+    organization_id: 5
+    vernacular: 0
+    name: Crossway
+-
+    language_id: 6414
+    organization_id: 6
+    vernacular: 0
+    name: DOOR International
+-
+    language_id: 6414
+    organization_id: 7
+    vernacular: 0
+    name: Davar Partners International
+-
+    language_id: 6414
+    organization_id: 8
+    vernacular: 0
+    name: Digital Bible Society
+-
+    language_id: 6414
+    organization_id: 9
+    vernacular: 0
+    name: Faith Comes By Hearing
+-
+    language_id: 6414
+    organization_id: 9
+    vernacular: 0
+    name: Hosanna
+-
+    language_id: 6414
+    organization_id: 9
+    vernacular: 0
+    name: Hosanna Ministries
+-
+    language_id: 6414
+    organization_id: 10
+    vernacular: 0
+    name: Institute for Bible Translation
+-
+    language_id: 6414
+    organization_id: 11
+    vernacular: 0
+    name: Lutheran Bible Translators
+-
+    language_id: 6414
+    organization_id: 12
+    vernacular: 0
+    name: Mars Hill
+-
+    language_id: 6414
+    organization_id: 13
+    vernacular: 0
+    name: Ethnos 360
+-
+    language_id: 6414
+    organization_id: 14
+    vernacular: 0
+    name: OneHope
+-
+    language_id: 6414
+    organization_id: 15
+    vernacular: 0
+    name: Open Doors
+-
+    language_id: 6414
+    organization_id: 16
+    vernacular: 0
+    name: Pioneer Bible Translators
+-
+    language_id: 6414
+    organization_id: 17
+    vernacular: 0
+    name: Scripture Union Global Missions
+-
+    language_id: 6414
+    organization_id: 18
+    vernacular: 0
+    name: Lifewords
+-
+    language_id: 6414
+    organization_id: 19
+    vernacular: 0
+    name: SIL International
+-
+    language_id: 6414
+    organization_id: 20
+    vernacular: 0
+    name: SIM
+-
+    language_id: 6414
+    organization_id: 21
+    vernacular: 0
+    name: Talking Bibles International
+-
+    language_id: 6414
+    organization_id: 22
+    vernacular: 0
+    name: Taylor University Center for Scripture Engagement
+-
+    language_id: 6414
+    organization_id: 23
+    vernacular: 0
+    name: Jerusalem Center for Bible Translators
+-
+    language_id: 6414
+    organization_id: 24
+    vernacular: 0
+    name: The JESUS Film Project
+-
+    language_id: 6414
+    organization_id: 25
+    vernacular: 0
+    name: The Seed Company
+-
+    language_id: 6414
+    organization_id: 26
+    vernacular: 0
+    name: The Word for the World
+-
+    language_id: 6414
+    organization_id: 27
+    vernacular: 0
+    name: United Bible Societies
+-
+    language_id: 6414
+    organization_id: 28
+    vernacular: 0
+    name: Virtual Storehouse
+-
+    language_id: 6414
+    organization_id: 29
+    vernacular: 0
+    name: World Mission
+-
+    language_id: 6414
+    organization_id: 30
+    vernacular: 0
+    name: Wycliffe Bible Translators, Inc.
+-
+    language_id: 6414
+    organization_id: 31
+    vernacular: 0
+    name: All Saints of North America Orthodox Church
+-
+    language_id: 6414
+    organization_id: 32
+    vernacular: 0
+    name: Amazon Evangelical Mission
+-
+    language_id: 6414
+    organization_id: 33
+    vernacular: 0
+    name: American Baptist Mission Press
+-
+    language_id: 6414
+    organization_id: 34
+    vernacular: 0
+    name: American Board of Commissioners for Foreign Missions
+-
+    language_id: 6414
+    organization_id: 35
+    vernacular: 0
+    name: American Presbyterian Church
+-
+    language_id: 6414
+    organization_id: 36
+    vernacular: 0
+    name: Amity Printing Company
+-
+    language_id: 6414
+    organization_id: 37
+    vernacular: 0
+    name: Bible Society of Argentina
+-
+    language_id: 6414
+    organization_id: 38
+    vernacular: 0
+    name: Armenian Apostolic Church
+-
+    language_id: 6414
+    organization_id: 39
+    vernacular: 0
+    name: Armenian Missionary Association of America
+-
+    language_id: 6414
+    organization_id: 40
+    vernacular: 0
+    name: Bayard
+-
+    language_id: 6414
+    organization_id: 41
+    vernacular: 0
+    name: Bible Society in Australia
+-
+    language_id: 6414
+    organization_id: 41
+    vernacular: 0
+    name: Bible Society of Australia
+-
+    language_id: 6414
+    organization_id: 42
+    vernacular: 0
+    name: Bible Society of Albania
+-
+    language_id: 6414
+    organization_id: 43
+    vernacular: 0
+    name: Bible Society of Angola
+-
+    language_id: 6414
+    organization_id: 44
+    vernacular: 0
+    name: Bible Society of Armenia
+-
+    language_id: 6414
+    organization_id: 45
+    vernacular: 0
+    name: Bible Society of Bangladesh
+-
+    language_id: 6414
+    organization_id: 46
+    vernacular: 0
+    name: Bible Society of the Republic of Belarus
+-
+    language_id: 6414
+    organization_id: 47
+    vernacular: 0
+    name: Bible Society of Benin
+-
+    language_id: 6414
+    organization_id: 48
+    vernacular: 0
+    name: Bible Society of Bolivia
+-
+    language_id: 6414
+    organization_id: 49
+    vernacular: 0
+    name: Bible Society in Botswana
+-
+    language_id: 6414
+    organization_id: 50
+    vernacular: 0
+    name: Bible Society of Brazil
+-
+    language_id: 6414
+    organization_id: 51
+    vernacular: 0
+    name: Bulgarian Bible Society
+-
+    language_id: 6414
+    organization_id: 52
+    vernacular: 0
+    name: Bible Society of Burkina Faso
+-
+    language_id: 6414
+    organization_id: 53
+    vernacular: 0
+    name: Bible Society of Burundi
+-
+    language_id: 6414
+    organization_id: 54
+    vernacular: 0
+    name: Bible Society of Cambodia
+-
+    language_id: 6414
+    organization_id: 55
+    vernacular: 0
+    name: Bible Society of Cameroon
+-
+    language_id: 6414
+    organization_id: 56
+    vernacular: 0
+    name: Bible Society of Canada
+-
+    language_id: 6414
+    organization_id: 56
+    vernacular: 0
+    name: Canadian Bible Society
+-
+    language_id: 6414
+    organization_id: 57
+    vernacular: 0
+    name: Bible Society of Ceylon
+-
+    language_id: 6414
+    organization_id: 58
+    vernacular: 0
+    name: Bible Society of Chad
+-
+    language_id: 6414
+    organization_id: 59
+    vernacular: 0
+    name: Bible Society of Chile
+-
+    language_id: 6414
+    organization_id: 60
+    vernacular: 0
+    name: Bible Society of China
+-
+    language_id: 6414
+    organization_id: 61
+    vernacular: 0
+    name: Bible Society of Comoros
+-
+    language_id: 6414
+    organization_id: 62
+    vernacular: 0
+    name: Bible Society of Côte d’Ivoire
+-
+    language_id: 6414
+    organization_id: 63
+    vernacular: 0
+    name: Bible Society of Djibouti
+-
+    language_id: 6414
+    organization_id: 64
+    vernacular: 0
+    name: Bible Society of Egypt
+-
+    language_id: 6414
+    organization_id: 65
+    vernacular: 0
+    name: Bible Society of Eritrea
+-
+    language_id: 6414
+    organization_id: 66
+    vernacular: 0
+    name: Bible Society of Ethiopia
+-
+    language_id: 6414
+    organization_id: 67
+    vernacular: 0
+    name: Bible Society of Finland
+-
+    language_id: 6414
+    organization_id: 68
+    vernacular: 0
+    name: Bible Society of Gabon
+-
+    language_id: 6414
+    organization_id: 69
+    vernacular: 0
+    name: Bible Society of Geneva
+-
+    language_id: 6414
+    organization_id: 70
+    vernacular: 0
+    name: Bible Society of Georgia
+-
+    language_id: 6414
+    organization_id: 71
+    vernacular: 0
+    name: Bible Society of Germany
+-
+    language_id: 6414
+    organization_id: 72
+    vernacular: 0
+    name: Bible Society of Ghana
+-
+    language_id: 6414
+    organization_id: 73
+    vernacular: 0
+    name: Bible Society of Guatemala
+-
+    language_id: 6414
+    organization_id: 74
+    vernacular: 0
+    name: Bible Society of Guyana
+-
+    language_id: 6414
+    organization_id: 75
+    vernacular: 0
+    name: Haitian Bible Society
+-
+    language_id: 6414
+    organization_id: 76
+    vernacular: 0
+    name: Bible Society of Honduras
+-
+    language_id: 6414
+    organization_id: 77
+    vernacular: 0
+    name: Bible Society of Hong Kong
+-
+    language_id: 6414
+    organization_id: 78
+    vernacular: 0
+    name: Bible Society of Hungary
+-
+    language_id: 6414
+    organization_id: 79
+    vernacular: 0
+    name: Bible Society of Iceland
+-
+    language_id: 6414
+    organization_id: 80
+    vernacular: 0
+    name: Bible Society of India
+-
+    language_id: 6414
+    organization_id: 81
+    vernacular: 0
+    name: Indonesian Bible Society
+-
+    language_id: 6414
+    organization_id: 82
+    vernacular: 0
+    name: Bible Society of Israel
+-
+    language_id: 6414
+    organization_id: 83
+    vernacular: 0
+    name: Bible Society of Japan
+-
+    language_id: 6414
+    organization_id: 84
+    vernacular: 0
+    name: Bible Society of Kenya
+-
+    language_id: 6414
+    organization_id: 85
+    vernacular: 0
+    name: Bible Society of Korea
+-
+    language_id: 6414
+    organization_id: 86
+    vernacular: 0
+    name: Latvian Bible Society
+-
+    language_id: 6414
+    organization_id: 87
+    vernacular: 0
+    name: Bible Society of Lebanon
+-
+    language_id: 6414
+    organization_id: 88
+    vernacular: 0
+    name: Bible Society of Liberia
+-
+    language_id: 6414
+    organization_id: 89
+    vernacular: 0
+    name: Bible Society of Lithuania
+-
+    language_id: 6414
+    organization_id: 90
+    vernacular: 0
+    name: Bible Society of Malagasy
+-
+    language_id: 6414
+    organization_id: 91
+    vernacular: 0
+    name: Bible Society of Malawi
+-
+    language_id: 6414
+    organization_id: 92
+    vernacular: 0
+    name: Bible Society of Malaysia
+-
+    language_id: 6414
+    organization_id: 93
+    vernacular: 0
+    name: Bible Society in Mali
+-
+    language_id: 6414
+    organization_id: 94
+    vernacular: 0
+    name: Bible Society of Mauritius
+-
+    language_id: 6414
+    organization_id: 95
+    vernacular: 0
+    name: Bible Society of Mayotte
+-
+    language_id: 6414
+    organization_id: 96
+    vernacular: 0
+    name: Bible Society of Mexico
+-
+    language_id: 6414
+    organization_id: 97
+    vernacular: 0
+    name: Bible Society of Micronesia
+-
+    language_id: 6414
+    organization_id: 98
+    vernacular: 0
+    name: Bible Society of Mongolia
+-
+    language_id: 6414
+    organization_id: 99
+    vernacular: 0
+    name: Morocco Bible Society
+-
+    language_id: 6414
+    organization_id: 100
+    vernacular: 0
+    name: Bible Society of Mozambique
+-
+    language_id: 6414
+    organization_id: 101
+    vernacular: 0
+    name: Bible Society of Myanmar
+-
+    language_id: 6414
+    organization_id: 102
+    vernacular: 0
+    name: Bible Society of Namibia
+-
+    language_id: 6414
+    organization_id: 103
+    vernacular: 0
+    name: Nepal Bible Society
+-
+    language_id: 6414
+    organization_id: 104
+    vernacular: 0
+    name: Bible Society in New Zealand
+-
+    language_id: 6414
+    organization_id: 105
+    vernacular: 0
+    name: Bible Society of Nicaragua
+-
+    language_id: 6414
+    organization_id: 106
+    vernacular: 0
+    name: Bible Society of Nigeria
+-
+    language_id: 6414
+    organization_id: 107
+    vernacular: 0
+    name: Bible Society of Norway
+-
+    language_id: 6414
+    organization_id: 108
+    vernacular: 0
+    name: Pakistan Bible Society
+-
+    language_id: 6414
+    organization_id: 109
+    vernacular: 0
+    name: Bible Society of Panama
+-
+    language_id: 6414
+    organization_id: 110
+    vernacular: 0
+    name: Bible Society of Papua New Guinea
+-
+    language_id: 6414
+    organization_id: 110
+    vernacular: 0
+    name: The Bible Society of Papua New Guinea
+-
+    language_id: 6414
+    organization_id: 111
+    vernacular: 0
+    name: Bible Society of Paraguay
+-
+    language_id: 6414
+    organization_id: 112
+    vernacular: 0
+    name: Peruvian Bible Society
+-
+    language_id: 6414
+    organization_id: 113
+    vernacular: 0
+    name: Bible Society of Poland
+-
+    language_id: 6414
+    organization_id: 114
+    vernacular: 0
+    name: Bible Society of Portugal
+-
+    language_id: 6414
+    organization_id: 115
+    vernacular: 0
+    name: Bible Society of Romania
+-
+    language_id: 6414
+    organization_id: 116
+    vernacular: 0
+    name: Bible Society of Russia
+-
+    language_id: 6414
+    organization_id: 117
+    vernacular: 0
+    name: Bible Society of Rwanda
+-
+    language_id: 6414
+    organization_id: 118
+    vernacular: 0
+    name: Bible Society of Senegal
+-
+    language_id: 6414
+    organization_id: 119
+    vernacular: 0
+    name: Bible Society of Sierra Leone
+-
+    language_id: 6414
+    organization_id: 120
+    vernacular: 0
+    name: Bible Society of Singapore
+-
+    language_id: 6414
+    organization_id: 121
+    vernacular: 0
+    name: Bible Society of Slovenia
+-
+    language_id: 6414
+    organization_id: 122
+    vernacular: 0
+    name: Bible Society of Somalia
+-
+    language_id: 6414
+    organization_id: 123
+    vernacular: 0
+    name: Bible Society of South Africa
+-
+    language_id: 6414
+    organization_id: 124
+    vernacular: 0
+    name: Bible Society in South Sudan
+-
+    language_id: 6414
+    organization_id: 125
+    vernacular: 0
+    name: Bible Society of Spain
+-
+    language_id: 6414
+    organization_id: 126
+    vernacular: 0
+    name: Bible Society of Sri Lanka
+-
+    language_id: 6414
+    organization_id: 127
+    vernacular: 0
+    name: Suriname Bible Society
+-
+    language_id: 6414
+    organization_id: 128
+    vernacular: 0
+    name: Bible Society of Swaziland
+-
+    language_id: 6414
+    organization_id: 129
+    vernacular: 0
+    name: Bible Society of Sweden
+-
+    language_id: 6414
+    organization_id: 130
+    vernacular: 0
+    name: Bible Society of Taiwan
+-
+    language_id: 6414
+    organization_id: 131
+    vernacular: 0
+    name: Bible Society of Tanzania
+-
+    language_id: 6414
+    organization_id: 132
+    vernacular: 0
+    name: Bible Society of Thailand
+-
+    language_id: 6414
+    organization_id: 133
+    vernacular: 0
+    name: Bible Society in the Central African Republic
+-
+    language_id: 6414
+    organization_id: 134
+    vernacular: 0
+    name: Czech Bible Society
+-
+    language_id: 6414
+    organization_id: 135
+    vernacular: 0
+    name: Bible Society of the Democratic Republic of Congo
+-
+    language_id: 6414
+    organization_id: 136
+    vernacular: 0
+    name: Bible Society of the Dominican Republic
+-
+    language_id: 6414
+    organization_id: 137
+    vernacular: 0
+    name: Bible Society of the East Caribbean
+-
+    language_id: 6414
+    organization_id: 138
+    vernacular: 0
+    name: Bible Society of the Gambia
+-
+    language_id: 6414
+    organization_id: 139
+    vernacular: 0
+    name: Bible Society of the Netherlands
+-
+    language_id: 6414
+    organization_id: 139
+    vernacular: 0
+    name: Netherlands Bible Society
+-
+    language_id: 6414
+    organization_id: 140
+    vernacular: 0
+    name: Philippine Bible Society
+-
+    language_id: 6414
+    organization_id: 141
+    vernacular: 0
+    name: Bible Society in the South Pacific
+-
+    language_id: 6414
+    organization_id: 142
+    vernacular: 0
+    name: Bible Society of Togo
+-
+    language_id: 6414
+    organization_id: 143
+    vernacular: 0
+    name: Bible Society of Turkey
+-
+    language_id: 6414
+    organization_id: 144
+    vernacular: 0
+    name: Bible Society of Uganda
+-
+    language_id: 6414
+    organization_id: 145
+    vernacular: 0
+    name: Ukrainian Bible Society
+-
+    language_id: 6414
+    organization_id: 146
+    vernacular: 0
+    name: Bible Society of Vietnam
+-
+    language_id: 6414
+    organization_id: 147
+    vernacular: 0
+    name: Bible Society of the West Indies
+-
+    language_id: 6414
+    organization_id: 148
+    vernacular: 0
+    name: Bible Society of Zambia
+-
+    language_id: 6414
+    organization_id: 148
+    vernacular: 0
+    name: The Bible Society of Zambia
+-
+    language_id: 6414
+    organization_id: 149
+    vernacular: 0
+    name: Bible Society of Zimbabwe
+-
+    language_id: 6414
+    organization_id: 150
+    vernacular: 0
+    name: Bibles International
+-
+    language_id: 6414
+    organization_id: 151
+    vernacular: 0
+    name: Biblical Studies Press
+-
+    language_id: 6414
+    organization_id: 152
+    vernacular: 0
+    name: Brepols Publishers
+-
+    language_id: 6414
+    organization_id: 153
+    vernacular: 0
+    name: British and Foreign Bible Society
+-
+    language_id: 6414
+    organization_id: 154
+    vernacular: 0
+    name: AboutBible.net
+-
+    language_id: 6414
+    organization_id: 154
+    vernacular: 0
+    name: Bro. Dr. Mathews Vergis
+-
+    language_id: 6414
+    organization_id: 155
+    vernacular: 0
+    name: Calcutta Auxiliary Bible Society
+-
+    language_id: 6414
+    organization_id: 156
+    vernacular: 0
+    name: Cameroon Association for Bible Translation and Literacy 
+-
+    language_id: 6414
+    organization_id: 157
+    vernacular: 0
+    name: Carpe Diem Media
+-
+    language_id: 6414
+    organization_id: 158
+    vernacular: 0
+    name: Catholic Bible Foundation
+-
+    language_id: 6414
+    organization_id: 159
+    vernacular: 0
+    name: Catholic Bible Society
+-
+    language_id: 6414
+    organization_id: 160
+    vernacular: 0
+    name: Catholic Bishops Conference of Bangladesh
+-
+    language_id: 6414
+    organization_id: 161
+    vernacular: 0
+    name: Cherokee Bible Project
+-
+    language_id: 6414
+    organization_id: 162
+    vernacular: 0
+    name: Chinese Bible International
+-
+    language_id: 6414
+    organization_id: 163
+    vernacular: 0
+    name: Wycliffe Global Alliance
+-
+    language_id: 6414
+    organization_id: 164
+    vernacular: 0
+    name: Church Missionary Society
+-
+    language_id: 6414
+    organization_id: 165
+    vernacular: 0
+    name: Claretian Publications
+-
+    language_id: 6414
+    organization_id: 166
+    vernacular: 0
+    name: Concordant Publishing Concern
+-
+    language_id: 6414
+    organization_id: 167
+    vernacular: 0
+    name: Cornerstone Ministries
+-
+    language_id: 6414
+    organization_id: 168
+    vernacular: 0
+    name: Cornish Bible Project
+-
+    language_id: 6414
+    organization_id: 169
+    vernacular: 0
+    name: The Cornish Language Board
+-
+    language_id: 6414
+    organization_id: 170
+    vernacular: 0
+    name: Bible Society of Denmark
+-
+    language_id: 6414
+    organization_id: 171
+    vernacular: 0
+    name: David C. Cook
+-
+    language_id: 6414
+    organization_id: 172
+    vernacular: 0
+    name: Deaf Bible Society
+-
+    language_id: 6414
+    organization_id: 173
+    vernacular: 0
+    name: Desclée De Brouwer
+-
+    language_id: 6414
+    organization_id: 174
+    vernacular: 0
+    name: Diócesis de Quiché
+-
+    language_id: 6414
+    organization_id: 175
+    vernacular: 0
+    name: Eastern Himalayan Language and Literacy Project
+-
+    language_id: 6414
+    organization_id: 176
+    vernacular: 0
+    name: Editorial CLIE
+-
+    language_id: 6414
+    organization_id: 177
+    vernacular: 0
+    name: Elam Ministries
+-
+    language_id: 6414
+    organization_id: 178
+    vernacular: 0
+    name: Evertype
+-
+    language_id: 6414
+    organization_id: 179
+    vernacular: 0
+    name: F.H. Baader
+-
+    language_id: 6414
+    organization_id: 180
+    vernacular: 0
+    name: Fayard
+-
+    language_id: 6414
+    organization_id: 181
+    vernacular: 0
+    name: Finnish Lutheran Church
+-
+    language_id: 6414
+    organization_id: 182
+    vernacular: 0
+    name: Folk&Språk
+-
+    language_id: 6414
+    organization_id: 183
+    vernacular: 0
+    name: French Bible Society
+-
+    language_id: 6414
+    organization_id: 184
+    vernacular: 0
+    name: Fundacja Wrota Nadziei
+-
+    language_id: 6414
+    organization_id: 185
+    vernacular: 0
+    name: Gallimard
+-
+    language_id: 6414
+    organization_id: 186
+    vernacular: 0
+    name: Ghana Institute of Linguistics Literacy and Bible Translation
+-
+    language_id: 6414
+    organization_id: 187
+    vernacular: 0
+    name: Gilak Media
+-
+    language_id: 6414
+    organization_id: 188
+    vernacular: 0
+    name: Global Bible Initiative
+-
+    language_id: 6414
+    organization_id: 189
+    vernacular: 0
+    name: Global Recordings Network
+-
+    language_id: 6414
+    organization_id: 190
+    vernacular: 0
+    name: Liturgy of the Hours Group
+-
+    language_id: 6414
+    organization_id: 191
+    vernacular: 0
+    name: H. Roswell
+-
+    language_id: 6414
+    organization_id: 192
+    vernacular: 0
+    name: HaGefen Publishing
+-
+    language_id: 6414
+    organization_id: 193
+    vernacular: 0
+    name: HarperCollins
+-
+    language_id: 6414
+    organization_id: 194
+    vernacular: 0
+    name: Helen Miner Miller
+-
+    language_id: 6414
+    organization_id: 195
+    vernacular: 0
+    name: Hellenic Bible Society
+-
+    language_id: 6414
+    organization_id: 196
+    vernacular: 0
+    name: Holman Bible Publishers
+-
+    language_id: 6414
+    organization_id: 197
+    vernacular: 0
+    name: Hope for Wales
+-
+    language_id: 6414
+    organization_id: 199
+    vernacular: 0
+    name: Evangelical Biblical Institution of Catalonia
+-
+    language_id: 6414
+    organization_id: 200
+    vernacular: 0
+    name: Institute for Bible Translation, Helsinki
+-
+    language_id: 6414
+    organization_id: 201
+    vernacular: 0
+    name: Institute for Bible Translation, Moscow
+-
+    language_id: 6414
+    organization_id: 202
+    vernacular: 0
+    name: Institute for Bible Translation, Stockholm
+-
+    language_id: 6414
+    organization_id: 203
+    vernacular: 0
+    name: International Sharif Bible Society
+-
+    language_id: 6414
+    organization_id: 204
+    vernacular: 0
+    name: Iowa and Sac Mission Press
+-
+    language_id: 6414
+    organization_id: 205
+    vernacular: 0
+    name: Jack Blanco
+-
+    language_id: 6414
+    organization_id: 206
+    vernacular: 0
+    name: Jewish Publication Society
+-
+    language_id: 6414
+    organization_id: 207
+    vernacular: 0
+    name: Kairos International
+-
+    language_id: 6414
+    organization_id: 208
+    vernacular: 0
+    name: Kale Heywet Church
+-
+    language_id: 6414
+    organization_id: 209
+    vernacular: 0
+    name: Kerala Catholic Bible Society
+-
+    language_id: 6414
+    organization_id: 210
+    vernacular: 0
+    name: Kindred Productions
+-
+    language_id: 6414
+    organization_id: 211
+    vernacular: 0
+    name: La Buona Novella
+-
+    language_id: 6414
+    organization_id: 212
+    vernacular: 0
+    name: La Casa de la Biblia
+-
+    language_id: 6414
+    organization_id: 213
+    vernacular: 0
+    name: Laguna Mission Press
+-
+    language_id: 6414
+    organization_id: 214
+    vernacular: 0
+    name: Lakota Bible Translation Project
+-
+    language_id: 6414
+    organization_id: 215
+    vernacular: 0
+    name: Le Cerf
+-
+    language_id: 6414
+    organization_id: 216
+    vernacular: 0
+    name: Lederer Messianic Ministries
+-
+    language_id: 6414
+    organization_id: 217
+    vernacular: 0
+    name: LETRA Paraguay
+-
+    language_id: 6414
+    organization_id: 218
+    vernacular: 0
+    name: Libreria Editrice Vaticana
+-
+    language_id: 6414
+    organization_id: 219
+    vernacular: 0
+    name: LIFE SENTENCE
+-
+    language_id: 6414
+    organization_id: 220
+    vernacular: 0
+    name: Bible League of Peru
+-
+    language_id: 6414
+    organization_id: 221
+    vernacular: 0
+    name: Liga Biblica Mundial del Hogar
+-
+    language_id: 6414
+    organization_id: 222
+    vernacular: 0
+    name: Lutheran Church of Nigeria
+-
+    language_id: 6414
+    organization_id: 223
+    vernacular: 0
+    name: Liga del Sembrador
+-
+    language_id: 6414
+    organization_id: 224
+    vernacular: 0
+    name: Bible Translation & Literacy
+-
+    language_id: 6414
+    organization_id: 225
+    vernacular: 0
+    name: Living Stream Ministry
+-
+    language_id: 6414
+    organization_id: 226
+    vernacular: 0
+    name: Logos Bible Software
+-
+    language_id: 6414
+    organization_id: 227
+    vernacular: 0
+    name: Loukas Foundation
+-
+    language_id: 6414
+    organization_id: 228
+    vernacular: 0
+    name: Malvoday
+-
+    language_id: 6414
+    organization_id: 229
+    vernacular: 0
+    name: Manx Gaelic Society
+-
+    language_id: 6414
+    organization_id: 230
+    vernacular: 0
+    name: Margaret Jank
+-
+    language_id: 6414
+    organization_id: 231
+    vernacular: 0
+    name: Maryknoll
+-
+    language_id: 6414
+    organization_id: 232
+    vernacular: 0
+    name: Messengers of Christ
+-
+    language_id: 6414
+    organization_id: 233
+    vernacular: 0
+    name: Messianic Jewish Family Bible Society
+-
+    language_id: 6414
+    organization_id: 234
+    vernacular: 0
+    name: Methodist Episcopal Mission Press
+-
+    language_id: 6414
+    organization_id: 235
+    vernacular: 0
+    name: Michael J. Magill
+-
+    language_id: 6414
+    organization_id: 236
+    vernacular: 0
+    name: Military Bible Association
+-
+    language_id: 6414
+    organization_id: 237
+    vernacular: 0
+    name: Mission Aides Incorporated
+-
+    language_id: 6414
+    organization_id: 238
+    vernacular: 0
+    name: Mitla Studios
+-
+    language_id: 6414
+    organization_id: 239
+    vernacular: 0
+    name: Modern Bible Translations
+-
+    language_id: 6414
+    organization_id: 240
+    vernacular: 0
+    name: Mongolian Bible Translation Committee
+-
+    language_id: 6414
+    organization_id: 241
+    vernacular: 0
+    name: Mongolian Union Bible Society
+-
+    language_id: 6414
+    organization_id: 242
+    vernacular: 0
+    name: Moravian Church in Newfoundland & Labrador
+-
+    language_id: 6414
+    organization_id: 243
+    vernacular: 0
+    name: Naskapi Development Corporation
+-
+    language_id: 6414
+    organization_id: 244
+    vernacular: 0
+    name: Nathan Terrell
+-
+    language_id: 6414
+    organization_id: 245
+    vernacular: 0
+    name: National Bible Society of Ireland
+-
+    language_id: 6414
+    organization_id: 246
+    vernacular: 0
+    name: Scottish Bible Society
+-
+    language_id: 6414
+    organization_id: 247
+    vernacular: 0
+    name: New Life Literature
+-
+    language_id: 6414
+    organization_id: 248
+    vernacular: 0
+    name: New York Bible Society
+-
+    language_id: 6414
+    organization_id: 249
+    vernacular: 0
+    name: Nigeria Bible Translation Trust
+-
+    language_id: 6414
+    organization_id: 250
+    vernacular: 0
+    name: Nishad H. Kaippally
+-
+    language_id: 6414
+    organization_id: 251
+    vernacular: 0
+    name: Norsk Bible
+-
+    language_id: 6414
+    organization_id: 252
+    vernacular: 0
+    name: North Thailand Christian Mission
+-
+    language_id: 6414
+    organization_id: 253
+    vernacular: 0
+    name: Norwegian Samlaget
+-
+    language_id: 6414
+    organization_id: 254
+    vernacular: 0
+    name: OMF International
+-
+    language_id: 6414
+    organization_id: 255
+    vernacular: 0
+    name: Overseas Missionary Fellowship
+-
+    language_id: 6414
+    organization_id: 256
+    vernacular: 0
+    name: Oxford: The Clarendon Press
+-
+    language_id: 6414
+    organization_id: 257
+    vernacular: 0
+    name: Packard and Van Benthuysen
+-
+    language_id: 6414
+    organization_id: 258
+    vernacular: 0
+    name: Palatine Bible Club
+-
+    language_id: 6414
+    organization_id: 259
+    vernacular: 0
+    name: Pallottinum Publishers
+-
+    language_id: 6414
+    organization_id: 260
+    vernacular: 0
+    name: Pamir Productions
+-
+    language_id: 6414
+    organization_id: 261
+    vernacular: 0
+    name: Park Hill Mission Press
+-
+    language_id: 6414
+    organization_id: 262
+    vernacular: 0
+    name: Peninsula Bible Church
+-
+    language_id: 6414
+    organization_id: 263
+    vernacular: 0
+    name: Perkins School of Theology
+-
+    language_id: 6414
+    organization_id: 264
+    vernacular: 0
+    name: PNG Bible Translation Association
+-
+    language_id: 6414
+    organization_id: 265
+    vernacular: 0
+    name: Presbyterian Church in Taiwan
+-
+    language_id: 6414
+    organization_id: 266
+    vernacular: 0
+    name: Primitive Methodist Church
+-
+    language_id: 6414
+    organization_id: 267
+    vernacular: 0
+    name: PRM International
+-
+    language_id: 6414
+    organization_id: 268
+    vernacular: 0
+    name: Projet Babel
+-
+    language_id: 6414
+    organization_id: 269
+    vernacular: 0
+    name: Public Domain
+-
+    language_id: 6414
+    organization_id: 270
+    vernacular: 0
+    name: Reyma Publishing
+-
+    language_id: 6414
+    organization_id: 271
+    vernacular: 0
+    name: Romanes-Arbeit Marbug e.V.
+-
+    language_id: 6414
+    organization_id: 272
+    vernacular: 0
+    name: Russian Orthodox Alaska mission
+-
+    language_id: 6414
+    organization_id: 273
+    vernacular: 0
+    name: Russian Spiritual Mission
+-
+    language_id: 6414
+    organization_id: 274
+    vernacular: 0
+    name: Saint Stephen Society
+-
+    language_id: 6414
+    organization_id: 275
+    vernacular: 0
+    name: Scripture Translation for Every People
+-
+    language_id: 6414
+    organization_id: 276
+    vernacular: 0
+    name: Seuil
+-
+    language_id: 6414
+    organization_id: 277
+    vernacular: 0
+    name: Shuar Association of Evangelical Churches
+-
+    language_id: 6414
+    organization_id: 278
+    vernacular: 0
+    name: Slovak Bible Society
+-
+    language_id: 6414
+    organization_id: 279
+    vernacular: 0
+    name: Society for Promoting Christian Knowledge
+-
+    language_id: 6414
+    organization_id: 280
+    vernacular: 0
+    name: Society of Biblical Literature
+-
+    language_id: 6414
+    organization_id: 281
+    vernacular: 0
+    name: Sovereign Grace Publishers
+-
+    language_id: 6414
+    organization_id: 282
+    vernacular: 0
+    name: Spyrys a Gernow
+-
+    language_id: 6414
+    organization_id: 283
+    vernacular: 0
+    name: St. Jerome Publishing
+-
+    language_id: 6414
+    organization_id: 284
+    vernacular: 0
+    name: St. Paul Publishing
+-
+    language_id: 6414
+    organization_id: 285
+    vernacular: 0
+    name: Student Language Associations
+-
+    language_id: 6414
+    organization_id: 286
+    vernacular: 0
+    name: Swedish Bible Foundation
+-
+    language_id: 6414
+    organization_id: 287
+    vernacular: 0
+    name: Swedish Mission Alliance
+-
+    language_id: 6414
+    organization_id: 288
+    vernacular: 0
+    name: The Lockman Foundation
+-
+    language_id: 6414
+    organization_id: 289
+    vernacular: 0
+    name: The Translation Trust
+-
+    language_id: 6414
+    organization_id: 290
+    vernacular: 0
+    name: The University of Chicago Press
+-
+    language_id: 6414
+    organization_id: 291
+    vernacular: 0
+    name: Thomas Nelson, Inc.
+-
+    language_id: 6414
+    organization_id: 292
+    vernacular: 0
+    name: Tiospaye Bible Baptist
+-
+    language_id: 6414
+    organization_id: 293
+    vernacular: 0
+    name: Toronto Auxiliary Bible Society
+-
+    language_id: 6414
+    organization_id: 294
+    vernacular: 0
+    name: Trinitarian Bible Society
+-
+    language_id: 6414
+    organization_id: 295
+    vernacular: 0
+    name: Tyndale House Publishers, Inc.
+-
+    language_id: 6414
+    organization_id: 296
+    vernacular: 0
+    name: U.S. Center for World Missions
+-
+    language_id: 6414
+    organization_id: 297
+    vernacular: 0
+    name: Uyghurche Muqeddes Kitab Jemiyiti (UMKJ)
+-
+    language_id: 6414
+    organization_id: 298
+    vernacular: 0
+    name: Veren Publishers
+-
+    language_id: 6414
+    organization_id: 299
+    vernacular: 0
+    name: Vicariato Apostolico de Aguarico
+-
+    language_id: 6414
+    organization_id: 300
+    vernacular: 0
+    name: VoKo
+-
+    language_id: 6414
+    organization_id: 301
+    vernacular: 0
+    name: Words of Grace Ministries
+-
+    language_id: 6414
+    organization_id: 302
+    vernacular: 0
+    name: World Bible Translation Center
+-
+    language_id: 6414
+    organization_id: 303
+    vernacular: 0
+    name: World Team
+-
+    language_id: 6414
+    organization_id: 304
+    vernacular: 0
+    name: Worldwide Bible Society
+-
+    language_id: 6414
+    organization_id: 305
+    vernacular: 0
+    name: Yayasan Sumber Sejahtera
+-
+    language_id: 6414
+    organization_id: 306
+    vernacular: 0
+    name: Yeni Yasam Yayinlari
+-
+    language_id: 6414
+    organization_id: 307
+    vernacular: 0
+    name: Zondervan Publishing House
+-
+    language_id: 6414
+    organization_id: 308
+    vernacular: 0
+    name: Zurich Theological Publisher
+-
+    language_id: 6414
+    organization_id: 309
+    vernacular: 0
+    name: GNPI
+-
+    language_id: 6414
+    organization_id: 310
+    vernacular: 0
+    name: Funk and Wagnalls
+-
+    language_id: 6414
+    organization_id: 311
+    vernacular: 0
+    name: E Je Bible Translation Committee
+-
+    language_id: 6414
+    organization_id: 312
+    vernacular: 0
+    name: Bálint Mantskovit
+-
+    language_id: 6414
+    organization_id: 313
+    vernacular: 0
+    name: Johannes Gutenberg
+-
+    language_id: 6414
+    organization_id: 314
+    vernacular: 0
+    name: Evangelical Church of Guinea-Bissau
+-
+    language_id: 6414
+    organization_id: 315
+    vernacular: 0
+    name: Ulster-Scots Language Society
+-
+    language_id: 6414
+    organization_id: 316
+    vernacular: 0
+    name: Yehoʼash Farlag Gezelshaft
+-
+    language_id: 6414
+    organization_id: 317
+    vernacular: 0
+    name: 'Ruthven''s Book and Job Office'
+-
+    language_id: 6414
+    organization_id: 318
+    vernacular: 0
+    name: William Blackwood and Sons
+-
+    language_id: 6414
+    organization_id: 319
+    vernacular: 0
+    name: Castrovilli Giuseppe
+-
+    language_id: 6414
+    organization_id: 320
+    vernacular: 0
+    name: Pyongyang Bible
+-
+    language_id: 6414
+    organization_id: 321
+    vernacular: 0
+    name: International Alliance of Independent Publishers
+-
+    language_id: 6414
+    organization_id: 322
+    vernacular: 0
+    name: Chilton Book Publishing
+-
+    language_id: 6414
+    organization_id: 323
+    vernacular: 0
+    name: Hendrickson Publishing
+-
+    language_id: 6414
+    organization_id: 324
+    vernacular: 0
+    name: ABWE International
+-
+    language_id: 6414
+    organization_id: 325
+    vernacular: 0
+    name: Word of Life Press
+-
+    language_id: 6414
+    organization_id: 326
+    vernacular: 0
+    name: Bible Society in the Seychelles
+-
+    language_id: 6414
+    organization_id: 327
+    vernacular: 0
+    name: Chilcotin Bible Translation Committee
+-
+    language_id: 6414
+    organization_id: 328
+    vernacular: 0
+    name: Historical Text
+-
+    language_id: 6414
+    organization_id: 329
+    vernacular: 0
+    name: African Books Collective
+-
+    language_id: 6414
+    organization_id: 330
+    vernacular: 0
+    name: Sheed & Ward
+-
+    language_id: 6414
+    organization_id: 331
+    vernacular: 0
+    name: Deuel Enterprises Inc.
+-
+    language_id: 6414
+    organization_id: 332
+    vernacular: 0
+    name: James Duffy and Co. Ltd.
+-
+    language_id: 6414
+    organization_id: 333
+    vernacular: 0
+    name: CrossWire
+-
+    language_id: 6414
+    organization_id: 334
+    vernacular: 0
+    name: Bible Society of Colombia
+-
+    language_id: 6414
+    organization_id: 335
+    vernacular: 0
+    name: United Bible Societies of Venezuela
+-
+    language_id: 6414
+    organization_id: 336
+    vernacular: 0
+    name: Davidson Press LLC
+-
+    language_id: 6414
+    organization_id: 337
+    vernacular: 0
+    name: Darton, Longman, and Todd
+-
+    language_id: 6414
+    organization_id: 338
+    vernacular: 0
+    name: London Missionary Society
+-
+    language_id: 6414
+    organization_id: 339
+    vernacular: 0
+    name: Bible Society of Sudan
+-
+    language_id: 6414
+    organization_id: 340
+    vernacular: 0
+    name: Bible Society in Guinea-Conakry
+-
+    language_id: 6414
+    organization_id: 341
+    vernacular: 0
+    name: International Bible Society of East Africa
+-
+    language_id: 6414
+    organization_id: 342
+    vernacular: 0
+    name: Proa
+-
+    language_id: 6414
+    organization_id: 343
+    vernacular: 0
+    name: Dinh Vinh Sang
+-
+    language_id: 6414
+    organization_id: 344
+    vernacular: 0
+    name: Publisher Society of Christ Hlondianum
+-
+    language_id: 6414
+    organization_id: 345
+    vernacular: 0
+    name: Adams & McElwain Publishers
+-
+    language_id: 6414
+    organization_id: 346
+    vernacular: 0
+    name: F.A. Brockhaus AG
+-
+    language_id: 6414
+    organization_id: 347
+    vernacular: 0
+    name: Kregel Publications
+-
+    language_id: 6414
+    organization_id: 348
+    vernacular: 0
+    name: Destiny Publishers
+-
+    language_id: 6414
+    organization_id: 349
+    vernacular: 0
+    name: HalleluYah Scriptures
+-
+    language_id: 6414
+    organization_id: 350
+    vernacular: 0
+    name: Baker Publishing Group
+-
+    language_id: 6414
+    organization_id: 351
+    vernacular: 0
+    name: Baronius Press
+-
+    language_id: 6414
+    organization_id: 352
+    vernacular: 0
+    name: National Council of the Churches of Christ
+-
+    language_id: 6414
+    organization_id: 353
+    vernacular: 0
+    name: Wycliffe Thailand Foudation
+-
+    language_id: 6414
+    organization_id: 354
+    vernacular: 0
+    name: Jan Morrow
+-
+    language_id: 6414
+    organization_id: 355
+    vernacular: 0
+    name: Christian Missionary Society
+-
+    language_id: 6414
+    organization_id: 356
+    vernacular: 0
+    name: Presbyterian Board of Publication
+-
+    language_id: 6414
+    organization_id: 357
+    vernacular: 0
+    name: Jane Aitken
+-
+    language_id: 6414
+    organization_id: 358
+    vernacular: 0
+    name: Hodder & Stoughton
+-
+    language_id: 6414
+    organization_id: 359
+    vernacular: 0
+    name: Institute for Scripture Research
+-
+    language_id: 6414
+    organization_id: 360
+    vernacular: 0
+    name: Gomer Press
+-
+    language_id: 6414
+    organization_id: 361
+    vernacular: 0
+    name: Cambridge University Press
+-
+    language_id: 6414
+    organization_id: 362
+    vernacular: 0
+    name: Legacy of St. Wenceslas
+-
+    language_id: 6414
+    organization_id: 363
+    vernacular: 0
+    name: Timothy Jones
+-
+    language_id: 6414
+    organization_id: 364
+    vernacular: 0
+    name: American Publishing Company
+-
+    language_id: 6414
+    organization_id: 365
+    vernacular: 0
+    name: Judaica Press
+-
+    language_id: 6414
+    organization_id: 366
+    vernacular: 0
+    name: Northern Christian Evangelical Mission
+-
+    language_id: 6414
+    organization_id: 367
+    vernacular: 0
+    name: Christian Literature International
+-
+    language_id: 6414
+    organization_id: 368
+    vernacular: 0
+    name: Artists for Israel International Messianic Publishers
+-
+    language_id: 6414
+    organization_id: 369
+    vernacular: 0
+    name: Ron Conte
+-
+    language_id: 6414
+    organization_id: 370
+    vernacular: 0
+    name: Divine Name Publishers
+-
+    language_id: 6414
+    organization_id: 371
+    vernacular: 0
+    name: eBible
+-
+    language_id: 6414
+    organization_id: 372
+    vernacular: 0
+    name: CCB Publishing
+-
+    language_id: 6414
+    organization_id: 373
+    vernacular: 0
+    name: Svetopisemska Družba Slovenije
+-
+    language_id: 6414
+    organization_id: 374
+    vernacular: 0
+    name: Cornell University Library
+-
+    language_id: 6414
+    organization_id: 375
+    vernacular: 0
+    name: Shawanoe Baptist Ministry
+-
+    language_id: 6414
+    organization_id: 376
+    vernacular: 0
+    name: Rainbow Missions
+-
+    language_id: 6414
+    organization_id: 377
+    vernacular: 0
+    name: University of Michigan Library
+-
+    language_id: 6414
+    organization_id: 378
+    vernacular: 0
+    name: Jơrai Bible Association
+-
+    language_id: 6414
+    organization_id: 379
+    vernacular: 0
+    name: Elpenor
+-
+    language_id: 6414
+    organization_id: 380
+    vernacular: 0
+    name: Lenape Texts
+-
+    language_id: 6414
+    organization_id: 381
+    vernacular: 0
+    name: Johnston Press
+-
+    language_id: 6414
+    organization_id: 382
+    vernacular: 0
+    name: Isaac Leeser
+-
+    language_id: 6414
+    organization_id: 383
+    vernacular: 0
+    name: Archimandrite Guri (Karpov)
+-
+    language_id: 6414
+    organization_id: 384
+    vernacular: 0
+    name: Beijing Eastern Orthodox Association
+-
+    language_id: 6414
+    organization_id: 385
+    vernacular: 0
+    name: The Provide
+-
+    language_id: 6414
+    organization_id: 386
+    vernacular: 0
+    name: Regional Culture Publishing Company
+-
+    language_id: 6414
+    organization_id: 387
+    vernacular: 0
+    name: Hans Lufft
+-
+    language_id: 6414
+    organization_id: 388
+    vernacular: 0
+    name: Nanjing Amity Printing Company Ltd.
+-
+    language_id: 6414
+    organization_id: 389
+    vernacular: 0
+    name: 'The Work of God''s Children'
+-
+    language_id: 6414
+    organization_id: 390
+    vernacular: 0
+    name: DR. W.A. Galloway
+-
+    language_id: 6414
+    organization_id: 391
+    vernacular: 0
+    name: Botime Çabej MÇM
+-
+    language_id: 6414
+    organization_id: 392
+    vernacular: 0
+    name: Estêvão Cacella & João Cabral
+-
+    language_id: 6414
+    organization_id: 393
+    vernacular: 0
+    name: Gary F. Zeolla
+-
+    language_id: 6414
+    organization_id: 394
+    vernacular: 0
+    name: Harvard Press
+-
+    language_id: 6414
+    organization_id: 395
+    vernacular: 0
+    name: Massachusetts Bible Society
+-
+    language_id: 6414
+    organization_id: 396
+    vernacular: 0
+    name: Yokohama Evangelistic Society
+-
+    language_id: 6414
+    organization_id: 397
+    vernacular: 0
+    name: Sound Teaching on Electronic Media (STEM)
+-
+    language_id: 6414
+    organization_id: 398
+    vernacular: 0
+    name: T. P. Thorman
+-
+    language_id: 6414
+    organization_id: 399
+    vernacular: 0
+    name: Yanjing University Press
+-
+    language_id: 6414
+    organization_id: 400
+    vernacular: 0
+    name: Leipzig University Library
+-
+    language_id: 6414
+    organization_id: 401
+    vernacular: 0
+    name: Rob and Karen Taylor, with the help of Quentin Lefthand
+-
+    language_id: 6414
+    organization_id: 402
+    vernacular: 0
+    name: Lazarus Wesley
+-
+    language_id: 6414
+    organization_id: 403
+    vernacular: 0
+    name: Standard Publishing Company
+-
+    language_id: 6414
+    organization_id: 404
+    vernacular: 0
+    name: Bible Society of Italy
+-
+    language_id: 6414
+    organization_id: 405
+    vernacular: 0
+    name: Kyoto Pope East North Hall Publishing
+-
+    language_id: 6414
+    organization_id: 406
+    vernacular: 0
+    name: The Light Publishing
+-
+    language_id: 6414
+    organization_id: 407
+    vernacular: 0
+    name: Biblical Alerts Service
+-
+    language_id: 6414
+    organization_id: 408
+    vernacular: 0
+    name: Paris Foriegn Missions Society
+-
+    language_id: 6414
+    organization_id: 409
+    vernacular: 0
+    name: Shërbimi Informues Biblik
+-
+    language_id: 6414
+    organization_id: 410
+    vernacular: 0
+    name: Evangelical Church of Papua New Guinea
+-
+    language_id: 6414
+    organization_id: 411
+    vernacular: 0
+    name: Tokyo: Foresuto Bukkusu
+-
+    language_id: 6414
+    organization_id: 412
+    vernacular: 0
+    name: Trinitarian Bible Society of Brazil
+-
+    language_id: 6414
+    organization_id: 414
+    vernacular: 0
+    name: Nagamese Bible Publication
+-
+    language_id: 6414
+    organization_id: 415
+    vernacular: 0
+    name: Tuivang Literature and Culture Association
+-
+    language_id: 6414
+    organization_id: 416
+    vernacular: 0
+    name: Bible Study Tools
+-
+    language_id: 6414
+    organization_id: 417
+    vernacular: 0
+    name: Bible Gateway
+-
+    language_id: 6414
+    organization_id: 418
+    vernacular: 0
+    name: http://www.aboutbible.net/
+-
+    language_id: 6414
+    organization_id: 419
+    vernacular: 0
+    name: Al Hayat TV
+-
+    language_id: 6414
+    organization_id: 420
+    vernacular: 0
+    name: Ambassadors for Christ
+-
+    language_id: 6414
+    organization_id: 421
+    vernacular: 0
+    name: Amin Knoshnood Ministries
+-
+    language_id: 6414
+    organization_id: 422
+    vernacular: 0
+    name: Arman Roshdi Ministries
+-
+    language_id: 6414
+    organization_id: 423
+    vernacular: 0
+    name: Answering Islam
+-
+    language_id: 6414
+    organization_id: 424
+    vernacular: 0
+    name: Arab World Ministries - Pioneers
+-
+    language_id: 6414
+    organization_id: 425
+    vernacular: 0
+    name: Arabic Bible Outreach
+-
+    language_id: 6414
+    organization_id: 426
+    vernacular: 0
+    name: Bible Lessons International
+-
+    language_id: 6414
+    organization_id: 427
+    vernacular: 0
+    name: Bible Visuals
+-
+    language_id: 6414
+    organization_id: 428
+    vernacular: 0
+    name: Call of Hope
+-
+    language_id: 6414
+    organization_id: 429
+    vernacular: 0
+    name: Charisma Media
+-
+    language_id: 6414
+    organization_id: 430
+    vernacular: 0
+    name: Child Evangelism Fellowship
+-
+    language_id: 6414
+    organization_id: 431
+    vernacular: 0
+    name: China Christian Books
+-
+    language_id: 6414
+    organization_id: 432
+    vernacular: 0
+    name: Chinese Christian Internet Mission
+-
+    language_id: 6414
+    organization_id: 433
+    vernacular: 0
+    name: Christian Broadcasting Network
+-
+    language_id: 6414
+    organization_id: 434
+    vernacular: 0
+    name: Christian Communications International
+-
+    language_id: 6414
+    organization_id: 435
+    vernacular: 0
+    name: Christian Digest
+-
+    language_id: 6414
+    organization_id: 436
+    vernacular: 0
+    name: Christian Life Quarterly
+-
+    language_id: 6414
+    organization_id: 437
+    vernacular: 0
+    name: Coptology.com
+-
+    language_id: 6414
+    organization_id: 438
+    vernacular: 0
+    name: Create International
+-
+    language_id: 6414
+    organization_id: 439
+    vernacular: 0
+    name: Dariush and Marya Worship
+-
+    language_id: 6414
+    organization_id: 441
+    vernacular: 0
+    name: Desiring God
+-
+    language_id: 6414
+    organization_id: 442
+    vernacular: 0
+    name: Dota
+-
+    language_id: 6414
+    organization_id: 443
+    vernacular: 0
+    name: E-Bible
+-
+    language_id: 6414
+    organization_id: 444
+    vernacular: 0
+    name: E-Sword
+-
+    language_id: 6414
+    organization_id: 445
+    vernacular: 0
+    name: Equipping The Saints
+-
+    language_id: 6414
+    organization_id: 446
+    vernacular: 0
+    name: Every Tribe Every Nation
+-
+    language_id: 6414
+    organization_id: 447
+    vernacular: 0
+    name: Ethno Radio
+-
+    language_id: 6414
+    organization_id: 448
+    vernacular: 0
+    name: Fariborz Khandani Ministries
+-
+    language_id: 6414
+    organization_id: 449
+    vernacular: 0
+    name: Farsi Praise
+-
+    language_id: 6414
+    organization_id: 450
+    vernacular: 0
+    name: Fellowship for Faith for the Muslims
+-
+    language_id: 6414
+    organization_id: 451
+    vernacular: 0
+    name: Freedom in Christ
+-
+    language_id: 6414
+    organization_id: 452
+    vernacular: 0
+    name: The Forum of Bible Agencies
+-
+    language_id: 6414
+    organization_id: 453
+    vernacular: 0
+    name: Glasgow Iranian Church
+-
+    language_id: 6414
+    organization_id: 454
+    vernacular: 0
+    name: Global Media Outreach
+-
+    language_id: 6414
+    organization_id: 455
+    vernacular: 0
+    name: GoodSeed International
+-
+    language_id: 6414
+    organization_id: 456
+    vernacular: 0
+    name: Gospel Comics
+-
+    language_id: 6414
+    organization_id: 457
+    vernacular: 0
+    name: Gospel Communications International
+-
+    language_id: 6414
+    organization_id: 458
+    vernacular: 0
+    name: Got Questions?
+-
+    language_id: 6414
+    organization_id: 459
+    vernacular: 0
+    name: Hayate Abadi
+-
+    language_id: 6414
+    organization_id: 460
+    vernacular: 0
+    name: Hong Kong Bible Society
+-
+    language_id: 6414
+    organization_id: 461
+    vernacular: 0
+    name: IMB
+-
+    language_id: 6414
+    organization_id: 462
+    vernacular: 0
+    name: Ligonier
+-
+    language_id: 6414
+    organization_id: 463
+    vernacular: 0
+    name: 'International Lutheran Laymen''s League'
+-
+    language_id: 6414
+    organization_id: 464
+    vernacular: 0
+    name: Assemblies of God
+-
+    language_id: 6414
+    organization_id: 465
+    vernacular: 0
+    name: Iran Alive Ministries
+-
+    language_id: 6414
+    organization_id: 467
+    vernacular: 0
+    name: Joseph Films
+-
+    language_id: 6414
+    organization_id: 468
+    vernacular: 0
+    name: Josh McDowell Ministries
+-
+    language_id: 6414
+    organization_id: 469
+    vernacular: 0
+    name: Life Giving Resources
+-
+    language_id: 6414
+    organization_id: 470
+    vernacular: 0
+    name: Lifegate Gospel
+-
+    language_id: 6414
+    organization_id: 471
+    vernacular: 0
+    name: SGM Lifewords
+-
+    language_id: 6414
+    organization_id: 472
+    vernacular: 0
+    name: Literacy and Evangelism
+-
+    language_id: 6414
+    organization_id: 475
+    vernacular: 0
+    name: Megavoice
+-
+    language_id: 6414
+    organization_id: 476
+    vernacular: 0
+    name: Middle East Media
+-
+    language_id: 6414
+    organization_id: 477
+    vernacular: 0
+    name: Mission Aviation Fellowship
+-
+    language_id: 6414
+    organization_id: 478
+    vernacular: 0
+    name: Mission India
+-
+    language_id: 6414
+    organization_id: 479
+    vernacular: 0
+    name: MOHABAT.tv
+-
+    language_id: 6414
+    organization_id: 480
+    vernacular: 0
+    name: More Than Dreams
+-
+    language_id: 6414
+    organization_id: 481
+    vernacular: 0
+    name: Muhammadanism.org
+-
+    language_id: 6414
+    organization_id: 482
+    vernacular: 0
+    name: Multiplication Network
+-
+    language_id: 6414
+    organization_id: 483
+    vernacular: 0
+    name: Nejat Production
+-
+    language_id: 6414
+    organization_id: 484
+    vernacular: 0
+    name: GospelGo
+-
+    language_id: 6414
+    organization_id: 485
+    vernacular: 0
+    name: Open Scriptures
+-
+    language_id: 6414
+    organization_id: 486
+    vernacular: 0
+    name: Bible Movie App
+-
+    language_id: 6414
+    organization_id: 487
+    vernacular: 0
+    name: Overseas Campus Magazine
+-
+    language_id: 6414
+    organization_id: 488
+    vernacular: 0
+    name: Pacific Garden Mission
+-
+    language_id: 6414
+    organization_id: 489
+    vernacular: 0
+    name: Partners International
+-
+    language_id: 6414
+    organization_id: 490
+    vernacular: 0
+    name: Persian World Outreach
+-
+    language_id: 6414
+    organization_id: 491
+    vernacular: 0
+    name: Persians for Christ
+-
+    language_id: 6414
+    organization_id: 492
+    vernacular: 0
+    name: Pioneers Ministries
+-
+    language_id: 6414
+    organization_id: 493
+    vernacular: 0
+    name: PNG Scripture Association
+-
+    language_id: 6414
+    organization_id: 494
+    vernacular: 0
+    name: Pray for China Ministries
+-
+    language_id: 6414
+    organization_id: 495
+    vernacular: 0
+    name: Radio Réveil
+-
+    language_id: 6414
+    organization_id: 496
+    vernacular: 0
+    name: RBC Ministries
+-
+    language_id: 6414
+    organization_id: 497
+    vernacular: 0
+    name: ROCK International
+-
+    language_id: 6414
+    organization_id: 498
+    vernacular: 0
+    name: Kasr El Dobara Evangelical Church
+-
+    language_id: 6414
+    organization_id: 499
+    vernacular: 0
+    name: Sarah Music Ministry
+-
+    language_id: 6414
+    organization_id: 500
+    vernacular: 0
+    name: SAT-7
+-
+    language_id: 6414
+    organization_id: 501
+    vernacular: 0
+    name: Scripture Earth
+-
+    language_id: 6414
+    organization_id: 502
+    vernacular: 0
+    name: School of Christ Egypt
+-
+    language_id: 6414
+    organization_id: 503
+    vernacular: 0
+    name: School of Christ
+-
+    language_id: 6414
+    organization_id: 504
+    vernacular: 0
+    name: Scripture Union International
+-
+    language_id: 6414
+    organization_id: 505
+    vernacular: 0
+    name: Harmony Bible
+-
+    language_id: 6414
+    organization_id: 506
+    vernacular: 0
+    name: Southwest Baptist Theological Seminary
+-
+    language_id: 6414
+    organization_id: 507
+    vernacular: 0
+    name: Sword Project
+-
+    language_id: 6414
+    organization_id: 508
+    vernacular: 0
+    name: Talim Ministries
+-
+    language_id: 6414
+    organization_id: 510
+    vernacular: 0
+    name: The God Story Project
+-
+    language_id: 6414
+    organization_id: 511
+    vernacular: 0
+    name: The Visualized Bible
+-
+    language_id: 6414
+    organization_id: 512
+    vernacular: 0
+    name: Third Millennium Ministries
+-
+    language_id: 6414
+    organization_id: 513
+    vernacular: 0
+    name: Tucson Chinese Bible Society
+-
+    language_id: 6414
+    organization_id: 514
+    vernacular: 0
+    name: Voice of Christ Media
+-
+    language_id: 6414
+    organization_id: 515
+    vernacular: 0
+    name: Word Project
+-
+    language_id: 6414
+    organization_id: 516
+    vernacular: 0
+    name: World Christian Broadcasting
+-
+    language_id: 6414
+    organization_id: 518
+    vernacular: 0
+    name: 'Bena:we K''okshi'
+-
+    language_id: 6414
+    organization_id: 519
+    vernacular: 0
+    name: Youth With A Mission
+-
+    language_id: 6414
+    organization_id: 520
+    vernacular: 0
+    name: The Voice of the Martyrs
+-
+    language_id: 6414
+    organization_id: 521
+    vernacular: 0
+    name: Jesus Film Project
+-
+    language_id: 6414
+    organization_id: 522
+    vernacular: 0
+    name: Vimeo
+-
+    language_id: 6414
+    organization_id: 523
+    vernacular: 0
+    name: Lockman Foundation
+-
+    language_id: 6414
+    organization_id: 525
+    vernacular: 0
+    name: OneHope
+-
+    language_id: 6414
+    organization_id: 526
+    vernacular: 0
+    name: Open Doors International
+-
+    language_id: 6414
+    organization_id: 527
+    vernacular: 0
+    name: SIM
+-
+    language_id: 6414
+    organization_id: 528
+    vernacular: 0
+    name: 'The God''s Story Project'
+-
+    language_id: 6414
+    organization_id: 529
+    vernacular: 0
+    name: Paul D. Bramsen
+-
+    language_id: 6414
+    organization_id: 530
+    vernacular: 0
+    name: The Digital Bible Library
+-
+    language_id: 6414
+    organization_id: 531
+    vernacular: 0
+    name: YouVersion
+-
+    language_id: 6414
+    organization_id: 532
+    vernacular: 0
+    name: Bible Search
+-
+    language_id: 6414
+    organization_id: 533
+    vernacular: 0
+    name: 2K/DENMARK
+-
+    language_id: 6414
+    organization_id: 534
+    vernacular: 0
+    name: Jubilate Software Ltd
+-
+    language_id: 6414
+    organization_id: 535
+    vernacular: 0
+    name: Bible Society of El Salvador
+-
+    language_id: 6414
+    organization_id: 536
+    vernacular: 1
+    name: International Mission Board of the Southern Baptist Convention
+-
+    language_id: 6414
+    organization_id: 537
+    vernacular: 0
+    name: Ukrainian Christian Publishers Association
+-
+    language_id: 6414
+    organization_id: 538
+    vernacular: 0
+    name: Korea Computer Mission
+-
+    language_id: 6414
+    organization_id: 539
+    vernacular: 0
+    name: Swiss Bible Society
+-
+    language_id: 6414
+    organization_id: 540
+    vernacular: 0
+    name: Kalaam Media
+-
+    language_id: 6414
+    organization_id: 541
+    vernacular: 0
+    name: LUMO Project
+-
+    language_id: 6414
+    organization_id: 542
+    vernacular: 1
+    name: Pastoral Bible Foundation
+-
+    language_id: 6414
+    organization_id: 543
+    vernacular: 1
+    name: Compass Braille
+-
+    language_id: 6414
+    organization_id: 544
+    vernacular: 1
+    name: Kingdom Media Games
+-
+    language_id: 6414
+    organization_id: 545
+    vernacular: 0
+    name: Gideons International Canada
+-
+    language_id: 6414
+    organization_id: 546
+    vernacular: 0
+    name: An Sagart
+-
+    language_id: 6414
+    organization_id: 547
+    vernacular: 0
+    name: Eastern Tamang Language Team
+-
+    language_id: 6414
+    organization_id: 548
+    vernacular: 0
+    name: Brian Stich
+-
+    language_id: 6414
+    organization_id: 549
+    vernacular: 1
+    name: GreenStone Ministry
+-
+    language_id: 6414
+    organization_id: 550
+    vernacular: 0
+    name: Bible Society of Algeria
+-
+    language_id: 6414
+    organization_id: 551
+    vernacular: 1
+    name: Wycliffe Associates
+-
+    language_id: 6414
+    organization_id: 552
+    vernacular: 0
+    name: Torch Trust
+-
+    language_id: 6414
+    organization_id: 553
+    vernacular: 0
+    name: Renewed Vision
+-
+    language_id: 6414
+    organization_id: 554
+    vernacular: 0
+    name: Bible Society of Macedonia
+-
+    language_id: 6414
+    organization_id: 556
+    vernacular: 0
+    name: iDisciple
+-
+    language_id: 6414
+    organization_id: 557
+    vernacular: 0
+    name: Pioneers UK
+-
+    language_id: 6414
+    organization_id: 558
+    vernacular: 0
+    name: BRG Bible Ministries
+-
+    language_id: 6414
+    organization_id: 559
+    vernacular: 0
+    name: TheBible.org
+-
+    language_id: 6414
+    organization_id: 560
+    vernacular: 0
+    name: Samaritan Purse
+-
+    language_id: 6414
+    organization_id: 561
+    vernacular: 0
+    name: Trans World Radio
+-
+    language_id: 6414
+    organization_id: 562
+    vernacular: 0
+    name: Evangelical Biblical Institute
+-
+    language_id: 6414
+    organization_id: 574
+    vernacular: 0
+    name: Lutheran Bible Translators Australia
+-
+    language_id: 6414
+    organization_id: 575
+    vernacular: 0
+    name: Bible Society in the Netherlands Antilles
+-
+    language_id: 6414
+    organization_id: 576
+    vernacular: 0
+    name: Immersion Digital
+-
+    language_id: 6414
+    organization_id: 577
+    vernacular: 0
+    name: Vietnam Partnership
+-
+    language_id: 6414
+    organization_id: 578
+    vernacular: 0
+    name: Church Minsk City
+-
+    language_id: 6414
+    organization_id: 579
+    vernacular: 0
+    name: Glo Bible
+-
+    language_id: 6414
+    organization_id: 580
+    vernacular: 0
+    name: China Partnership
+-
+    language_id: 6414
+    organization_id: 581
+    vernacular: 0
+    name: Salem Web Network
+-
+    language_id: 6414
+    organization_id: 582
+    vernacular: 0
+    name: Though the Word
+-
+    language_id: 6414
+    organization_id: 583
+    vernacular: 0
+    name: z-BIBLE
+-
+    language_id: 6414
+    organization_id: 584
+    vernacular: 0
+    name: Bible Museum
+-
+    language_id: 6414
+    organization_id: 585
+    vernacular: 0
+    name: Galcom
+-
+    language_id: 6414
+    organization_id: 586
+    vernacular: 0
+    name: Bible Society of Tajikistan
+-
+    language_id: 6414
+    organization_id: 587
+    vernacular: 0
+    name: Power to Change
+-
+    language_id: 6414
+    organization_id: 588
+    vernacular: 0
+    name: Aramaic Bible Translation
+-
+    language_id: 6414
+    organization_id: 589
+    vernacular: 0
+    name: Google
+-
+    language_id: 6414
+    organization_id: 590
+    vernacular: 0
+    name: Olive Tree
+-
+    language_id: 6414
+    organization_id: 591
+    vernacular: 0
+    name: Worldreader
+-
+    language_id: 6414
+    organization_id: 593
+    vernacular: 0
+    name: Bible Society of Northern Ireland
+-
+    language_id: 6414
+    organization_id: 594
+    vernacular: 0
+    name: Prison Fellowship International
+-
+    language_id: 6414
+    organization_id: 595
+    vernacular: 0
+    name: World Bibles
+-
+    language_id: 6414
+    organization_id: 597
+    vernacular: 0
+    name: Clarion Creative
+-
+    language_id: 6414
+    organization_id: 599
+    vernacular: 0
+    name: OneHundredFold
+-
+    language_id: 6414
+    organization_id: 600
+    vernacular: 0
+    name: Millennial Apps
+-
+    language_id: 6414
+    organization_id: 601
+    vernacular: 0
+    name: STEP Bible
+-
+    language_id: 6414
+    organization_id: 602
+    vernacular: 0
+    name: Every Home for Christ
+-
+    language_id: 6414
+    organization_id: 603
+    vernacular: 0
+    name: Bible Society of Costa Rica
+-
+    language_id: 6414
+    organization_id: 604
+    vernacular: 0
+    name: 'America''s Publishing Committee'
+-
+    language_id: 6414
+    organization_id: 605
+    vernacular: 0
+    name: Renew World Outreach
+-
+    language_id: 6414
+    organization_id: 606
+    vernacular: 0
+    name: Bible Society of Malta
+-
+    language_id: 6414
+    organization_id: 607
+    vernacular: 0
+    name: Biblia Plus
+-
+    language_id: 6414
+    organization_id: 608
+    vernacular: 0
+    name: Bible Society of Kyrgyzstan
+-
+    language_id: 6414
+    organization_id: 609
+    vernacular: 0
+    name: Operation Mobilization International
+-
+    language_id: 6414
+    organization_id: 610
+    vernacular: 0
+    name: Bible Society of Serbia
+-
+    language_id: 6414
+    organization_id: 611
+    vernacular: 0
+    name: Truth for Today World Mission School
+-
+    language_id: 6414
+    organization_id: 613
+    vernacular: 0
+    name: Crazy Love Ministries
+-
+    language_id: 6414
+    organization_id: 615
+    vernacular: 0
+    name: Bible Society of Lesotho
+-
+    language_id: 6414
+    organization_id: 616
+    vernacular: 0
+    name: Bible Society of Croatia
+-
+    language_id: 6414
+    organization_id: 617
+    vernacular: 0
+    name: OneSheep
+-
+    language_id: 6414
+    organization_id: 618
+    vernacular: 0
+    name: 4.2.20 Foundation
+-
+    language_id: 6414
+    organization_id: 619
+    vernacular: 0
+    name: Ekta Book Distributors
+-
+    language_id: 6414
+    organization_id: 621
+    vernacular: 0
+    name: La Biblioteca Mexicana del Hogar
+-
+    language_id: 6414
+    organization_id: 622
+    vernacular: 0
+    name: Thailand Bible Society
+-
+    language_id: 6414
+    organization_id: 623
+    vernacular: 0
+    name: Bharatiya General Conference Mennonite Church
+-
+    language_id: 6414
+    organization_id: 624
+    vernacular: 0
+    name: Malagasy Bible Society
+-
+    language_id: 6414
+    organization_id: 625
+    vernacular: 0
+    name: Bible Society in Turkey
+-
+    language_id: 6414
+    organization_id: 626
+    vernacular: 0
+    name: Bible Society in Taiwan
+-
+    language_id: 6414
+    organization_id: 627
+    vernacular: 0
+    name: EPI
+-
+    language_id: 6414
+    organization_id: 628
+    vernacular: 0
+    name: Epicenter
+-
+    language_id: 6414
+    organization_id: 629
+    vernacular: 0
+    name: Unión Nacional de Traductores Indígenas A.C.
+-
+    language_id: 6414
+    organization_id: 630
+    vernacular: 0
+    name: Vanuatu Bibles
+-
+    language_id: 6414
+    organization_id: 631
+    vernacular: 0
+    name: Central Asia Publisher
+-
+    language_id: 6414
+    organization_id: 632
+    vernacular: 0
+    name: Abakaliki Literacy and Translation Trust
+-
+    language_id: 6414
+    organization_id: 634
+    vernacular: 0
+    name: Translation Trust
+-
+    language_id: 6414
+    organization_id: 635
+    vernacular: 0
+    name: Wycliffe Bible Translators, Australia
+-
+    language_id: 6414
+    organization_id: 638
+    vernacular: 0
+    name: Friends Missionary Prayer Band
+-
+    language_id: 6414
+    organization_id: 639
+    vernacular: 0
+    name: Hungarian Bible Society
+-
+    language_id: 6414
+    organization_id: 640
+    vernacular: 0
+    name: The Bible Society in Cambodia
+-
+    language_id: 6414
+    organization_id: 641
+    vernacular: 0
+    name: Institute for Bible Translation, Sweden
+-
+    language_id: 6414
+    organization_id: 642
+    vernacular: 0
+    name: The Archdiocese of Kota Kinabalu
+-
+    language_id: 6414
+    organization_id: 643
+    vernacular: 0
+    name: Association Chretienne d&rsquo;Expression Berbere
+-
+    language_id: 6414
+    organization_id: 644
+    vernacular: 0
+    name: Wycliffe India
+-
+    language_id: 6414
+    organization_id: 645
+    vernacular: 0
+    name: BY-ND
+-
+    language_id: 6414
+    organization_id: 703
+    vernacular: 0
+    name: SIM Nigeria
+-
+    language_id: 6414
+    organization_id: 704
+    vernacular: 0
+    name: Sherpa Christian Association Nepal
+-
+    language_id: 6414
+    organization_id: 705
+    vernacular: 0
+    name: Apostolos Vavylis
+-
+    language_id: 6414
+    organization_id: 706
+    vernacular: 0
+    name: Indian Evangelical Mission
+-
+    language_id: 6414
+    organization_id: 707
+    vernacular: 0
+    name: Albata
+-
+    language_id: 6414
+    organization_id: 708
+    vernacular: 0
+    name: The Bible Society of Malawi
+-
+    language_id: 6414
+    organization_id: 709
+    vernacular: 0
+    name: Sinode Gereja Protestan Maluku
+-
+    language_id: 6414
+    organization_id: 710
+    vernacular: 0
+    name: Pocket Testament League
+-
+    language_id: 6414
+    organization_id: 712
+    vernacular: 0
+    name: Malvoday and New Life Literature
+-
+    language_id: 6414
+    organization_id: 713
+    vernacular: 0
+    name: Bible Society in Liberia
+-
+    language_id: 6414
+    organization_id: 714
+    vernacular: 0
+    name: Pierre deMers
+-
+    language_id: 6414
+    organization_id: 715
+    vernacular: 0
+    name: Stiftelsen Svenska Folkbibeln
+-
+    language_id: 6414
+    organization_id: 716
+    vernacular: 0
+    name: Licht im Osten
+-
+    language_id: 6414
+    organization_id: 718
+    vernacular: 0
+    name: Sociedad Bíblica de Argentina
+-
+    language_id: 6414
+    organization_id: 719
+    vernacular: 0
+    name: Interconfessional Bible Society of Albania
+-
+    language_id: 6414
+    organization_id: 723
+    vernacular: 0
+    name: Bible Society in Nicaragua
+-
+    language_id: 6414
+    organization_id: 724
+    vernacular: 0
+    name: Missão Evangélica da Amazônia
+-
+    language_id: 6414
+    organization_id: 725
+    vernacular: 0
+    name: Studium Biblicum O.F.M.
+-
+    language_id: 6414
+    organization_id: 727
+    vernacular: 0
+    name: The Bible Society of Ghana
+-
+    language_id: 6414
+    organization_id: 728
+    vernacular: 0
+    name: Interconfessional Bible Society in Romania
+-
+    language_id: 6414
+    organization_id: 730
+    vernacular: 0
+    name: Here is Life
+-
+    language_id: 6414
+    organization_id: 731
+    vernacular: 0
+    name: The Word for the World Bible Translators International
+-
+    language_id: 6414
+    organization_id: 732
+    vernacular: 0
+    name: SIL MSEA
+-
+    language_id: 6414
+    organization_id: 733
+    vernacular: 0
+    name: Chilean Bible Society
+-
+    language_id: 6414
+    organization_id: 734
+    vernacular: 0
+    name: Vina
+-
+    language_id: 6414
+    organization_id: 735
+    vernacular: 0
+    name: Translation Committee of Takuu, Mortlock Community
+-
+    language_id: 6414
+    organization_id: 737
+    vernacular: 0
+    name: New Bridge Publishing Company Limited
+-
+    language_id: 6414
+    organization_id: 738
+    vernacular: 0
+    name: Spyros Filos Translation
+-
+    language_id: 6414
+    organization_id: 739
+    vernacular: 0
+    name: Bible Society in Burundi
+-
+    language_id: 6414
+    organization_id: 740
+    vernacular: 0
+    name: Baptist Convention of Panama
+-
+    language_id: 6414
+    organization_id: 741
+    vernacular: 0
+    name: Norsk Bibel
+-
+    language_id: 6414
+    organization_id: 742
+    vernacular: 0
+    name: Collaborating Partners
+-
+    language_id: 6414
+    organization_id: 743
+    vernacular: 0
+    name: Liga del Sembrador, A.C.
+-
+    language_id: 6414
+    organization_id: 744
+    vernacular: 0
+    name: The Bible Society of Egypt
+-
+    language_id: 6414
+    organization_id: 745
+    vernacular: 0
+    name: The Bible Society of Uganda
+-
+    language_id: 6414
+    organization_id: 748
+    vernacular: 0
+    name: Guyana Bible Society
+-
+    language_id: 6414
+    organization_id: 749
+    vernacular: 0
+    name: Christian Classics Federal Library
+-
+    language_id: 6414
+    organization_id: 751
+    vernacular: 0
+    name: WPS
+-
+    language_id: 6414
+    organization_id: 752
+    vernacular: 0
+    name: Barbour Publishing, Inc.
+-
+    language_id: 6414
+    organization_id: 753
+    vernacular: 0
+    name: Rvwang Bible Committee
+-
+    language_id: 6414
+    organization_id: 754
+    vernacular: 0
+    name: Yasuma
+-
+    language_id: 6414
+    organization_id: 755
+    vernacular: 0
+    name: Bible Translation and Literacy
+-
+    language_id: 6414
+    organization_id: 757
+    vernacular: 0
+    name: Bada
+-
+    language_id: 6414
+    organization_id: 758
+    vernacular: 0
+    name: Myanmar Center For World Mission
+-
+    language_id: 6414
+    organization_id: 759
+    vernacular: 0
+    name: Dusty Sandals Society
+-
+    language_id: 6414
+    organization_id: 761
+    vernacular: 0
+    name: Kapingamarangi Bible Translation Committee
+-
+    language_id: 6414
+    organization_id: 762
+    vernacular: 0
+    name: Velberter Mission
+-
+    language_id: 6414
+    organization_id: 763
+    vernacular: 0
+    name: The Bible League of Brazil
+-
+    language_id: 6414
+    organization_id: 764
+    vernacular: 0
+    name: GILLBT
+-
+    language_id: 6414
+    organization_id: 765
+    vernacular: 0
+    name: DF
+-
+    language_id: 6414
+    organization_id: 766
+    vernacular: 0
+    name: Church Council of the Evangelical Lutheran Church of Finland
+-
+    language_id: 6414
+    organization_id: 767
+    vernacular: 0
+    name: Kenneth Claesson
+-
+    language_id: 6414
+    organization_id: 768
+    vernacular: 0
+    name: Pergamos Publications
+-
+    language_id: 6414
+    organization_id: 769
+    vernacular: 0
+    name: Bible Society in Mozambique
+-
+    language_id: 6414
+    organization_id: 770
+    vernacular: 0
+    name: Mission Evangelique (NTM)
+-
+    language_id: 6414
+    organization_id: 772
+    vernacular: 0
+    name: The Bible Society in Israel
+-
+    language_id: 6414
+    organization_id: 774
+    vernacular: 0
+    name: Bible Society in Burkina Faso
+-
+    language_id: 6414
+    organization_id: 775
+    vernacular: 0
+    name: David Neil Nellis
+-
+    language_id: 6414
+    organization_id: 777
+    vernacular: 0
+    name: Donna Saune
+-
+    language_id: 6414
+    organization_id: 781
+    vernacular: 0
+    name: Paraguayan Bible Society
+-
+    language_id: 6414
+    organization_id: 782
+    vernacular: 0
+    name: The Bible Society of Malaysia
+-
+    language_id: 6414
+    organization_id: 783
+    vernacular: 0
+    name: The Bible League
+-
+    language_id: 6414
+    organization_id: 785
+    vernacular: 0
+    name: Nepali National Language Preservation Institute
+-
+    language_id: 6414
+    organization_id: 787
+    vernacular: 0
+    name: Borneo Sabda Limited
+-
+    language_id: 6414
+    organization_id: 788
+    vernacular: 0
+    name: Good News Publishers
+-
+    language_id: 6414
+    organization_id: 789
+    vernacular: 0
+    name: One Story Partnership
+-
+    language_id: 6414
+    organization_id: 792
+    vernacular: 0
+    name: Sam Siam
+-
+    language_id: 6414
+    organization_id: 794
+    vernacular: 0
+    name: Winfred Henson
+-
+    language_id: 6414
+    organization_id: 795
+    vernacular: 0
+    name: Piedras Sobre la Roca A.C.
+-
+    language_id: 6414
+    organization_id: 796
+    vernacular: 0
+    name: New India Evangelistic Association
+-
+    language_id: 6414
+    organization_id: 803
+    vernacular: 0
+    name: Hmong Baptist Fellowship
+-
+    language_id: 6414
+    organization_id: 804
+    vernacular: 0
+    name: Wycliffe Eastern Congo Group
+-
+    language_id: 6414
+    organization_id: 805
+    vernacular: 0
+    name: BY-NC-SA
+-
+    language_id: 6414
+    organization_id: 811
+    vernacular: 0
+    name: Orchard Lake Schools
+-
+    language_id: 6414
+    organization_id: 812
+    vernacular: 0
+    name: BY-NC-ND
+-
+    language_id: 6414
+    organization_id: 813
+    vernacular: 0
+    name: Ioan Ciobotӑ
+-
+    language_id: 6414
+    organization_id: 814
+    vernacular: 0
+    name: Dogrib Translation Committee
+-
+    language_id: 6414
+    organization_id: 816
+    vernacular: 0
+    name: New Zealand Bible Society
+-
+    language_id: 6414
+    organization_id: 817
+    vernacular: 0
+    name: Audio Scriptures International
+-
+    language_id: 6414
+    organization_id: 819
+    vernacular: 0
+    name: ILMAV - Impactando las Lenguas Minoritarias con Audiovisuales
+-
+    language_id: 6414
+    organization_id: 821
+    vernacular: 0
+    name: Japan Bible Society
+-
+    language_id: 6414
+    organization_id: 829
+    vernacular: 0
+    name: SITAG
+-
+    language_id: 6414
+    organization_id: 832
+    vernacular: 0
+    name: Used by Permission
+-
+    language_id: 6414
+    organization_id: 837
+    vernacular: 0
+    name: Boris Vale
+-
+    language_id: 6414
+    organization_id: 840
+    vernacular: 0
+    name: Theovision International
+-
+    language_id: 6414
+    organization_id: 844
+    vernacular: 0
+    name: Bible Translations on Tape
+-
+    language_id: 6414
+    organization_id: 845
+    vernacular: 0
+    name: Choong Weng Kay
+-
+    language_id: 6414
+    organization_id: 847
+    vernacular: 0
+    name: Bible Society of Congo
+-
+    language_id: 6414
+    organization_id: 850
+    vernacular: 0
+    name: Audio Visuales para America Latina, A.C.
+-
+    language_id: 6414
+    organization_id: 851
+    vernacular: 0
+    name: Asociación Traducciones Bíblicas Mayas de Guatemala (ATBMG)
+-
+    language_id: 6414
+    organization_id: 856
+    vernacular: 0
+    name: Bolivian Bible Society
+-
+    language_id: 6414
+    organization_id: 857
+    vernacular: 0
+    name: Folk and Sprak and Swedish Mission Alliance
+-
+    language_id: 6414
+    organization_id: 860
+    vernacular: 0
+    name: Asian Sahyogi Sanstha India Gorakhpur, (U.P.)
+-
+    language_id: 6414
+    organization_id: 866
+    vernacular: 0
+    name: United Bible Societies in Ecuador
+-
+    language_id: 6414
+    organization_id: 868
+    vernacular: 0
+    name: New Tribes Mission
+-
+    language_id: 6414
+    organization_id: 870
+    vernacular: 0
+    name: Terry Noble
+-
+    language_id: 6414
+    organization_id: 871
+    vernacular: 0
+    name: Diocese of Quiche, Guatemala, C.A.
+-
+    language_id: 6414
+    organization_id: 873
+    vernacular: 0
+    name: AIESE Asociacion de Iglesias Evangelicas Shuar
+-
+    language_id: 6414
+    organization_id: 875
+    vernacular: 0
+    name: Larry Edward Marhenke and Sonya Louise Eidsvoog de Marhenke and their descendents
+-
+    language_id: 6414
+    organization_id: 887
+    vernacular: 0
+    name: Folk&Språk and Swedish Mission Alliance
+-
+    language_id: 6414
+    organization_id: 889
+    vernacular: 0
+    name: Ethiopian Kale Heywet Church
+-
+    language_id: 6414
+    organization_id: 897
+    vernacular: 0
+    name: Bible Society in the Gambia
+-
+    language_id: 6414
+    organization_id: 898
+    vernacular: 0
+    name: Alliance Biblique en Centrafrique
+-
+    language_id: 6414
+    organization_id: 900
+    vernacular: 0
+    name: Diócesis de Quiché, Guatemala, C.A.
+-
+    language_id: 6414
+    organization_id: 901
+    vernacular: 0
+    name: Larry Edward Marhenke & Sonya Louise Eidsvoog de Marhenke, y sus descendientes (and their descendents)
+-
+    language_id: 6414
+    organization_id: 902
+    vernacular: 0
+    name: Bruce Johnson
+-
+    language_id: 6414
+    organization_id: 903
+    vernacular: 0
+    name: Dr. Heng Ly Lim
+-
+    language_id: 6414
+    organization_id: 911
+    vernacular: 0
+    name: Greek Bible Society
+-
+    language_id: 6414
+    organization_id: 912
+    vernacular: 0
+    name: Rev. Arved Celms
+-
+    language_id: 6414
+    organization_id: 913
+    vernacular: 0
+    name: International Bible Society
+-
+    language_id: 6414
+    organization_id: 914
+    vernacular: 0
+    name: Armenian Church of the Nazarene
+-
+    language_id: 6414
+    organization_id: 915
+    vernacular: 0
+    name: Bible Society of the DRC
+-
+    language_id: 6414
+    organization_id: 916
+    vernacular: 0
+    name: The John Ankerberg Show
+-
+    language_id: 6414
+    organization_id: 917
+    vernacular: 0
+    name: Association for the Restoration of the 1912 Translation
+-
+    language_id: 6414
+    organization_id: 920
+    vernacular: 0
+    name: Kitab Shirketi
+-
+    language_id: 6414
+    organization_id: 927
+    vernacular: 0
+    name: Bible Society of India and Ceylon
+-
+    language_id: 6414
+    organization_id: 928
+    vernacular: 0
+    name: James Baxley
+-
+    language_id: 6414
+    organization_id: 930
+    vernacular: 0
+    name: George Borrow
+-
+    language_id: 6414
+    organization_id: 931
+    vernacular: 0
+    name: Johann Ludwig Krapf
+-
+    language_id: 6414
+    organization_id: 932
+    vernacular: 0
+    name: Sin-Nihon-Seisyo-Kankou-Kai
+-
+    language_id: 6414
+    organization_id: 933
+    vernacular: 0
+    name: Jean Frederic Ostervald
+-
+    language_id: 6414
+    organization_id: 934
+    vernacular: 0
+    name: Ellis W. Deibler, Jr.
+-
+    language_id: 6414
+    organization_id: 935
+    vernacular: 0
+    name: Bridge Connectivity Solutions
+-
+    language_id: 6414
+    organization_id: 937
+    vernacular: 0
+    name: British Crown
+-
+    language_id: 6414
+    organization_id: 938
+    vernacular: 0
+    name: Unit Bahasa dan Budaya
+-
+    language_id: 6414
+    organization_id: 939
+    vernacular: 0
+    name: Thomas Robinson
+-
+    language_id: 6414
+    organization_id: 940
+    vernacular: 0
+    name: UEEB/SIM au Benin
+-
+    language_id: 6414
+    organization_id: 941
+    vernacular: 0
+    name: Martin Luther
+-
+    language_id: 6414
+    organization_id: 942
+    vernacular: 0
+    name: The Kapingamarangi Bible translation committee
+-
+    language_id: 6414
+    organization_id: 943
+    vernacular: 0
+    name: Free Bibles India
+-
+    language_id: 6414
+    organization_id: 950
+    vernacular: 0
+    name: Sir Lancelot Charles Lee Brenton, Michael Paul Johnson
+-
+    language_id: 6414
+    organization_id: 951
+    vernacular: 0
+    name: Michael Paul Johnson
+-
+    language_id: 6414
+    organization_id: 952
+    vernacular: 0
+    name: Louis Segond
+-
+    language_id: 6414
+    organization_id: 954
+    vernacular: 0
+    name: gilakmedia.com
+-
+    language_id: 6414
+    organization_id: 955
+    vernacular: 0
+    name: Philip Pope
+-
+    language_id: 6414
+    organization_id: 956
+    vernacular: 0
+    name: Global Bible Translators
+-
+    language_id: 6414
+    organization_id: 957
+    vernacular: 0
+    name: Sir Lancelot Charles Lee Brenton
+-
+    language_id: 6414
+    organization_id: 958
+    vernacular: 0
+    name: Punjabi Virsa
+-
+    language_id: 6414
+    organization_id: 962
+    vernacular: 0
+    name: Pengamat Kitab Mulia
+-
+    language_id: 6414
+    organization_id: 963
+    vernacular: 0
+    name: Society for International Ministries (SIM)
+-
+    language_id: 6414
+    organization_id: 965
+    vernacular: 0
+    name: MERN_PBT
+-
+    language_id: 6414
+    organization_id: 967
+    vernacular: 0
+    name: Bulgarian Bible 1940
+-
+    language_id: 6414
+    organization_id: 968
+    vernacular: 0
+    name: J Warren Wells
+-
+    language_id: 6414
+    organization_id: 970
+    vernacular: 0
+    name: Bible Society of Azerbaijan
+-
+    language_id: 6414
+    organization_id: 971
+    vernacular: 0
+    name: Sdruzeni pro Novou Bibli kralickou
+-
+    language_id: 6414
+    organization_id: 974
+    vernacular: 0
+    name: Paharima Hasui
+-
+    language_id: 6414
+    organization_id: 976
+    vernacular: 0
+    name: Jean-François le Gonidec
+-
+    language_id: 6414
+    organization_id: 977
+    vernacular: 0
+    name: Krestanska misijni spolecnost
+-
+    language_id: 6414
+    organization_id: 979
+    vernacular: 0
+    name: Evangelical Bible Institute
+-
+    language_id: 6414
+    organization_id: 980
+    vernacular: 0
+    name: Newar Christian Literature Center
+-
+    language_id: 6414
+    organization_id: 982
+    vernacular: 0
+    name: c Giờ Kinh Phụng Vụ giữ bản quyền reserved
+-
+    language_id: 6414
+    organization_id: 983
+    vernacular: 0
+    name: Antoni Bokun
+-
+    language_id: 6414
+    organization_id: 984
+    vernacular: 0
+    name: John the Forerunner Church
+-
+    language_id: 6414
+    organization_id: 985
+    vernacular: 0
+    name: CHRISTIAN MISSIONS FOR THE UNREACHED
+-
+    language_id: 6414
+    organization_id: 986
+    vernacular: 0
+    name: Asociación Educativa y Cultural Maya
+-
+    language_id: 6414
+    organization_id: 987
+    vernacular: 0
+    name: The Nggem Translation Team
+-
+    language_id: 6414
+    organization_id: 988
+    vernacular: 0
+    name: Alkitab.pw
+-
+    language_id: 6414
+    organization_id: 989
+    vernacular: 0
+    name: Bible Society in Rwanda
+-
+    language_id: 6414
+    organization_id: 991
+    vernacular: 0
+    name: KJ Publishers & Ampersand
+-
+    language_id: 6414
+    organization_id: 992
+    vernacular: 0
+    name: La Société Biblique Malgache
+-
+    language_id: 6414
+    organization_id: 993
+    vernacular: 0
+    name: Comite de Traduction igo
+-
+    language_id: 6414
+    organization_id: 994
+    vernacular: 0
+    name: Kurdish Literature Association
+-
+    language_id: 6414
+    organization_id: 995
+    vernacular: 0
+    name: Bible Society of Kazakhstan
+-
+    language_id: 6414
+    organization_id: 997
+    vernacular: 0
+    name: Asian Partners International, Inc.
+-
+    language_id: 6414
+    organization_id: 998
+    vernacular: 0
+    name: Bible Society in the East Caribbean
+-
+    language_id: 6414
+    organization_id: 999
+    vernacular: 0
+    name: The Bible Society in Angola
+-
+    language_id: 6414
+    organization_id: 1002
+    vernacular: 0
+    name: Bible Society in Costa Rica
+-
+    language_id: 6414
+    organization_id: 1003
+    vernacular: 0
+    name: 'Potter''s Field Ministries'
+-
+    language_id: 6414
+    organization_id: 1004
+    vernacular: 0
+    name: Promise Child
+-
+    language_id: 6414
+    organization_id: 1005
+    vernacular: 0
+    name: National Council of the Churches of Christ in USA
+-
+    language_id: 6414
+    organization_id: 1007
+    vernacular: 0
+    name: Bible Society in Togo
+-
+    language_id: 6414
+    organization_id: 1008
+    vernacular: 0
+    name: Konda Saduvu Samastha
+-
+    language_id: 6414
+    organization_id: 1009
+    vernacular: 0
+    name: Korean Bible Society
+-
+    language_id: 6414
+    organization_id: 1011
+    vernacular: 0
+    name: Ceylon Bible Society
+-
+    language_id: 6414
+    organization_id: 1012
+    vernacular: 0
+    name: UFM International
+-
+    language_id: 6414
+    organization_id: 1018
+    vernacular: 0
+    name: Valdemar Kalinin on behalf of GBV Mission
+-
+    language_id: 6414
+    organization_id: 1019
+    vernacular: 0
+    name: The Bible Society in Russia
+-
+    language_id: 6414
+    organization_id: 1023
+    vernacular: 0
+    name: Éternel and Újszövetség
+-
+    language_id: 6414
+    organization_id: 1029
+    vernacular: 0
+    name: Word to Russia
+-
+    language_id: 6414
+    organization_id: 1042
+    vernacular: 0
+    name: SIL Solomon Islands
+-
+    language_id: 6414
+    organization_id: 1043
+    vernacular: 1
+    name: Confraternity of Christian Doctrine, Inc.
+-
+    language_id: 6414
+    organization_id: 1044
+    vernacular: 0
+    name: Lingao Translation Committee
+-
+    language_id: 6414
+    organization_id: 1045
+    vernacular: 1
+    name: Evangel Bible Translators, International
+-
+    language_id: 6414
+    organization_id: 1046
+    vernacular: 0
+    name: Impact Production
+-
+    language_id: 6414
+    organization_id: 1047
+    vernacular: 0
+    name: BY-NC
+-
+    language_id: 6414
+    organization_id: 1048
+    vernacular: 0
+    name: Spoken Worldwide
+-
+    language_id: 6414
+    organization_id: 1051
+    vernacular: 0
+    name: The Bible Project
+-
+    language_id: 6414
+    organization_id: 1052
+    vernacular: 0
+    name: Association of Baptists
+-
+    language_id: 6414
+    organization_id: 1053
+    vernacular: 0
+    name: LibraryThing
+-
+    language_id: 6414
+    organization_id: 1055
+    vernacular: 0
+    name: Alpha
+-
+    language_id: 6414
+    organization_id: 1056
+    vernacular: 0
+    name: Museum of the Bible
+-
+    language_id: 6414
+    organization_id: 1057
+    vernacular: 0
+    name: Bible League - Bulgaria
+-
+    language_id: 6414
+    organization_id: 1059
+    vernacular: 0
+    name: Bible Translation Institute at Zaoksky, Russia
+-
+    language_id: 6414
+    organization_id: 1062
+    vernacular: 0
+    name: Africa Inland Mission
+-
+    language_id: 6414
+    organization_id: 1063
+    vernacular: 0
+    name: Bible Society of America 
+-
+    language_id: 6414
+    organization_id: 1064
+    vernacular: 0
+    name: Asia Pacifica Sign Language Development Association (APSLDA)
+-
+    language_id: 6414
+    organization_id: 1065
+    vernacular: 0
+    name: Asociación Cristiana Manos en Acción
+-
+    language_id: 6414
+    organization_id: 1067
+    vernacular: 0
+    name: Bastar True Light Samiti
+-
+    language_id: 6414
+    organization_id: 1068
+    vernacular: 0
+    name: Bible Society of the Netherlands Antilles
+-
+    language_id: 6414
+    organization_id: 1069
+    vernacular: 0
+    name: Biruta Celms
+-
+    language_id: 6414
+    organization_id: 1070
+    vernacular: 0
+    name: Botswana, Bible Society of
+-
+    language_id: 6414
+    organization_id: 1071
+    vernacular: 0
+    name: Bouyei Translation Team
+-
+    language_id: 6414
+    organization_id: 1072
+    vernacular: 0
+    name: Buena Semilla
+-
+    language_id: 6414
+    organization_id: 1073
+    vernacular: 0
+    name: Calvary Chapel Siegen e.V.
+-
+    language_id: 6414
+    organization_id: 1074
+    vernacular: 0
+    name: Centro Catequético Paulo VI - Anchilo
+-
+    language_id: 6414
+    organization_id: 1075
+    vernacular: 0
+    name: Cheyenne Bible Translation Committee
+-
+    language_id: 6414
+    organization_id: 1076
+    vernacular: 0
+    name: Christliche Verlagsgesellschaft Dillenburg
+-
+    language_id: 6414
+    organization_id: 1077
+    vernacular: 0
+    name: CLAN
+-
+    language_id: 6414
+    organization_id: 1078
+    vernacular: 0
+    name: Conferencia Episcopal de Guatemala
+-
+    language_id: 6414
+    organization_id: 1079
+    vernacular: 0
+    name: Consejo Episcopal Latinoamericano (CELAM)
+-
+    language_id: 6414
+    organization_id: 1080
+    vernacular: 0
+    name: David Louie
+-
+    language_id: 6414
+    organization_id: 1081
+    vernacular: 0
+    name: Deaf Missions
+-
+    language_id: 6414
+    organization_id: 1082
+    vernacular: 0
+    name: Donna Gardiner - SIL
+-
+    language_id: 6414
+    organization_id: 1083
+    vernacular: 0
+    name: Dr Nabih Adbelmalek & Dr Edward Bishay
+-
+    language_id: 6414
+    organization_id: 1084
+    vernacular: 0
+    name: Eunice Jones
+-
+    language_id: 6414
+    organization_id: 1085
+    vernacular: 0
+    name: Family Life Network
+-
+    language_id: 6414
+    organization_id: 1086
+    vernacular: 0
+    name: Franconia Mennonite Conference
+-
+    language_id: 6414
+    organization_id: 1087
+    vernacular: 0
+    name: Gate of Hope Foundation
+-
+    language_id: 6414
+    organization_id: 1088
+    vernacular: 0
+    name: Gereja Firman Allah
+-
+    language_id: 6414
+    organization_id: 1089
+    vernacular: 0
+    name: Good News Centre
+-
+    language_id: 6414
+    organization_id: 1090
+    vernacular: 0
+    name: Good News International Ministries
+-
+    language_id: 6414
+    organization_id: 1091
+    vernacular: 0
+    name: Icelandic Bible Society
+-
+    language_id: 6414
+    organization_id: 1092
+    vernacular: 0
+    name: Inner Mongolian Bible Society
+-
+    language_id: 6414
+    organization_id: 1093
+    vernacular: 0
+    name: Junta de Missões Nacionais da Convenção Batista Brasileira
+-
+    language_id: 6414
+    organization_id: 1094
+    vernacular: 0
+    name: Larry Edward Marhenke & Sonya Louise Eidsvoog de Marhenke
+-
+    language_id: 6414
+    organization_id: 1095
+    vernacular: 0
+    name: 'L''Eglise Baptiste d''Agadez'
+-
+    language_id: 6414
+    organization_id: 1096
+    vernacular: 0
+    name: Lutheran Church of Nigeria
+-
+    language_id: 6414
+    organization_id: 1097
+    vernacular: 0
+    name: Malcolm and Uma Johnson
+-
+    language_id: 6414
+    organization_id: 1098
+    vernacular: 0
+    name: Margarete Janzen
+-
+    language_id: 6414
+    organization_id: 1099
+    vernacular: 0
+    name: Mekane Yesus Church
+-
+    language_id: 6414
+    organization_id: 1100
+    vernacular: 0
+    name: Melody of Praise
+-
+    language_id: 6414
+    organization_id: 1101
+    vernacular: 0
+    name: Missao Amigos dos Ciganos (MACI)
+-
+    language_id: 6414
+    organization_id: 1102
+    vernacular: 0
+    name: Mother Tongue Translators Society
+-
+    language_id: 6414
+    organization_id: 1103
+    vernacular: 0
+    name: NBTT
+-
+    language_id: 6414
+    organization_id: 1104
+    vernacular: 0
+    name: New Harvest Global Ministries
+-
+    language_id: 6414
+    organization_id: 1105
+    vernacular: 0
+    name: New Life Computer Institute
+-
+    language_id: 6414
+    organization_id: 1106
+    vernacular: 0
+    name: New Life Missions
+-
+    language_id: 6414
+    organization_id: 1107
+    vernacular: 0
+    name: North India Evangelistic Association
+-
+    language_id: 6414
+    organization_id: 1108
+    vernacular: 0
+    name: Order of the Basilian Fathers of St Josahat
+-
+    language_id: 6414
+    organization_id: 1109
+    vernacular: 0
+    name: Pascal Denault
+-
+    language_id: 6414
+    organization_id: 1110
+    vernacular: 0
+    name: Promotora Española de Linguística
+-
+    language_id: 6414
+    organization_id: 1111
+    vernacular: 0
+    name: Rawang Bible Committee
+-
+    language_id: 6414
+    organization_id: 1112
+    vernacular: 0
+    name: Robert Bernard Dann
+-
+    language_id: 6414
+    organization_id: 1113
+    vernacular: 0
+    name: Roman Catholic Archdiocese of Kuching
+-
+    language_id: 6414
+    organization_id: 1114
+    vernacular: 0
+    name: Runa Simi
+-
+    language_id: 6414
+    organization_id: 1115
+    vernacular: 0
+    name: Secure
+-
+    language_id: 6414
+    organization_id: 1116
+    vernacular: 0
+    name: SIL - MSEAG
+-
+    language_id: 6414
+    organization_id: 1117
+    vernacular: 0
+    name: SIL Ethiopia
+-
+    language_id: 6414
+    organization_id: 1118
+    vernacular: 0
+    name: SIL Eurasia Area
+-
+    language_id: 6414
+    organization_id: 1119
+    vernacular: 0
+    name: SIL Malaysia
+-
+    language_id: 6414
+    organization_id: 1120
+    vernacular: 0
+    name: SIL Philippines
+-
+    language_id: 6414
+    organization_id: 1121
+    vernacular: 0
+    name: SIL West Africa
+-
+    language_id: 6414
+    organization_id: 1122
+    vernacular: 0
+    name: SIL West Eurasia Group
+-
+    language_id: 6414
+    organization_id: 1123
+    vernacular: 0
+    name: Silakkuagvik Communications, Inc. (KBRW)
+-
+    language_id: 6414
+    organization_id: 1124
+    vernacular: 0
+    name: SIL-PNG
+-
+    language_id: 6414
+    organization_id: 1125
+    vernacular: 0
+    name: SIL-UTB
+-
+    language_id: 6414
+    organization_id: 1126
+    vernacular: 0
+    name: Spoken Word of God, Inc.
+-
+    language_id: 6414
+    organization_id: 1127
+    vernacular: 0
+    name: Stichting BasicBijbel
+-
+    language_id: 6414
+    organization_id: 1128
+    vernacular: 0
+    name: The Azha translation
+-
+    language_id: 6414
+    organization_id: 1129
+    vernacular: 0
+    name: The Large Flowery Miao Translation Team
+-
+    language_id: 6414
+    organization_id: 1130
+    vernacular: 0
+    name: The Lipo Translation Team
+-
+    language_id: 6414
+    organization_id: 1131
+    vernacular: 0
+    name: The Mantalaan Translation
+-
+    language_id: 6414
+    organization_id: 1132
+    vernacular: 0
+    name: Tim Penterjemah Bahasa Nggem
+-
+    language_id: 6414
+    organization_id: 1133
+    vernacular: 0
+    name: Translators Association of the Philippines
+-
+    language_id: 6414
+    organization_id: 1134
+    vernacular: 0
+    name: TWFTW
+-
+    language_id: 6414
+    organization_id: 1135
+    vernacular: 0
+    name: Voice of Hope Trust
+-
+    language_id: 6414
+    organization_id: 1136
+    vernacular: 0
+    name: Wycliffe Bible Translators Philippines, Inc.
+-
+    language_id: 6414
+    organization_id: 1137
+    vernacular: 0
+    name: Yayasan Misi Penginjilan Pemuridan Papua
+-
+    language_id: 7087
+    organization_id: 537
+    vernacular: 1
+    name: издательства
+-
+    language_id: 7224
+    organization_id: 190
+    vernacular: 0
+    name: Nhóm Phiên Dịch Các Giờ Kinh Phụng Vụ
