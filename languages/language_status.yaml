@@ -1,0 +1,53 @@
+---
+-
+    id: 0
+    title: International
+    description: "The language is widely used between nations in trade, knowledge exchange, and international policy.\n"
+-
+    id: 1
+    title: National
+    description: The language is used in education, work, mass media, and government at the national level.
+-
+    id: 2
+    title: Provincial
+    description: The language is used in education, work, mass media, and government within major administrative subdivisions of a nation.
+-
+    id: 3
+    title: Wider communication
+    description: The language is used in work and mass media without official status to transcend language differences across a region.
+-
+    id: 4
+    title: Educational
+    description: The language is in vigorous use, with standardization and literature being sustained through a widespread system of institutionally supported education.
+-
+    id: 5
+    title: Developing
+    description: The language is in vigorous use, with literature in a standardized form being used by some though this is not yet widespread or sustainable.
+-
+    id: 6a
+    title: Vigorous
+    description: The language is used for face-to-face communication by all generations and the situation is sustainable.
+-
+    id: 6b
+    title: Threatened
+    description: The language is used for face-to-face communication within all generations, but it is losing users.
+-
+    id: 7
+    title: Shifting
+    description: The child-bearing generation can use the language among themselves, but it is not being transmitted to children.
+-
+    id: 8a
+    title: Moribund
+    description: The only remaining active users of the language are members of the grandparent generation and older.
+-
+    id: 8b
+    title: Nearly extinct
+    description: The only remaining users of the language are members of the grandparent generation or older who have little opportunity to use the language.
+-
+    id: 9
+    title: Dormant
+    description: The language serves as a reminder of heritage identity for an ethnic community, but no one has more than symbolic proficiency.
+-
+    id: 10
+    title: Extinct
+    description: The language is no longer used and no one retains a sense of ethnic identity associated with the language.
