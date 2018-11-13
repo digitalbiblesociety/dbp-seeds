@@ -1,0 +1,137 @@
+---
+-
+    bible_id: ENGWEB
+    equivalent_id: hnv
+    etitle: Hebrew Names Version
+-
+    bible_id: ENGNCV
+    equivalent_id: ncv
+    etitle: New Century Version
+-
+    bible_id: ENGNIRV
+    equivalent_id: nirv
+    etitle: 'New International Readers Version'
+-
+    bible_id: ENGOJB
+    equivalent_id: ojb
+    etitle: Orthodox Jewish Bible
+-
+    bible_id: ENGBBE
+    equivalent_id: bbe
+    etitle: The Bible in Basic English
+-
+    bible_id: ENGCJB
+    equivalent_id: cjb
+    etitle: The Complete Jewish Bible
+-
+    bible_id: ENGTMB
+    equivalent_id: tmb
+    etitle: Third Millennium Bible
+-
+    bible_id: ENGWEB
+    equivalent_id: web
+    etitle: World English Bible
+-
+    bible_id: ENGYLT
+    equivalent_id: ylt
+    etitle: 'Young''s Literal Translation'
+-
+    bible_id: ENGDBY
+    equivalent_id: dby
+    etitle: The Darby Translation
+-
+    bible_id: LATCLV
+    equivalent_id: vul
+    etitle: The Latin Vulgate
+-
+    bible_id: ENGWBR
+    equivalent_id: wbt
+    etitle: The Webster Bible
+-
+    bible_id: ENGTYN
+    equivalent_id: tyn
+    etitle: Tyndale
+-
+    bible_id: ENGW80
+    equivalent_id: wyc
+    etitle: Wycliffe
+-
+    bible_id: ELLSBL
+    equivalent_id: sblg
+    etitle: SBL Greek New Testament
+-
+    bible_id: ENGWEY
+    equivalent_id: wnt
+    etitle: Weymouth New Testament
+-
+    bible_id: SPABLA
+    equivalent_id: bla
+    etitle: La Biblia de las Américas (Español)
+-
+    bible_id: SPAJUB
+    equivalent_id: jbs
+    etitle: La Biblia del Jubileo 2000
+-
+    bible_id: SPAR60
+    equivalent_id: rvr
+    etitle: La Biblia Reina-Valera (Español)
+-
+    bible_id: SPANTV
+    equivalent_id: ntv
+    etitle: Nueva Traducción Viviente
+-
+    bible_id: SPANVI15
+    equivalent_id: nvi
+    etitle: Nueva Versión Internacional
+-
+    bible_id: SPASEV
+    equivalent_id: sev
+    etitle: Sagradas Escrituras (1569) (Español)
+-
+    bible_id: PORARA
+    equivalent_id: aa
+    etitle: Almeida Atualizada (Portuguese)
+-
+    bible_id: PORBNV
+    equivalent_id: nvip
+    etitle: Nova Versão Internacional
+-
+    bible_id: FRALSG
+    equivalent_id: lsg
+    etitle: Louis Segond 1910 (French)
+-
+    bible_id: FRAOST
+    equivalent_id: ost
+    etitle: Ostervald (French)
+-
+    bible_id: DEUD05
+    equivalent_id: elb
+    etitle: Elberfelder 1905 (German)
+-
+    bible_id: DEUL12
+    equivalent_id: lut
+    etitle: Luther Bible 1912 (German)
+-
+    bible_id: ITAGDB
+    equivalent_id: gdb
+    etitle: Giovanni Diodati 1649 (Italian)
+-
+    bible_id: ITAR27
+    equivalent_id: riv
+    etitle: Riveduta 1927 (Italian)
+-
+    bible_id: NLDSTV
+    equivalent_id: svv
+    etitle: Statenvertaling (Dutch)
+-
+    bible_id: CMNUN1
+    equivalent_id: cuvp
+    etitle: Chinese Union Version - Pinyin
+-
+    bible_id: CMNUN1
+    equivalent_id: cuvs
+    etitle: Chinese Union Version - Simplified
+-
+    bible_id: CMNUNV
+    equivalent_id: cuv
+    etitle: Chinese Union Version - Traditional

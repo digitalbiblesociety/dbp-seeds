@@ -1,0 +1,775 @@
+---
+-
+    bible_id: AHKTBS
+    equivalent_id: 1
+    iso: ahk
+    url: https://listen.talkingbibles.org/en/language/ahk
+    notes: 
+-
+    bible_id: ALNNNT
+    equivalent_id: 2
+    iso: aln
+    url: https://listen.talkingbibles.org/en/language/aln
+    notes: 
+-
+    bible_id: ALSCHC
+    equivalent_id: 3
+    iso: als
+    url: https://listen.talkingbibles.org/en/language/als
+    notes: 
+-
+    bible_id: AMHSDV
+    equivalent_id: 4
+    iso: amh
+    url: https://listen.talkingbibles.org/en/language/amh
+    notes: 
+-
+    bible_id: AMULLB
+    equivalent_id: 5
+    iso: amu
+    url: https://listen.talkingbibles.org/en/language/amu
+    notes: 
+-
+    bible_id: ANUBSE
+    equivalent_id: 6
+    iso: anu
+    url: https://listen.talkingbibles.org/en/language/anu
+    notes: 
+-
+    bible_id: ARBKEH
+    equivalent_id: 7
+    iso: arb
+    url: https://listen.talkingbibles.org/en/language/arb-keh
+    notes: 
+-
+    bible_id: ARBNVD
+    equivalent_id: 8
+    iso: arb
+    url: https://listen.talkingbibles.org/en/language/arb-vdv
+    notes: 
+-
+    bible_id: ARBWBT
+    equivalent_id: 9
+    iso: arb
+    url: https://listen.talkingbibles.org/en/language/arz
+    notes: 
+-
+    bible_id: ASMANT
+    equivalent_id: 10
+    iso: asm
+    url: https://listen.talkingbibles.org/en/language/asm
+    notes: 
+-
+    bible_id: BENTBN
+    equivalent_id: 11
+    iso: ben
+    url: https://listen.talkingbibles.org/en/language/ben
+    notes: 
+-
+    bible_id: BFQTBN
+    equivalent_id: 12
+    iso: bfq
+    url: https://listen.talkingbibles.org/en/language/bfq
+    notes: 
+-
+    bible_id: BGLNTM
+    equivalent_id: 13
+    iso: bgl
+    url: https://listen.talkingbibles.org/en/language/bgl
+    notes: 
+-
+    bible_id: CDOMDC
+    equivalent_id: 14
+    iso: cdo
+    url: https://listen.talkingbibles.org/en/language/cdo
+    notes: 
+-
+    bible_id: CESK13
+    equivalent_id: 15
+    iso: ces
+    url: https://listen.talkingbibles.org/en/language/ces
+    notes: 
+-
+    bible_id: CLETBL
+    equivalent_id: 16
+    iso: cle
+    url: https://listen.talkingbibles.org/en/language/cle
+    notes: 
+-
+    bible_id: CLYTBN
+    equivalent_id: 17
+    iso: cly
+    url: https://listen.talkingbibles.org/en/language/cly
+    notes: 
+-
+    bible_id: CMNMMV
+    equivalent_id: 18
+    iso: cmn
+    url: https://listen.talkingbibles.org/en/language/cmn
+    notes: 
+-
+    bible_id: CNLTBI
+    equivalent_id: 19
+    iso: cnl
+    url: https://listen.talkingbibles.org/en/language/cnl
+    notes: 
+-
+    bible_id: CPAWBT
+    equivalent_id: 20
+    iso: cpa
+    url: https://listen.talkingbibles.org/en/language/cpa
+    notes: 
+-
+    bible_id: CTPTBN
+    equivalent_id: 21
+    iso: ctp
+    url: https://listen.talkingbibles.org/en/language/ctp
+    notes: 
+-
+    bible_id: CYAAVV
+    equivalent_id: 22
+    iso: cya
+    url: https://listen.talkingbibles.org/en/language/cya
+    notes: 
+-
+    bible_id: DKSTBN
+    equivalent_id: 23
+    iso: dks
+    url: https://listen.talkingbibles.org/en/language/dks
+    notes: 
+-
+    bible_id: DTPBSM
+    equivalent_id: 24
+    iso: dtp
+    url: https://listen.talkingbibles.org/en/language/dtp
+    notes: 
+-
+    bible_id: ELLTBN
+    equivalent_id: 25
+    iso: ell
+    url: https://listen.talkingbibles.org/en/language/ell
+    notes: 
+-
+    bible_id: ENGKJV
+    equivalent_id: 26
+    iso: eng
+    url: https://listen.talkingbibles.org/en/language/eng
+    notes: 
+-
+    bible_id: EWEIBS
+    equivalent_id: 27
+    iso: ewe
+    url: https://listen.talkingbibles.org/en/language/ewe
+    notes: 
+-
+    bible_id: GAXTBN
+    equivalent_id: 28
+    iso: gax
+    url: https://listen.talkingbibles.org/en/language/gax
+    notes: 
+-
+    bible_id: GNOTBN
+    equivalent_id: 29
+    iso: gno
+    url: https://listen.talkingbibles.org/en/language/gno
+    notes: 
+-
+    bible_id: GUUMJR
+    equivalent_id: 30
+    iso: guu
+    url: https://listen.talkingbibles.org/en/language/guu
+    notes: 
+-
+    bible_id: HATHCB
+    equivalent_id: 31
+    iso: hat
+    url: https://listen.talkingbibles.org/en/language/hat
+    notes: 
+-
+    bible_id: HAUN79
+    equivalent_id: 32
+    iso: hau
+    url: https://listen.talkingbibles.org/en/language/hau
+    notes: 
+-
+    bible_id: HEBLET
+    equivalent_id: 33
+    iso: heb
+    url: https://listen.talkingbibles.org/en/language/heb
+    notes: 
+-
+    bible_id: HINTBN
+    equivalent_id: 34
+    iso: hin
+    url: https://listen.talkingbibles.org/en/language/hin
+    notes: 
+-
+    bible_id: HNGTBN
+    equivalent_id: 35
+    iso: hnj
+    url: https://listen.talkingbibles.org/en/language/hnj
+    notes: 
+-
+    bible_id: ILKTBN
+    equivalent_id: 36
+    iso: ilk
+    url: https://listen.talkingbibles.org/en/language/ilk
+    notes: 
+-
+    bible_id: ITAR27
+    equivalent_id: 37
+    iso: ita
+    url: https://listen.talkingbibles.org/en/language/ita
+    notes: 
+-
+    bible_id: IUMTBN
+    equivalent_id: 38
+    iso: ium
+    url: https://listen.talkingbibles.org/en/language/ium
+    notes: 
+-
+    bible_id: JAVNRF
+    equivalent_id: 39
+    iso: jav
+    url: https://listen.talkingbibles.org/en/language/jav
+    notes: 
+-
+    bible_id: KHMKOVNT
+    equivalent_id: 40
+    iso: khm
+    url: https://listen.talkingbibles.org/en/language/khm
+    notes: 
+-
+    bible_id: KINTBN
+    equivalent_id: 41
+    iso: kin
+    url: https://listen.talkingbibles.org/en/language/kin
+    notes: 
+-
+    bible_id: KRIBSL
+    equivalent_id: 42
+    iso: kri
+    url: https://listen.talkingbibles.org/en/language/kri
+    notes: 
+-
+    bible_id: KXMTBN
+    equivalent_id: 43
+    iso: kxm
+    url: https://listen.talkingbibles.org/en/language/kxm
+    notes: 
+-
+    bible_id: LHMLNT
+    equivalent_id: 44
+    iso: lhm
+    url: https://listen.talkingbibles.org/en/language/lhm
+    notes: 
+-
+    bible_id: LINBSC
+    equivalent_id: 45
+    iso: lin
+    url: https://listen.talkingbibles.org/en/language/lin
+    notes: 
+-
+    bible_id: MAJTBI
+    equivalent_id: 46
+    iso: maj
+    url: https://listen.talkingbibles.org/en/language/maj
+    notes: 
+-
+    bible_id: MALMOV
+    equivalent_id: 47
+    iso: mal
+    url: https://listen.talkingbibles.org/en/language/mal
+    notes: 
+-
+    bible_id: MARTBN
+    equivalent_id: 48
+    iso: mar
+    url: https://listen.talkingbibles.org/en/language/mar
+    notes: 
+-
+    bible_id: MASTBN
+    equivalent_id: 49
+    iso: mas
+    url: https://listen.talkingbibles.org/en/language/mas
+    notes: 
+-
+    bible_id: MCOTBL
+    equivalent_id: 50
+    iso: mco
+    url: https://listen.talkingbibles.org/en/language/mco
+    notes: 
+-
+    bible_id: MFYWBT
+    equivalent_id: 51
+    iso: mfy
+    url: https://listen.talkingbibles.org/en/language/mfy
+    notes: 
+-
+    bible_id: MIETBN
+    equivalent_id: 52
+    iso: mie
+    url: https://listen.talkingbibles.org/en/language/mie
+    notes: 
+-
+    bible_id: MIHWBT
+    equivalent_id: 53
+    iso: mih
+    url: https://listen.talkingbibles.org/en/language/mih
+    notes: 
+-
+    bible_id: MILTBL
+    equivalent_id: 54
+    iso: mil
+    url: https://listen.talkingbibles.org/en/language/mil
+    notes: 
+-
+    bible_id: MIOWBT
+    equivalent_id: 55
+    iso: mio
+    url: https://listen.talkingbibles.org/en/language/mio
+    notes: 
+-
+    bible_id: MIRTBN
+    equivalent_id: 56
+    iso: mir
+    url: https://listen.talkingbibles.org/en/language/mir
+    notes: 
+-
+    bible_id: MIZTBN
+    equivalent_id: 57
+    iso: miz
+    url: https://listen.talkingbibles.org/en/language/miz
+    notes: 
+-
+    bible_id: MKDTBN
+    equivalent_id: 58
+    iso: mkd
+    url: https://listen.talkingbibles.org/en/language/mkd
+    notes: 
+-
+    bible_id: MKETBN
+    equivalent_id: 59
+    iso: mke
+    url: https://listen.talkingbibles.org/en/language/mke
+    notes: 
+-
+    bible_id: MKWTBN
+    equivalent_id: 60
+    iso: mkw
+    url: https://listen.talkingbibles.org/en/language/mkw
+    notes: 
+-
+    bible_id: MURTBL
+    equivalent_id: 61
+    iso: mur
+    url: https://listen.talkingbibles.org/en/language/mur
+    notes: 
+-
+    bible_id: MXBTBN
+    equivalent_id: 62
+    iso: mxb
+    url: https://listen.talkingbibles.org/en/language/mxb
+    notes: 
+-
+    bible_id: MXQTBL
+    equivalent_id: 63
+    iso: mxq
+    url: https://listen.talkingbibles.org/en/language/mxq
+    notes: 
+-
+    bible_id: MXTTBN
+    equivalent_id: 64
+    iso: mxt
+    url: https://listen.talkingbibles.org/en/language/mxt
+    notes: 
+-
+    bible_id: NANTNT
+    equivalent_id: 65
+    iso: nan-cha
+    url: https://listen.talkingbibles.org/en/language/nan-cha
+    notes: 
+-
+    bible_id: NANTBN
+    equivalent_id: 66
+    iso: nan-hok
+    url: https://listen.talkingbibles.org/en/language/nan-hok
+    notes: 
+-
+    bible_id: NAVNAV
+    equivalent_id: 67
+    iso: nav
+    url: https://listen.talkingbibles.org/en/language/nav
+    notes: 
+-
+    bible_id: NCLMNT
+    equivalent_id: 68
+    iso: ncl
+    url: https://listen.talkingbibles.org/en/language/ncl
+    notes: 
+-
+    bible_id: NEQTBN
+    equivalent_id: 69
+    iso: neq
+    url: https://listen.talkingbibles.org/en/language/neq
+    notes: 
+-
+    bible_id: NGUGNT
+    equivalent_id: 70
+    iso: ngu
+    url: https://listen.talkingbibles.org/en/language/ngu
+    notes: 
+-
+    bible_id: NHIWBT
+    equivalent_id: 71
+    iso: nhi
+    url: https://listen.talkingbibles.org/en/language/nhi
+    notes: This recording of the Zacatlán-Ahuacatlán-Tepetzintla Nahuatl Bible is  limited to the Psalms and portions of the New Testament.
+-
+    bible_id: NHYTBN
+    equivalent_id: 72
+    iso: nhy
+    url: https://listen.talkingbibles.org/en/language/nhy
+    notes: 
+-
+    bible_id: NPITBI
+    equivalent_id: 73
+    iso: npi
+    url: https://listen.talkingbibles.org/en/language/npi
+    notes: 
+-
+    bible_id: NPLWYI
+    equivalent_id: 74
+    iso: npl
+    url: https://listen.talkingbibles.org/en/language/npl
+    notes: 
+-
+    bible_id: NSUNTP
+    equivalent_id: 75
+    iso: nsu
+    url: https://listen.talkingbibles.org/en/language/nsu
+    notes: 
+-
+    bible_id: NUSBSS
+    equivalent_id: 76
+    iso: nus
+    url: https://listen.talkingbibles.org/en/language/nus
+    notes: 
+-
+    bible_id: NUZNTP
+    equivalent_id: 77
+    iso: nuz
+    url: https://listen.talkingbibles.org/en/language/nuz
+    notes: 
+-
+    bible_id: ORYTBN
+    equivalent_id: 78
+    iso: ory
+    url: https://listen.talkingbibles.org/en/language/ory
+    notes: 
+-
+    bible_id: PANTBN
+    equivalent_id: 79
+    iso: pan
+    url: https://listen.talkingbibles.org/en/language/pan
+    notes: 
+-
+    bible_id: PCETBN
+    equivalent_id: 80
+    iso: pce
+    url: https://listen.talkingbibles.org/en/language/pce
+    notes: 
+-
+    bible_id: PESPLB
+    equivalent_id: 81
+    iso: pes
+    url: https://listen.talkingbibles.org/en/language/pes
+    notes: 
+-
+    bible_id: POLBSP
+    equivalent_id: 82
+    iso: pol
+    url: https://listen.talkingbibles.org/en/language/pol
+    notes: 
+-
+    bible_id: RUSTBN
+    equivalent_id: 83
+    iso: rus
+    url: https://listen.talkingbibles.org/en/language/rus
+    notes: 
+-
+    bible_id: SHIRBD
+    equivalent_id: 84
+    iso: shi
+    url: https://listen.talkingbibles.org/en/language/shi
+    notes: 
+-
+    bible_id: SLKTBN
+    equivalent_id: 85
+    iso: slk
+    url: https://listen.talkingbibles.org/en/language/slk
+    notes: 
+-
+    bible_id: SPARV00
+    equivalent_id: 86
+    iso: spa
+    url: https://listen.talkingbibles.org/en/language/spa
+    notes: 
+-
+    bible_id: SUNIBS
+    equivalent_id: 87
+    iso: sun
+    url: https://listen.talkingbibles.org/en/language/sun
+    notes: 
+-
+    bible_id: SWHTBN
+    equivalent_id: 88
+    iso: swh
+    url: https://listen.talkingbibles.org/en/language/swh
+    notes: 
+-
+    bible_id: TAMNNT
+    equivalent_id: 89
+    iso: tam
+    url: https://listen.talkingbibles.org/en/language/tam
+    notes: 
+-
+    bible_id: TELBOV
+    equivalent_id: 90
+    iso: tel
+    url: https://listen.talkingbibles.org/en/language/tel
+    notes: 
+-
+    bible_id: TIRTBI
+    equivalent_id: 91
+    iso: tir
+    url: https://listen.talkingbibles.org/en/language/tir
+    notes: 
+-
+    bible_id: TOGTBN
+    equivalent_id: 92
+    iso: tog
+    url: https://listen.talkingbibles.org/en/language/tog
+    notes: 
+-
+    bible_id: TSCTBN
+    equivalent_id: 93
+    iso: tsc
+    url: https://listen.talkingbibles.org/en/language/tsc
+    notes: 
+-
+    bible_id: URDBSI
+    equivalent_id: 94
+    iso: urd
+    url: https://listen.talkingbibles.org/en/language/urd
+    notes: 
+-
+    bible_id: VIEVOV
+    equivalent_id: 95
+    iso: vie
+    url: https://listen.talkingbibles.org/en/language/vie
+    notes: 
+-
+    bible_id: VMYTBL
+    equivalent_id: 96
+    iso: vmy
+    url: https://listen.talkingbibles.org/en/language/vmy
+    notes: 
+-
+    bible_id: YUEHKBS
+    equivalent_id: 97
+    iso: yue
+    url: https://listen.talkingbibles.org/en/language/yue
+    notes: 
+-
+    bible_id: ZABTBL
+    equivalent_id: 98
+    iso: zab
+    url: https://listen.talkingbibles.org/en/language/zab
+    notes: 
+-
+    bible_id: ZTQTBL
+    equivalent_id: 99
+    iso: ztq
+    url: https://listen.talkingbibles.org/en/language/ztq
+    notes: 
+-
+    bible_id: ZTYTBL
+    equivalent_id: 100
+    iso: zty
+    url: https://listen.talkingbibles.org/en/language/zty
+    notes: 
+-
+    bible_id: AIIWBT
+    equivalent_id: 101
+    iso: aii
+    url: https://listen.talkingbibles.org/en/language/aii
+    notes: This recording of the Assyrian Neo-Aramaic Bible is limited to the Gospel of Mark and an arrangement of Scriptures called the Portrait of Jesus.
+-
+    bible_id: HAKTBG
+    equivalent_id: 102
+    iso: hak
+    url: https://listen.talkingbibles.org/en/language/hak
+    notes: This recording of the Hakka Chinese Bible is limited to the Gospels and Romans.
+-
+    bible_id: HCHWBT
+    equivalent_id: 103
+    iso: hch
+    url: https://listen.talkingbibles.org/en/language/hch
+    notes: This recording of the Huichol New Testament is missing these chapters: Mark 7 and 10; John 1
+-
+    bible_id: MAQTBL
+    equivalent_id: 104
+    iso: maq
+    url: https://listen.talkingbibles.org/en/language/maq
+    notes: This recording of the Chiquihuitlán Mazatec New Testament contains only the books of Mark
+-
+    bible_id: MAUWBT
+    equivalent_id: 105
+    iso: mau
+    url: https://listen.talkingbibles.org/en/language/mau
+    notes: This recording of the Huautla Mazatec New Testament is limited to the Gospel of Mark.
+-
+    bible_id: TCFNTP
+    equivalent_id: 106
+    iso: tcf
+    url: https://listen.talkingbibles.org/en/language/tcf
+    notes: This recording of the Malinaltepec Me’phaa Bible is limited to the Gospel of Luke.
+-
+    bible_id: MTOWBT
+    equivalent_id: 107
+    iso: mto
+    url: https://listen.talkingbibles.org/en/language/mto
+    notes: This recording of the Bible in Totontepec Mixe is limited to the Gospel of John.
+-
+    bible_id: MIMTBN
+    equivalent_id: 108
+    iso: mim
+    url: https://listen.talkingbibles.org/en/language/mim
+    notes: This recording of the New Testament in Alacatlatzala Mixtec does not contain the books of Acts
+-
+    bible_id: XTATNB
+    equivalent_id: 109
+    iso: xta
+    url: https://listen.talkingbibles.org/en/language/xta
+    notes: This recording of Alcozauca Mixtec contains the books of John
+-
+    bible_id: MBZNTP
+    equivalent_id: 110
+    iso: mbz
+    url: https://listen.talkingbibles.org/en/language/mbz
+    notes: This recording of the Amoltepec Mixtec New Testament is limited to the Gospel of Mark.
+-
+    bible_id: XTMWBT
+    equivalent_id: 111
+    iso: xtm
+    url: https://listen.talkingbibles.org/en/language/xtm
+    notes: This recording of the Bible in Magdalena Peñasco Mixtec contains only the Gospel of Matthew.
+-
+    bible_id: MXVNTP
+    equivalent_id: 112
+    iso: mxv
+    url: https://listen.talkingbibles.org/en/language/mxv
+    notes: This recording of the Metlatónoc Mixtec New Testament is limited to the Gospel of Mark and Revelation.
+-
+    bible_id: MIXNTP
+    equivalent_id: 113
+    iso: mix
+    url: https://listen.talkingbibles.org/en/language/mix
+    notes: This recording of the Mixtepec Mixtec New Testament is limited to the Gospel of Luke.
+-
+    bible_id: MXYNTP
+    equivalent_id: 114
+    iso: mxy
+    url: https://listen.talkingbibles.org/en/language/mxy
+    notes: This recording of the Southeastern Nochixtlán Mixtec New Testament is limited to the Gospel of Mark.
+-
+    bible_id: XTNFBP
+    equivalent_id: 115
+    iso: xtn
+    url: https://listen.talkingbibles.org/en/language/xtn
+    notes: This recording of the Northern Tlaxiaco Bible is limited to Genesis
+-
+    bible_id: MJCOTP
+    equivalent_id: 116
+    iso: mjc
+    url: https://listen.talkingbibles.org/en/language/mjc
+    notes: This recording of the Bible in San Juan Colorado Mixtec is limited to the book of Genesis.
+-
+    bible_id: MIGWBT
+    equivalent_id: 117
+    iso: mig
+    url: https://listen.talkingbibles.org/en/language/mig
+    notes: This recording of the Bible in San Miguel el Grande Mixtec is limited to the books of Mark and 1 John.
+-
+    bible_id: MDVNTP
+    equivalent_id: 118
+    iso: mdv
+    url: https://listen.talkingbibles.org/en/language/mdv
+    notes: This recording of the Bible in Santa Lucía Monteverde Mixtec is limited to the books of Genesis
+-
+    bible_id: MZANTP
+    equivalent_id: 119
+    iso: mza
+    url: https://listen.talkingbibles.org/en/language/mza
+    notes: This recording of the Bible in Santa María Zacatepec Mixtec is limited to the books of Matthew
+-
+    bible_id: MKSTBL
+    equivalent_id: 120
+    iso: mks
+    url: https://listen.talkingbibles.org/en/language/mks
+    notes: This recording of the Bible in Silacayoapan Mixtec is limited to the books of Romans
+-
+    bible_id: MEHNTP
+    equivalent_id: 121
+    iso: meh
+    url: https://listen.talkingbibles.org/en/language/meh
+    notes: This recording of the Bible in Southwestern Tlaxiaco Mixtec is limited to Mark
+-
+    bible_id: MPMTBG
+    equivalent_id: 122
+    iso: mpm
+    url: https://listen.talkingbibles.org/en/language/mpm
+    notes: This recording of the Bible in Yosondúa Mixtec is limited to the Gospel of John.
+-
+    bible_id: NHETBG
+    equivalent_id: 123
+    iso: nhe
+    url: https://listen.talkingbibles.org/en/language/nhe
+    notes: This recording of the Eastern Huasteca Nahuatl New Testament is limited to the Gospel of Luke.
+-
+    bible_id: BLAJHN
+    equivalent_id: 124
+    iso: bla
+    url: https://listen.talkingbibles.org/en/language/bla
+    notes: This recording of the New Testament in Blackfoot is limited to the Gospel of John only. The recording was digitized directly from the original cassette tapes.
+-
+    bible_id: MPETBG
+    equivalent_id: 125
+    iso: mpe
+    url: https://listen.talkingbibles.org/en/language/mpe
+    notes: 
+-
+    bible_id: TGLPBS
+    equivalent_id: 126
+    iso: tgl
+    url: https://listen.talkingbibles.org/en/language/tgl
+    notes: 
+-
+    bible_id: SPALBI
+    equivalent_id: 127
+    iso: spa
+    url: https://listen.talkingbibles.org/en/language/spa-pdt
+    notes: 
+-
+    bible_id: KHMUBS
+    equivalent_id: 128
+    iso: khm
+    url: https://listen.talkingbibles.org/en/language/khm-ccpc
+    notes: 
+-
+    bible_id: BLAJHN
+    equivalent_id: 129
+    iso: bfa
+    url: https://listen.talkingbibles.org/en/language/bfa
+    notes: 

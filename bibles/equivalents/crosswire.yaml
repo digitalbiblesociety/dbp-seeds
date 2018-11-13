@@ -1,0 +1,691 @@
+---
+-
+    bible_id: ENGTAB
+    equivalent_id: AB
+-
+    bible_id: ENGABP
+    equivalent_id: ABP
+-
+    bible_id: GRCABP
+    equivalent_id: ABPGRK
+-
+    bible_id: ENGACV
+    equivalent_id: ACV
+-
+    bible_id: AFRABY
+    equivalent_id: Afr1953
+-
+    bible_id: ENGAKJV
+    equivalent_id: AKJV
+-
+    bible_id: ALBBIB
+    equivalent_id: Alb
+-
+    bible_id: HEBALE
+    equivalent_id: Aleppo
+-
+    bible_id: ELLAPE
+    equivalent_id: Antoniades
+-
+    bible_id: ARBKEH
+    equivalent_id: AraNAV
+-
+    bible_id: ARBVDV
+    equivalent_id: AraSVD
+-
+    bible_id: HYEART
+    equivalent_id: ArmEastern
+-
+    bible_id: HYEWANT
+    equivalent_id: ArmWestern
+-
+    bible_id: ENGASV
+    equivalent_id: ASV
+-
+    bible_id: AZJBBE
+    equivalent_id: Azeri
+-
+    bible_id: EUSNLT
+    equivalent_id: BasHautin
+-
+    bible_id: ENGBBE
+    equivalent_id: BBE
+-
+    bible_id: BELGNT
+    equivalent_id: Bela
+-
+    bible_id: BREBRB
+    equivalent_id: BretonNT
+-
+    bible_id: BULTSB
+    equivalent_id: BulCarigradNT
+-
+    bible_id: BULVER
+    equivalent_id: BulVeren
+-
+    bible_id: MYABJB
+    equivalent_id: BurJudson
+-
+    bible_id: ENGBWE
+    equivalent_id: BWE
+-
+    bible_id: ELLB05
+    equivalent_id: Byz
+-
+    bible_id: RMQRMQ
+    equivalent_id: Calo
+-
+    bible_id: CHACHA
+    equivalent_id: Chamorro
+-
+    bible_id: CHRCNT
+    equivalent_id: Che1860
+-
+    bible_id: CMNNC2
+    equivalent_id: ChiNCVs
+-
+    bible_id: CMNNCV
+    equivalent_id: ChiNCVt
+-
+    bible_id: CMNUNV
+    equivalent_id: ChiUn
+-
+    bible_id: CMNVER
+    equivalent_id: ChiUnL
+-
+    bible_id: CMNUN1
+    equivalent_id: ChiUns
+-
+    bible_id: ENGCEB
+    equivalent_id: Common
+-
+    bible_id: COPDAB
+    equivalent_id: CopNT
+-
+    bible_id: COPSNT
+    equivalent_id: CopSahHorner
+-
+    bible_id: COPSNT
+    equivalent_id: CopSahidica
+-
+    bible_id: COPTSM
+    equivalent_id: CopSahidicMSS
+-
+    bible_id: ENGCPDV
+    equivalent_id: CPDV
+-
+    bible_id: HRVCBV
+    equivalent_id: Cro
+-
+    bible_id: CHUSOC
+    equivalent_id: CSlElizabeth
+-
+    bible_id: CES21T
+    equivalent_id: CzeB21
+-
+    bible_id: CESK13
+    equivalent_id: CzeBKR
+-
+    bible_id: CESB85
+    equivalent_id: CzeCEP
+-
+    bible_id: CESCSP
+    equivalent_id: CzeCSP
+-
+    bible_id: CESKMS
+    equivalent_id: CzeKMS
+-
+    bible_id: CESNKB
+    equivalent_id: CzeNKB
+-
+    bible_id: KALDDB
+    equivalent_id: Dan
+-
+    bible_id: DANB71
+    equivalent_id: Dan1871
+-
+    bible_id: ENGDBY
+    equivalent_id: Darby
+-
+    bible_id: PPKLAI
+    equivalent_id: Dari
+-
+    bible_id: ENGDRBCR
+    equivalent_id: DRC
+-
+    bible_id: NLDSTV
+    equivalent_id: DutSVV
+-
+    bible_id: GRCTRE
+    equivalent_id: Elzevir
+-
+    bible_id: ENGEMT
+    equivalent_id: EMTV
+-
+    bible_id: EPOLDN
+    equivalent_id: Esperanto
+-
+    bible_id: EKKEST
+    equivalent_id: Est
+-
+    bible_id: ENGESV
+    equivalent_id: ESV
+-
+    bible_id: AYPWBT
+    equivalent_id: Etheridge
+-
+    bible_id: GRCF35
+    equivalent_id: f35
+-
+    bible_id: PESOPV
+    equivalent_id: FarOPV
+-
+    bible_id: PESTPV
+    equivalent_id: FarTPV
+-
+    bible_id: FINOCB
+    equivalent_id: FinBiblia
+-
+    bible_id: FIN38CB
+    equivalent_id: FinPR
+-
+    bible_id: FINNCB
+    equivalent_id: FinPR92
+-
+    bible_id: FINRK12
+    equivalent_id: FinRK
+-
+    bible_id: FREBBB
+    equivalent_id: FreBBB
+-
+    bible_id: FRABAC
+    equivalent_id: FreCrampon
+-
+    bible_id: FRAG69
+    equivalent_id: FreGeneve1669
+-
+    bible_id: DEUD71
+    equivalent_id: FreJND
+-
+    bible_id: FRARAB
+    equivalent_id: FreKhan
+-
+    bible_id: FRAM44
+    equivalent_id: FreMartin
+-
+    bible_id: FRAO74
+    equivalent_id: FreOltramare1874
+-
+    bible_id: FRAPGR
+    equivalent_id: FrePGR
+-
+    bible_id: FRALSG
+    equivalent_id: FreSegond
+-
+    bible_id: FRASTA
+    equivalent_id: FreStapfer1889
+-
+    bible_id: FRASYN
+    equivalent_id: FreSynodale1921
+-
+    bible_id: GEZFBE
+    equivalent_id: Geez
+-
+    bible_id: ENGGNV
+    equivalent_id: Geneva1599
+-
+    bible_id: DEUALB
+    equivalent_id: GerAlbrecht
+-
+    bible_id: DEUB71
+    equivalent_id: GerElb1871
+-
+    bible_id: DEUD05
+    equivalent_id: GerElb1905
+-
+    bible_id: DEUB24
+    equivalent_id: GerGruenewald
+-
+    bible_id: DEUHOF
+    equivalent_id: GerHfa2002
+-
+    bible_id: DEUL45
+    equivalent_id: GerLut1545
+-
+    bible_id: DEUNEU
+    equivalent_id: GerNeUe
+-
+    bible_id: DEUGRE
+    equivalent_id: GerReinhardt
+-
+    bible_id: DEUS51
+    equivalent_id: GerSch
+-
+    bible_id: DEUTAF
+    equivalent_id: GerTafel
+-
+    bible_id: DEUHEX
+    equivalent_id: GerTextbibel
+-
+    bible_id: ENGGOD
+    equivalent_id: Godbey
+-
+    bible_id: ENGGDW
+    equivalent_id: GodsWord
+-
+    bible_id: ELLNEO
+    equivalent_id: GreVamvas
+-
+    bible_id: HATHCB
+    equivalent_id: Haitian
+-
+    bible_id: HEBNTN
+    equivalent_id: HebDelitzsch
+-
+    bible_id: HEBM95
+    equivalent_id: HebModern
+-
+    bible_id: HINWTC
+    equivalent_id: HinERV
+-
+    bible_id: HUNVIZ
+    equivalent_id: HunKar
+-
+    bible_id: HUNHBS
+    equivalent_id: HunUj
+-
+    bible_id: GLEMNT
+    equivalent_id: IriODomhnuill
+-
+    bible_id: ENGISV
+    equivalent_id: ISV
+-
+    bible_id: ITAGDB
+    equivalent_id: ItaDio
+-
+    bible_id: ITAR27
+    equivalent_id: ItaRive
+-
+    bible_id: ENGJPS
+    equivalent_id: JPS
+-
+    bible_id: ENGEJB
+    equivalent_id: Jubilee2000
+-
+    bible_id: KPGWBT
+    equivalent_id: Kapingamarangi
+-
+    bible_id: KAZIBT
+    equivalent_id: Kaz
+-
+    bible_id: KEKIBS
+    equivalent_id: Kekchi
+-
+    bible_id: KHMKCB
+    equivalent_id: KhmerNT
+-
+    bible_id: ENGKJV69
+    equivalent_id: KJV
+-
+    bible_id: ENGKJV69
+    equivalent_id: KJVA
+-
+    bible_id: ENGKJVPCE
+    equivalent_id: KJVPCE
+-
+    bible_id: KONNGW
+    equivalent_id: KonNYM
+-
+    bible_id: KORHAN
+    equivalent_id: KorHKJV
+-
+    bible_id: KORNKRV
+    equivalent_id: KorRV
+-
+    bible_id: LVSLNT
+    equivalent_id: Latvian
+-
+    bible_id: ENGLEB
+    equivalent_id: LEB
+-
+    bible_id: ENGLSB
+    equivalent_id: Leeser
+-
+    bible_id: LITLIT
+    equivalent_id: Lithuanian
+-
+    bible_id: ENGLITV
+    equivalent_id: LITV
+-
+    bible_id: ENGTLO
+    equivalent_id: LO
+-
+    bible_id: GRCLXX
+    equivalent_id: LXX
+-
+    bible_id: MALTBK
+    equivalent_id: Mal1910
+-
+    bible_id: GLVMSP
+    equivalent_id: ManxGaelic
+-
+    bible_id: MAOMAO
+    equivalent_id: Maori
+-
+    bible_id: HEBMIQ
+    equivalent_id: MapM
+-
+    bible_id: MLGMNT
+    equivalent_id: Mg1865
+-
+    bible_id: ENGMKJV
+    equivalent_id: MKJV
+-
+    bible_id: MONKJV
+    equivalent_id: MonKJV
+-
+    bible_id: ENGMONT
+    equivalent_id: Montgomery
+-
+    bible_id: GRCMOR
+    equivalent_id: MorphGNT
+-
+    bible_id: ENGMTWP
+    equivalent_id: Murdock
+-
+    bible_id: NDEI12
+    equivalent_id: Ndebele
+-
+    bible_id: GRCNA28
+    equivalent_id: Nestle
+-
+    bible_id: ENGNET
+    equivalent_id: NETfree
+-
+    bible_id: ENGNHB
+    equivalent_id: NHEB
+-
+    bible_id: ENGNHBJ
+    equivalent_id: NHEBJE
+-
+    bible_id: ENGNHBM
+    equivalent_id: NHEBME
+-
+    bible_id: NLDPCT
+    equivalent_id: NlCanisius1939
+-
+    bible_id: NORBNT
+    equivalent_id: NorBroed
+-
+    bible_id: NOBNWBS
+    equivalent_id: Norsk
+-
+    bible_id: NNOFYR
+    equivalent_id: NorSMB
+-
+    bible_id: AZJBSA
+    equivalent_id: NorthernAzeri
+-
+    bible_id: ELLRTS
+    equivalent_id: Noyes
+-
+    bible_id: ENGOEBUS
+    equivalent_id: OEB
+-
+    bible_id: ENGOEB
+    equivalent_id: OEBcth
+-
+    bible_id: ENGOJBC
+    equivalent_id: OrthJBC
+-
+    bible_id: HEBOSM
+    equivalent_id: OSHB
+-
+    bible_id: AYPWBT
+    equivalent_id: Peshitta
+-
+    bible_id: PONOPD
+    equivalent_id: PohnOld
+-
+    bible_id: PONSSP
+    equivalent_id: Pohnpeian
+-
+    bible_id: POLG81
+    equivalent_id: PolGdanska
+-
+    bible_id: PORBARR
+    equivalent_id: PorAR
+-
+    bible_id: PORYUT
+    equivalent_id: PorCap
+-
+    bible_id: POTL44
+    equivalent_id: PotLykins
+-
+    bible_id: ENGRKJVNT
+    equivalent_id: RKJNT
+-
+    bible_id: ENGDNKJB
+    equivalent_id: RNKJV
+-
+    bible_id: RONCORN
+    equivalent_id: RomCor
+-
+    bible_id: ENGEBR
+    equivalent_id: Rotherham
+-
+    bible_id: RUSCARSA
+    equivalent_id: RusCARS
+-
+    bible_id: RUSPEN
+    equivalent_id: RusMakarij
+-
+    bible_id: RUSS76
+    equivalent_id: RusSynodal
+-
+    bible_id: RUSS76
+    equivalent_id: RusSynodalLIO
+-
+    bible_id: RUSNTS
+    equivalent_id: RusVZh
+-
+    bible_id: ENGWBR
+    equivalent_id: RWebster
+-
+    bible_id: COPASK
+    equivalent_id: SahidicBible
+-
+    bible_id: GRCSBL
+    equivalent_id: SBLGNT
+-
+    bible_id: GLASGM
+    equivalent_id: ScotsGaelic
+-
+    bible_id: SNASNA
+    equivalent_id: Shona
+-
+    bible_id: SLVPKJ
+    equivalent_id: SloKJVA
+-
+    bible_id: SLVOSP
+    equivalent_id: SloOjacano
+-
+    bible_id: SLVNTP
+    equivalent_id: SloStritar
+-
+    bible_id: SMLSML
+    equivalent_id: sml_BL_2008
+-
+    bible_id: SOMB13
+    equivalent_id: SomKQA
+-
+    bible_id: KURRSKV
+    equivalent_id: Sorani
+-
+    bible_id: ENGSAM
+    equivalent_id: SP
+-
+    bible_id: SPARV09
+    equivalent_id: SpaRV
+-
+    bible_id: SPARV09
+    equivalent_id: SpaRV1909
+-
+    bible_id: SPARVG
+    equivalent_id: SpaRVG
+-
+    bible_id: SPASEV
+    equivalent_id: SpaSEV
+-
+    bible_id: SPATDP
+    equivalent_id: SpaTDP
+-
+    bible_id: SPARV58
+    equivalent_id: SpaVNT
+-
+    bible_id: HBODSS
+    equivalent_id: SPDSS
+-
+    bible_id: ENGSAM
+    equivalent_id: SPE
+-
+    bible_id: HBOMASP
+    equivalent_id: SPMT
+-
+    bible_id: HBOSPV
+    equivalent_id: SPVar
+-
+    bible_id: SWHSNT
+    equivalent_id: Swahili
+-
+    bible_id: SWES17
+    equivalent_id: Swe1917
+-
+    bible_id: SWESFB
+    equivalent_id: SweFolk1998
+-
+    bible_id: SWEKAR
+    equivalent_id: SweKarlXII
+-
+    bible_id: SWEKAR73
+    equivalent_id: SweKarlXII1873
+-
+    bible_id: TGLJHJA
+    equivalent_id: Tagalog
+-
+    bible_id: TGLTAB
+    equivalent_id: TagAngBiblia
+-
+    bible_id: TSGWBT
+    equivalent_id: Tausug
+-
+    bible_id: THAKJV
+    equivalent_id: ThaiKJV
+-
+    bible_id: ELLTI8
+    equivalent_id: Tisch
+-
+    bible_id: ELLTRE
+    equivalent_id: TNT
+-
+    bible_id: GRCTXR
+    equivalent_id: TR
+-
+    bible_id: ENGSCR98
+    equivalent_id: TS1998
+-
+    bible_id: TURNVS
+    equivalent_id: TurHADI
+-
+    bible_id: TURTBS
+    equivalent_id: TurNTB
+-
+    bible_id: ENGTWE
+    equivalent_id: Twenty
+-
+    bible_id: ENGTYN
+    equivalent_id: Tyndale
+-
+    bible_id: ENGUKJV
+    equivalent_id: UKJV
+-
+    bible_id: UKRN39
+    equivalent_id: Ukrainian
+-
+    bible_id: UKRKNT
+    equivalent_id: UkrKulish
+-
+    bible_id: PPKLAI
+    equivalent_id: Uma
+-
+    bible_id: URDGEO
+    equivalent_id: UrduGeo
+-
+    bible_id: URDGEOD
+    equivalent_id: UrduGeoDeva
+-
+    bible_id: URYWBT
+    equivalent_id: ury_WBTI_2005
+-
+    bible_id: VIEKTT
+    equivalent_id: Viet
+-
+    bible_id: VIELCC
+    equivalent_id: VietLCCMN
+-
+    bible_id: VIENVV
+    equivalent_id: VietNVB
+-
+    bible_id: LATBSV
+    equivalent_id: Vulgate
+-
+    bible_id: LATVULP
+    equivalent_id: Vulgate_HebPs
+-
+    bible_id: LATCLE
+    equivalent_id: VulgClementine
+-
+    bible_id: LATVULC
+    equivalent_id: VulgConte
+-
+    bible_id: LATVULH
+    equivalent_id: VulgHetzenauer
+-
+    bible_id: LATVSB
+    equivalent_id: VulgSistine
+-
+    bible_id: ENGWEB
+    equivalent_id: WEB
+-
+    bible_id: ENGWEBBR
+    equivalent_id: WEBBE
+-
+    bible_id: ENGWEMB
+    equivalent_id: WEBME
+-
+    bible_id: ENGWBR
+    equivalent_id: Webster
+-
+    bible_id: CYMGIG
+    equivalent_id: WelBeiblNet
+-
+    bible_id: ENGWEY
+    equivalent_id: Weymouth
+-
+    bible_id: GRCWHN
+    equivalent_id: WHNU
+-
+    bible_id: HEBWLC
+    equivalent_id: WLC
+-
+    bible_id: ENGWOR
+    equivalent_id: Worsley
+-
+    bible_id: GOTGTP
+    equivalent_id: Wulfila
+-
+    bible_id: ENGW88
+    equivalent_id: Wycliffe
+-
+    bible_id: ENGYLT
+    equivalent_id: YLT
