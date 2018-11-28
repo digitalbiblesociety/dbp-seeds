@@ -1,0 +1,64 @@
+---
+-
+    access_group_id: 1
+    access_type_id: 1
+-
+    access_group_id: 2
+    access_type_id: 1
+-
+    access_group_id: 3
+    access_type_id: 1
+-
+    access_group_id: 4
+    access_type_id: 1
+-
+    access_group_id: 6
+    access_type_id: 1
+-
+    access_group_id: 2
+    access_type_id: 2
+-
+    access_group_id: 3
+    access_type_id: 2
+-
+    access_group_id: 4
+    access_type_id: 2
+-
+    access_group_id: 5
+    access_type_id: 2
+-
+    access_group_id: 6
+    access_type_id: 2
+-
+    access_group_id: 2
+    access_type_id: 3
+-
+    access_group_id: 3
+    access_type_id: 3
+-
+    access_group_id: 4
+    access_type_id: 3
+-
+    access_group_id: 5
+    access_type_id: 3
+-
+    access_group_id: 6
+    access_type_id: 3
+-
+    access_group_id: 7
+    access_type_id: 4
+-
+    access_group_id: 8
+    access_type_id: 4
+-
+    access_group_id: 7
+    access_type_id: 5
+-
+    access_group_id: 8
+    access_type_id: 5
+-
+    access_group_id: 7
+    access_type_id: 6
+-
+    access_group_id: 8
+    access_type_id: 6
