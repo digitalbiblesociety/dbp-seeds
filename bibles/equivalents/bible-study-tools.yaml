@@ -2,136 +2,170 @@
 -
     bible_id: ENGWEB
     equivalent_id: hnv
-    etitle: Hebrew Names Version
+    organization_id: 416
+    notes: "English Title: Hebrew Names Version"
 -
     bible_id: ENGNCV
     equivalent_id: ncv
-    etitle: New Century Version
+    organization_id: 416
+    notes: "English Title: New Century Version"
 -
     bible_id: ENGNIRV
     equivalent_id: nirv
-    etitle: 'New International Readers Version'
+    organization_id: 416
+    notes: "English Title: 'New International Readers Version'"
 -
     bible_id: ENGOJB
     equivalent_id: ojb
-    etitle: Orthodox Jewish Bible
+    organization_id: 416
+    notes: "English Title: Orthodox Jewish Bible"
 -
     bible_id: ENGBBE
     equivalent_id: bbe
-    etitle: The Bible in Basic English
+    organization_id: 416
+    notes: "English Title: The Bible in Basic English"
 -
     bible_id: ENGCJB
     equivalent_id: cjb
-    etitle: The Complete Jewish Bible
+    organization_id: 416
+    notes: "English Title: The Complete Jewish Bible"
 -
     bible_id: ENGTMB
     equivalent_id: tmb
-    etitle: Third Millennium Bible
+    organization_id: 416
+    notes: "English Title: Third Millennium Bible"
 -
     bible_id: ENGWEB
     equivalent_id: web
-    etitle: World English Bible
+    organization_id: 416
+    notes: "English Title: World English Bible"
 -
     bible_id: ENGYLT
     equivalent_id: ylt
-    etitle: 'Young''s Literal Translation'
+    organization_id: 416
+    notes: "English Title: 'Young''s Literal Translation'"
 -
     bible_id: ENGDBY
     equivalent_id: dby
-    etitle: The Darby Translation
+    organization_id: 416
+    notes: "English Title: The Darby Translation"
 -
     bible_id: LATCLV
     equivalent_id: vul
-    etitle: The Latin Vulgate
+    organization_id: 416
+    notes: "English Title: The Latin Vulgate"
 -
     bible_id: ENGWBR
     equivalent_id: wbt
-    etitle: The Webster Bible
+    organization_id: 416
+    notes: "English Title: The Webster Bible"
 -
     bible_id: ENGTYN
     equivalent_id: tyn
-    etitle: Tyndale
+    organization_id: 416
+    notes: "English Title: Tyndale"
 -
     bible_id: ENGW80
     equivalent_id: wyc
-    etitle: Wycliffe
+    organization_id: 416
+    notes: "English Title: Wycliffe"
 -
     bible_id: ELLSBL
     equivalent_id: sblg
-    etitle: SBL Greek New Testament
+    organization_id: 416
+    notes: "English Title: SBL Greek New Testament"
 -
     bible_id: ENGWEY
     equivalent_id: wnt
-    etitle: Weymouth New Testament
+    organization_id: 416
+    notes: "English Title: Weymouth New Testament"
 -
     bible_id: SPABLA
     equivalent_id: bla
-    etitle: La Biblia de las Américas (Español)
+    organization_id: 416
+    notes: "English Title: La Biblia de las Américas (Español)"
 -
     bible_id: SPAJUB
     equivalent_id: jbs
-    etitle: La Biblia del Jubileo 2000
+    organization_id: 416
+    notes: "English Title: La Biblia del Jubileo 2000"
 -
     bible_id: SPAR60
     equivalent_id: rvr
-    etitle: La Biblia Reina-Valera (Español)
+    organization_id: 416
+    notes: "English Title: La Biblia Reina-Valera (Español)"
 -
     bible_id: SPANTV
     equivalent_id: ntv
-    etitle: Nueva Traducción Viviente
+    organization_id: 416
+    notes: "English Title: Nueva Traducción Viviente"
 -
     bible_id: SPANVI15
     equivalent_id: nvi
-    etitle: Nueva Versión Internacional
+    organization_id: 416
+    notes: "English Title: Nueva Versión Internacional"
 -
     bible_id: SPASEV
     equivalent_id: sev
-    etitle: Sagradas Escrituras (1569) (Español)
+    organization_id: 416
+    notes: "English Title: Sagradas Escrituras (1569) (Español)"
 -
     bible_id: PORARA
     equivalent_id: aa
-    etitle: Almeida Atualizada (Portuguese)
+    organization_id: 416
+    notes: "English Title: Almeida Atualizada (Portuguese)"
 -
     bible_id: PORBNV
     equivalent_id: nvip
-    etitle: Nova Versão Internacional
+    organization_id: 416
+    notes: "English Title: Nova Versão Internacional"
 -
     bible_id: FRALSG
     equivalent_id: lsg
-    etitle: Louis Segond 1910 (French)
+    organization_id: 416
+    notes: "English Title: Louis Segond 1910 (French)"
 -
     bible_id: FRAOST
     equivalent_id: ost
-    etitle: Ostervald (French)
+    organization_id: 416
+    notes: "English Title: Ostervald (French)"
 -
     bible_id: DEUD05
     equivalent_id: elb
-    etitle: Elberfelder 1905 (German)
+    organization_id: 416
+    notes: "English Title: Elberfelder 1905 (German)"
 -
     bible_id: DEUL12
     equivalent_id: lut
-    etitle: Luther Bible 1912 (German)
+    organization_id: 416
+    notes: "English Title: Luther Bible 1912 (German)"
 -
     bible_id: ITAGDB
     equivalent_id: gdb
-    etitle: Giovanni Diodati 1649 (Italian)
+    organization_id: 416
+    notes: "English Title: Giovanni Diodati 1649 (Italian)"
 -
     bible_id: ITAR27
     equivalent_id: riv
-    etitle: Riveduta 1927 (Italian)
+    organization_id: 416
+    notes: "English Title: Riveduta 1927 (Italian)"
 -
     bible_id: NLDSTV
     equivalent_id: svv
-    etitle: Statenvertaling (Dutch)
+    organization_id: 416
+    notes: "English Title: Statenvertaling (Dutch)"
 -
     bible_id: CMNUN1
     equivalent_id: cuvp
-    etitle: Chinese Union Version - Pinyin
+    organization_id: 416
+    notes: "English Title: Chinese Union Version - Pinyin"
 -
     bible_id: CMNUN1
     equivalent_id: cuvs
-    etitle: Chinese Union Version - Simplified
+    organization_id: 416
+    notes: "English Title: Chinese Union Version - Simplified"
 -
     bible_id: CMNUNV
     equivalent_id: cuv
-    etitle: Chinese Union Version - Traditional
+    organization_id: 416
+    notes: "English Title: Chinese Union Version - Traditional"

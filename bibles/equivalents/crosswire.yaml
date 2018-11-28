@@ -1,691 +1,921 @@
 ---
 -
     bible_id: ENGTAB
+    organization_id: 333
     equivalent_id: AB
 -
     bible_id: ENGABP
+    organization_id: 333
     equivalent_id: ABP
 -
     bible_id: GRCABP
+    organization_id: 333
     equivalent_id: ABPGRK
 -
     bible_id: ENGACV
+    organization_id: 333
     equivalent_id: ACV
 -
     bible_id: AFRABY
+    organization_id: 333
     equivalent_id: Afr1953
 -
     bible_id: ENGAKJV
+    organization_id: 333
     equivalent_id: AKJV
 -
     bible_id: ALBBIB
+    organization_id: 333
     equivalent_id: Alb
 -
     bible_id: HEBALE
+    organization_id: 333
     equivalent_id: Aleppo
 -
     bible_id: ELLAPE
+    organization_id: 333
     equivalent_id: Antoniades
 -
     bible_id: ARBKEH
+    organization_id: 333
     equivalent_id: AraNAV
 -
     bible_id: ARBVDV
+    organization_id: 333
     equivalent_id: AraSVD
 -
     bible_id: HYEART
+    organization_id: 333
     equivalent_id: ArmEastern
 -
     bible_id: HYEWANT
+    organization_id: 333
     equivalent_id: ArmWestern
 -
     bible_id: ENGASV
+    organization_id: 333
     equivalent_id: ASV
 -
     bible_id: AZJBBE
+    organization_id: 333
     equivalent_id: Azeri
 -
     bible_id: EUSNLT
+    organization_id: 333
     equivalent_id: BasHautin
 -
     bible_id: ENGBBE
+    organization_id: 333
     equivalent_id: BBE
 -
     bible_id: BELGNT
+    organization_id: 333
     equivalent_id: Bela
 -
     bible_id: BREBRB
+    organization_id: 333
     equivalent_id: BretonNT
 -
     bible_id: BULTSB
+    organization_id: 333
     equivalent_id: BulCarigradNT
 -
     bible_id: BULVER
+    organization_id: 333
     equivalent_id: BulVeren
 -
     bible_id: MYABJB
+    organization_id: 333
     equivalent_id: BurJudson
 -
     bible_id: ENGBWE
+    organization_id: 333
     equivalent_id: BWE
 -
     bible_id: ELLB05
+    organization_id: 333
     equivalent_id: Byz
 -
     bible_id: RMQRMQ
+    organization_id: 333
     equivalent_id: Calo
 -
     bible_id: CHACHA
+    organization_id: 333
     equivalent_id: Chamorro
 -
     bible_id: CHRCNT
+    organization_id: 333
     equivalent_id: Che1860
 -
     bible_id: CMNNC2
+    organization_id: 333
     equivalent_id: ChiNCVs
 -
     bible_id: CMNNCV
+    organization_id: 333
     equivalent_id: ChiNCVt
 -
     bible_id: CMNUNV
+    organization_id: 333
     equivalent_id: ChiUn
 -
     bible_id: CMNVER
+    organization_id: 333
     equivalent_id: ChiUnL
 -
     bible_id: CMNUN1
+    organization_id: 333
     equivalent_id: ChiUns
 -
     bible_id: ENGCEB
+    organization_id: 333
     equivalent_id: Common
 -
     bible_id: COPDAB
+    organization_id: 333
     equivalent_id: CopNT
 -
     bible_id: COPSNT
+    organization_id: 333
     equivalent_id: CopSahHorner
 -
     bible_id: COPSNT
+    organization_id: 333
     equivalent_id: CopSahidica
 -
     bible_id: COPTSM
+    organization_id: 333
     equivalent_id: CopSahidicMSS
 -
     bible_id: ENGCPDV
+    organization_id: 333
     equivalent_id: CPDV
 -
     bible_id: HRVCBV
+    organization_id: 333
     equivalent_id: Cro
 -
     bible_id: CHUSOC
+    organization_id: 333
     equivalent_id: CSlElizabeth
 -
     bible_id: CES21T
+    organization_id: 333
     equivalent_id: CzeB21
 -
     bible_id: CESK13
+    organization_id: 333
     equivalent_id: CzeBKR
 -
     bible_id: CESB85
+    organization_id: 333
     equivalent_id: CzeCEP
 -
     bible_id: CESCSP
+    organization_id: 333
     equivalent_id: CzeCSP
 -
     bible_id: CESKMS
+    organization_id: 333
     equivalent_id: CzeKMS
 -
     bible_id: CESNKB
+    organization_id: 333
     equivalent_id: CzeNKB
 -
     bible_id: KALDDB
+    organization_id: 333
     equivalent_id: Dan
 -
     bible_id: DANB71
+    organization_id: 333
     equivalent_id: Dan1871
 -
     bible_id: ENGDBY
+    organization_id: 333
     equivalent_id: Darby
 -
     bible_id: PPKLAI
+    organization_id: 333
     equivalent_id: Dari
 -
     bible_id: ENGDRBCR
+    organization_id: 333
     equivalent_id: DRC
 -
     bible_id: NLDSTV
+    organization_id: 333
     equivalent_id: DutSVV
 -
     bible_id: GRCTRE
+    organization_id: 333
     equivalent_id: Elzevir
 -
     bible_id: ENGEMT
+    organization_id: 333
     equivalent_id: EMTV
 -
     bible_id: EPOLDN
+    organization_id: 333
     equivalent_id: Esperanto
 -
     bible_id: EKKEST
+    organization_id: 333
     equivalent_id: Est
 -
     bible_id: ENGESV
+    organization_id: 333
     equivalent_id: ESV
 -
     bible_id: AYPWBT
+    organization_id: 333
     equivalent_id: Etheridge
 -
     bible_id: GRCF35
+    organization_id: 333
     equivalent_id: f35
 -
     bible_id: PESOPV
+    organization_id: 333
     equivalent_id: FarOPV
 -
     bible_id: PESTPV
+    organization_id: 333
     equivalent_id: FarTPV
 -
     bible_id: FINOCB
+    organization_id: 333
     equivalent_id: FinBiblia
 -
     bible_id: FIN38CB
+    organization_id: 333
     equivalent_id: FinPR
 -
     bible_id: FINNCB
+    organization_id: 333
     equivalent_id: FinPR92
 -
     bible_id: FINRK12
+    organization_id: 333
     equivalent_id: FinRK
 -
     bible_id: FREBBB
+    organization_id: 333
     equivalent_id: FreBBB
 -
     bible_id: FRABAC
+    organization_id: 333
     equivalent_id: FreCrampon
 -
     bible_id: FRAG69
+    organization_id: 333
     equivalent_id: FreGeneve1669
 -
     bible_id: DEUD71
+    organization_id: 333
     equivalent_id: FreJND
 -
     bible_id: FRARAB
+    organization_id: 333
     equivalent_id: FreKhan
 -
     bible_id: FRAM44
+    organization_id: 333
     equivalent_id: FreMartin
 -
     bible_id: FRAO74
+    organization_id: 333
     equivalent_id: FreOltramare1874
 -
     bible_id: FRAPGR
+    organization_id: 333
     equivalent_id: FrePGR
 -
     bible_id: FRALSG
+    organization_id: 333
     equivalent_id: FreSegond
 -
     bible_id: FRASTA
+    organization_id: 333
     equivalent_id: FreStapfer1889
 -
     bible_id: FRASYN
+    organization_id: 333
     equivalent_id: FreSynodale1921
 -
     bible_id: GEZFBE
+    organization_id: 333
     equivalent_id: Geez
 -
     bible_id: ENGGNV
+    organization_id: 333
     equivalent_id: Geneva1599
 -
     bible_id: DEUALB
+    organization_id: 333
     equivalent_id: GerAlbrecht
 -
     bible_id: DEUB71
+    organization_id: 333
     equivalent_id: GerElb1871
 -
     bible_id: DEUD05
+    organization_id: 333
     equivalent_id: GerElb1905
 -
     bible_id: DEUB24
+    organization_id: 333
     equivalent_id: GerGruenewald
 -
     bible_id: DEUHOF
+    organization_id: 333
     equivalent_id: GerHfa2002
 -
     bible_id: DEUL45
+    organization_id: 333
     equivalent_id: GerLut1545
 -
     bible_id: DEUNEU
+    organization_id: 333
     equivalent_id: GerNeUe
 -
     bible_id: DEUGRE
+    organization_id: 333
     equivalent_id: GerReinhardt
 -
     bible_id: DEUS51
+    organization_id: 333
     equivalent_id: GerSch
 -
     bible_id: DEUTAF
+    organization_id: 333
     equivalent_id: GerTafel
 -
     bible_id: DEUHEX
+    organization_id: 333
     equivalent_id: GerTextbibel
 -
     bible_id: ENGGOD
+    organization_id: 333
     equivalent_id: Godbey
 -
     bible_id: ENGGDW
+    organization_id: 333
     equivalent_id: GodsWord
 -
     bible_id: ELLNEO
+    organization_id: 333
     equivalent_id: GreVamvas
 -
     bible_id: HATHCB
+    organization_id: 333
     equivalent_id: Haitian
 -
     bible_id: HEBNTN
+    organization_id: 333
     equivalent_id: HebDelitzsch
 -
     bible_id: HEBM95
+    organization_id: 333
     equivalent_id: HebModern
 -
     bible_id: HINWTC
+    organization_id: 333
     equivalent_id: HinERV
 -
     bible_id: HUNVIZ
+    organization_id: 333
     equivalent_id: HunKar
 -
     bible_id: HUNHBS
+    organization_id: 333
     equivalent_id: HunUj
 -
     bible_id: GLEMNT
+    organization_id: 333
     equivalent_id: IriODomhnuill
 -
     bible_id: ENGISV
+    organization_id: 333
     equivalent_id: ISV
 -
     bible_id: ITAGDB
+    organization_id: 333
     equivalent_id: ItaDio
 -
     bible_id: ITAR27
+    organization_id: 333
     equivalent_id: ItaRive
 -
     bible_id: ENGJPS
+    organization_id: 333
     equivalent_id: JPS
 -
     bible_id: ENGEJB
+    organization_id: 333
     equivalent_id: Jubilee2000
 -
-    bible_id: KPGWBT
+    bible_id: KPGKPT
+    organization_id: 333
     equivalent_id: Kapingamarangi
 -
     bible_id: KAZIBT
+    organization_id: 333
     equivalent_id: Kaz
 -
     bible_id: KEKIBS
+    organization_id: 333
     equivalent_id: Kekchi
 -
     bible_id: KHMKCB
+    organization_id: 333
     equivalent_id: KhmerNT
 -
     bible_id: ENGKJV69
+    organization_id: 333
     equivalent_id: KJV
 -
     bible_id: ENGKJV69
+    organization_id: 333
     equivalent_id: KJVA
 -
     bible_id: ENGKJVPCE
+    organization_id: 333
     equivalent_id: KJVPCE
 -
     bible_id: KONNGW
+    organization_id: 333
     equivalent_id: KonNYM
 -
     bible_id: KORHAN
+    organization_id: 333
     equivalent_id: KorHKJV
 -
-    bible_id: KORNKRV
+    bible_id: KORNKSB
+    organization_id: 333
     equivalent_id: KorRV
 -
     bible_id: LVSLNT
+    organization_id: 333
     equivalent_id: Latvian
 -
     bible_id: ENGLEB
+    organization_id: 333
     equivalent_id: LEB
 -
     bible_id: ENGLSB
+    organization_id: 333
     equivalent_id: Leeser
 -
     bible_id: LITLIT
+    organization_id: 333
     equivalent_id: Lithuanian
 -
     bible_id: ENGLITV
+    organization_id: 333
     equivalent_id: LITV
 -
     bible_id: ENGTLO
+    organization_id: 333
     equivalent_id: LO
 -
     bible_id: GRCLXX
+    organization_id: 333
     equivalent_id: LXX
 -
     bible_id: MALTBK
+    organization_id: 333
     equivalent_id: Mal1910
 -
     bible_id: GLVMSP
+    organization_id: 333
     equivalent_id: ManxGaelic
 -
     bible_id: MAOMAO
+    organization_id: 333
     equivalent_id: Maori
 -
     bible_id: HEBMIQ
+    organization_id: 333
     equivalent_id: MapM
 -
     bible_id: MLGMNT
+    organization_id: 333
     equivalent_id: Mg1865
 -
     bible_id: ENGMKJV
+    organization_id: 333
     equivalent_id: MKJV
 -
     bible_id: MONKJV
+    organization_id: 333
     equivalent_id: MonKJV
 -
     bible_id: ENGMONT
+    organization_id: 333
     equivalent_id: Montgomery
 -
     bible_id: GRCMOR
+    organization_id: 333
     equivalent_id: MorphGNT
 -
     bible_id: ENGMTWP
+    organization_id: 333
     equivalent_id: Murdock
 -
     bible_id: NDEI12
+    organization_id: 333
     equivalent_id: Ndebele
 -
     bible_id: GRCNA28
+    organization_id: 333
     equivalent_id: Nestle
 -
     bible_id: ENGNET
+    organization_id: 333
     equivalent_id: NETfree
 -
     bible_id: ENGNHB
+    organization_id: 333
     equivalent_id: NHEB
 -
     bible_id: ENGNHBJ
+    organization_id: 333
     equivalent_id: NHEBJE
 -
     bible_id: ENGNHBM
+    organization_id: 333
     equivalent_id: NHEBME
 -
     bible_id: NLDPCT
+    organization_id: 333
     equivalent_id: NlCanisius1939
 -
     bible_id: NORBNT
+    organization_id: 333
     equivalent_id: NorBroed
 -
     bible_id: NOBNWBS
+    organization_id: 333
     equivalent_id: Norsk
 -
     bible_id: NNOFYR
+    organization_id: 333
     equivalent_id: NorSMB
 -
     bible_id: AZJBSA
+    organization_id: 333
     equivalent_id: NorthernAzeri
 -
     bible_id: ELLRTS
+    organization_id: 333
     equivalent_id: Noyes
 -
-    bible_id: ENGOEBUS
+    bible_id: ENGOEA
+    organization_id: 333
     equivalent_id: OEB
 -
     bible_id: ENGOEB
+    organization_id: 333
     equivalent_id: OEBcth
 -
     bible_id: ENGOJBC
+    organization_id: 333
     equivalent_id: OrthJBC
 -
     bible_id: HEBOSM
+    organization_id: 333
     equivalent_id: OSHB
 -
     bible_id: AYPWBT
+    organization_id: 333
     equivalent_id: Peshitta
 -
     bible_id: PONOPD
+    organization_id: 333
     equivalent_id: PohnOld
 -
     bible_id: PONSSP
+    organization_id: 333
     equivalent_id: Pohnpeian
 -
     bible_id: POLG81
+    organization_id: 333
     equivalent_id: PolGdanska
 -
     bible_id: PORBARR
+    organization_id: 333
     equivalent_id: PorAR
 -
     bible_id: PORYUT
+    organization_id: 333
     equivalent_id: PorCap
 -
     bible_id: POTL44
+    organization_id: 333
     equivalent_id: PotLykins
 -
     bible_id: ENGRKJVNT
+    organization_id: 333
     equivalent_id: RKJNT
 -
     bible_id: ENGDNKJB
+    organization_id: 333
     equivalent_id: RNKJV
 -
     bible_id: RONCORN
+    organization_id: 333
     equivalent_id: RomCor
 -
     bible_id: ENGEBR
+    organization_id: 333
     equivalent_id: Rotherham
 -
     bible_id: RUSCARSA
+    organization_id: 333
     equivalent_id: RusCARS
 -
     bible_id: RUSPEN
+    organization_id: 333
     equivalent_id: RusMakarij
 -
     bible_id: RUSS76
+    organization_id: 333
     equivalent_id: RusSynodal
 -
     bible_id: RUSS76
+    organization_id: 333
     equivalent_id: RusSynodalLIO
 -
     bible_id: RUSNTS
+    organization_id: 333
     equivalent_id: RusVZh
 -
     bible_id: ENGWBR
+    organization_id: 333
     equivalent_id: RWebster
 -
     bible_id: COPASK
+    organization_id: 333
     equivalent_id: SahidicBible
 -
     bible_id: GRCSBL
+    organization_id: 333
     equivalent_id: SBLGNT
 -
     bible_id: GLASGM
+    organization_id: 333
     equivalent_id: ScotsGaelic
 -
     bible_id: SNASNA
+    organization_id: 333
     equivalent_id: Shona
 -
     bible_id: SLVPKJ
+    organization_id: 333
     equivalent_id: SloKJVA
 -
     bible_id: SLVOSP
+    organization_id: 333
     equivalent_id: SloOjacano
 -
     bible_id: SLVNTP
+    organization_id: 333
     equivalent_id: SloStritar
 -
     bible_id: SMLSML
+    organization_id: 333
     equivalent_id: sml_BL_2008
 -
     bible_id: SOMB13
+    organization_id: 333
     equivalent_id: SomKQA
 -
     bible_id: KURRSKV
+    organization_id: 333
     equivalent_id: Sorani
 -
     bible_id: ENGSAM
+    organization_id: 333
     equivalent_id: SP
 -
     bible_id: SPARV09
+    organization_id: 333
     equivalent_id: SpaRV
 -
     bible_id: SPARV09
+    organization_id: 333
     equivalent_id: SpaRV1909
 -
     bible_id: SPARVG
+    organization_id: 333
     equivalent_id: SpaRVG
 -
     bible_id: SPASEV
+    organization_id: 333
     equivalent_id: SpaSEV
 -
     bible_id: SPATDP
+    organization_id: 333
     equivalent_id: SpaTDP
 -
     bible_id: SPARV58
+    organization_id: 333
     equivalent_id: SpaVNT
 -
     bible_id: HBODSS
+    organization_id: 333
     equivalent_id: SPDSS
 -
     bible_id: ENGSAM
+    organization_id: 333
     equivalent_id: SPE
 -
     bible_id: HBOMASP
+    organization_id: 333
     equivalent_id: SPMT
 -
     bible_id: HBOSPV
+    organization_id: 333
     equivalent_id: SPVar
 -
     bible_id: SWHSNT
+    organization_id: 333
     equivalent_id: Swahili
 -
     bible_id: SWES17
+    organization_id: 333
     equivalent_id: Swe1917
 -
     bible_id: SWESFB
+    organization_id: 333
     equivalent_id: SweFolk1998
 -
     bible_id: SWEKAR
+    organization_id: 333
     equivalent_id: SweKarlXII
 -
     bible_id: SWEKAR73
+    organization_id: 333
     equivalent_id: SweKarlXII1873
 -
     bible_id: TGLJHJA
+    organization_id: 333
     equivalent_id: Tagalog
 -
     bible_id: TGLTAB
+    organization_id: 333
     equivalent_id: TagAngBiblia
 -
     bible_id: TSGWBT
+    organization_id: 333
     equivalent_id: Tausug
 -
     bible_id: THAKJV
+    organization_id: 333
     equivalent_id: ThaiKJV
 -
     bible_id: ELLTI8
+    organization_id: 333
     equivalent_id: Tisch
 -
     bible_id: ELLTRE
+    organization_id: 333
     equivalent_id: TNT
 -
     bible_id: GRCTXR
+    organization_id: 333
     equivalent_id: TR
 -
     bible_id: ENGSCR98
+    organization_id: 333
     equivalent_id: TS1998
 -
     bible_id: TURNVS
+    organization_id: 333
     equivalent_id: TurHADI
 -
     bible_id: TURTBS
+    organization_id: 333
     equivalent_id: TurNTB
 -
     bible_id: ENGTWE
+    organization_id: 333
     equivalent_id: Twenty
 -
     bible_id: ENGTYN
+    organization_id: 333
     equivalent_id: Tyndale
 -
     bible_id: ENGUKJV
+    organization_id: 333
     equivalent_id: UKJV
 -
     bible_id: UKRN39
+    organization_id: 333
     equivalent_id: Ukrainian
 -
     bible_id: UKRKNT
+    organization_id: 333
     equivalent_id: UkrKulish
 -
     bible_id: PPKLAI
+    organization_id: 333
     equivalent_id: Uma
 -
     bible_id: URDGEO
+    organization_id: 333
     equivalent_id: UrduGeo
 -
     bible_id: URDGEOD
+    organization_id: 333
     equivalent_id: UrduGeoDeva
 -
     bible_id: URYWBT
+    organization_id: 333
     equivalent_id: ury_WBTI_2005
 -
     bible_id: VIEKTT
+    organization_id: 333
     equivalent_id: Viet
 -
     bible_id: VIELCC
+    organization_id: 333
     equivalent_id: VietLCCMN
 -
     bible_id: VIENVV
+    organization_id: 333
     equivalent_id: VietNVB
 -
     bible_id: LATBSV
+    organization_id: 333
     equivalent_id: Vulgate
 -
     bible_id: LATVULP
+    organization_id: 333
     equivalent_id: Vulgate_HebPs
 -
-    bible_id: LATCLE
+    bible_id: LATCLV
+    organization_id: 333
     equivalent_id: VulgClementine
 -
     bible_id: LATVULC
+    organization_id: 333
     equivalent_id: VulgConte
 -
     bible_id: LATVULH
+    organization_id: 333
     equivalent_id: VulgHetzenauer
 -
     bible_id: LATVSB
+    organization_id: 333
     equivalent_id: VulgSistine
 -
     bible_id: ENGWEB
+    organization_id: 333
     equivalent_id: WEB
 -
     bible_id: ENGWEBBR
+    organization_id: 333
     equivalent_id: WEBBE
 -
     bible_id: ENGWEMB
+    organization_id: 333
     equivalent_id: WEBME
 -
     bible_id: ENGWBR
+    organization_id: 333
     equivalent_id: Webster
 -
     bible_id: CYMGIG
+    organization_id: 333
     equivalent_id: WelBeiblNet
 -
     bible_id: ENGWEY
+    organization_id: 333
     equivalent_id: Weymouth
 -
     bible_id: GRCWHN
+    organization_id: 333
     equivalent_id: WHNU
 -
     bible_id: HEBWLC
+    organization_id: 333
     equivalent_id: WLC
 -
     bible_id: ENGWOR
+    organization_id: 333
     equivalent_id: Worsley
 -
     bible_id: GOTGTP
+    organization_id: 333
     equivalent_id: Wulfila
 -
     bible_id: ENGW88
+    organization_id: 333
     equivalent_id: Wycliffe
 -
     bible_id: ENGYLT
+    organization_id: 333
     equivalent_id: YLT
