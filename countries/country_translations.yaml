@@ -210,7 +210,7 @@
 -
     country_id: AF
     language_id: 7241
-    name: vro: Afganistan
+    name: Afganistan
 -
     country_id: AF
     language_id: 1908
@@ -1379,10 +1379,6 @@
     country_id: AL
     language_id: 4926
     name: Albanien
--
-    country_id: AL
-    language_id: 4926
-    name: 
 -
     country_id: AL
     language_id: 4754
@@ -4866,7 +4862,7 @@
 -
     country_id: AI
     language_id: 5073
-    name: : アンギラ
+    name: アンギラ
 -
     country_id: AI
     language_id: 2664
@@ -4882,7 +4878,7 @@
 -
     country_id: AI
     language_id: 3276
-    name: o: 앵귈라
+    name: 앵귈라
 -
     country_id: AI
     language_id: 1387
