@@ -1,0 +1,19 @@
+---
+-
+    id: dbp-prod
+    organization_id: 9
+    hidden: 0
+    asset_type: cloudfront
+    base_name: 
+-
+    id: dbp-vid
+    organization_id: 9
+    hidden: 0
+    asset_type: s3
+    base_name: 
+-
+    id: dbs-web
+    organization_id: 8
+    hidden: 0
+    asset_type: s3
+    base_name: 

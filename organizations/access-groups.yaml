@@ -1,0 +1,33 @@
+---
+-
+    id: 1
+    name: TEST_GROUP
+    description: A group specifically for testing.
+-
+    id: 2
+    name: PUBLIC_DOMAIN
+    description: Public Domain Resources. Available to all.
+-
+    id: 3
+    name: FCBH_GENERAL
+    description: The resources FCBH has to give to all API users
+-
+    id: 4
+    name: FCBH_WEB
+    description: Resources that only have permission for Bible.is and not other api users
+-
+    id: 5
+    name: FCBH_GENERAL_EXCLUDE
+    description: Resources that can be in the API but NOT bible.is
+-
+    id: 6
+    name: DBS_GENERAL
+    description: DBS general group.
+-
+    id: 7
+    name: RESTRICTED
+    description: This group is for content no longer allowed to be used. This prevents the need to delete the content outright.
+-
+    id: 8
+    name: GIDEONS_HIDE
+    description: Bibles to hide on the Gideons app
