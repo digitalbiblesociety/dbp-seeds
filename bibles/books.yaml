@@ -1,0 +1,2122 @@
+---
+-
+    id: 1CH
+    id_usfx: R1
+    id_osis: 1Chr
+    book_testament: OT
+    book_group: Historical Books
+    chapters: 29
+    verses: 942
+    name: 1 Chronicles
+    testament_order: 13
+    protestant_order: 13
+    luther_order: 14
+    synodal_order: 14
+    german_order: 14
+    kjva_order: 14
+    vulgate_order: 14
+    lxx_order: 14
+    orthodox_order: 14
+    nrsva_order: 14
+    catholic_order: 14
+    finnish_order: 14
+-
+    id: 1CO
+    id_usfx: C1
+    id_osis: 1Cor
+    book_testament: NT
+    book_group: Pauline Epistles
+    chapters: 16
+    verses: 437
+    name: 1 Corinthians
+    testament_order: 7
+    protestant_order: 47
+    luther_order: 59
+    synodal_order: 66
+    german_order: 47
+    kjva_order: 61
+    vulgate_order: 54
+    lxx_order: 65
+    orthodox_order: 61
+    nrsva_order: 64
+    catholic_order: 54
+    finnish_order: 47
+-
+    id: 1ES
+    id_usfx: E1
+    id_osis: 1Esd
+    book_testament: AP
+    book_group: 
+    chapters: 9
+    verses: 0
+    name: 3 Esdras
+    testament_order: 42
+    protestant_order: 82
+    luther_order: NULL
+    synodal_order: 19
+    german_order: NULL
+    kjva_order: 41
+    vulgate_order: 76
+    lxx_order: 16
+    orthodox_order: 16
+    nrsva_order: 52
+    catholic_order: NULL
+    finnish_order: NULL
+-
+    id: 1JN
+    id_usfx: J1
+    id_osis: 1John
+    book_testament: NT
+    book_group: General Epistles
+    chapters: 5
+    verses: 105
+    name: 1 John
+    testament_order: 23
+    protestant_order: 63
+    luther_order: 75
+    synodal_order: 61
+    german_order: 63
+    kjva_order: 77
+    vulgate_order: 70
+    lxx_order: 81
+    orthodox_order: 77
+    nrsva_order: 80
+    catholic_order: 70
+    finnish_order: 62
+-
+    id: 1KI
+    id_usfx: K1
+    id_osis: 1Kgs
+    book_testament: OT
+    book_group: Historical Books
+    chapters: 22
+    verses: 816
+    name: 1 Kings
+    testament_order: 11
+    protestant_order: 11
+    luther_order: 12
+    synodal_order: 12
+    german_order: 12
+    kjva_order: 12
+    vulgate_order: 12
+    lxx_order: 12
+    orthodox_order: 12
+    nrsva_order: 12
+    catholic_order: 12
+    finnish_order: 12
+-
+    id: 1MA
+    id_usfx: M1
+    id_osis: 1Macc
+    book_testament: AP
+    book_group: Historical Books
+    chapters: 16
+    verses: 922
+    name: 1 Maccabees
+    testament_order: 38
+    protestant_order: 78
+    luther_order: 46
+    synodal_order: 49
+    german_order: NULL
+    kjva_order: 53
+    vulgate_order: 46
+    lxx_order: 22
+    orthodox_order: 22
+    nrsva_order: 50
+    catholic_order: 21
+    finnish_order: NULL
+-
+    id: 1MQ
+    id_usfx: Q1
+    id_osis: 1Meq
+    book_testament: AP
+    book_group: 
+    chapters: 0
+    verses: 0
+    name: Book of Mekabis of Benjamin
+    testament_order: 57
+    protestant_order: 97
+    luther_order: NULL
+    synodal_order: NULL
+    german_order: NULL
+    kjva_order: NULL
+    vulgate_order: NULL
+    lxx_order: NULL
+    orthodox_order: NULL
+    nrsva_order: NULL
+    catholic_order: NULL
+    finnish_order: NULL
+-
+    id: 1PE
+    id_usfx: P1
+    id_osis: 1Pet
+    book_testament: NT
+    book_group: General Epistles
+    chapters: 5
+    verses: 105
+    name: 1 Peter
+    testament_order: 21
+    protestant_order: 61
+    luther_order: 73
+    synodal_order: 59
+    german_order: 61
+    kjva_order: 75
+    vulgate_order: 68
+    lxx_order: 79
+    orthodox_order: 75
+    nrsva_order: 78
+    catholic_order: 68
+    finnish_order: 60
+-
+    id: 1SA
+    id_usfx: S1
+    id_osis: 1Sam
+    book_testament: OT
+    book_group: Historical Books
+    chapters: 31
+    verses: 810
+    name: 1 Samuel
+    testament_order: 9
+    protestant_order: 9
+    luther_order: 10
+    synodal_order: 10
+    german_order: 10
+    kjva_order: 10
+    vulgate_order: 10
+    lxx_order: 10
+    orthodox_order: 10
+    nrsva_order: 10
+    catholic_order: 10
+    finnish_order: 10
+-
+    id: 1TH
+    id_usfx: H1
+    id_osis: 1Thess
+    book_testament: NT
+    book_group: Pauline Epistles
+    chapters: 5
+    verses: 89
+    name: 1 Thessalonians
+    testament_order: 13
+    protestant_order: 53
+    luther_order: 65
+    synodal_order: 72
+    german_order: 53
+    kjva_order: 67
+    vulgate_order: 60
+    lxx_order: 71
+    orthodox_order: 67
+    nrsva_order: 70
+    catholic_order: 60
+    finnish_order: 53
+-
+    id: 1TI
+    id_usfx: T1
+    id_osis: 1Tim
+    book_testament: NT
+    book_group: Pauline Epistles
+    chapters: 6
+    verses: 113
+    name: 1 Timothy
+    testament_order: 15
+    protestant_order: 55
+    luther_order: 67
+    synodal_order: 74
+    german_order: 55
+    kjva_order: 69
+    vulgate_order: 62
+    lxx_order: 73
+    orthodox_order: 69
+    nrsva_order: 72
+    catholic_order: 62
+    finnish_order: 55
+-
+    id: 2BA
+    id_usfx: 2B
+    id_osis: 2Bar
+    book_testament: AP
+    book_group: 
+    chapters: 0
+    verses: 0
+    name: The Apocalypse of Baruch
+    testament_order: 53
+    protestant_order: 93
+    luther_order: NULL
+    synodal_order: NULL
+    german_order: NULL
+    kjva_order: NULL
+    vulgate_order: NULL
+    lxx_order: NULL
+    orthodox_order: NULL
+    nrsva_order: NULL
+    catholic_order: NULL
+    finnish_order: NULL
+-
+    id: 2CH
+    id_usfx: R2
+    id_osis: 2Chr
+    book_testament: OT
+    book_group: Historical Books
+    chapters: 36
+    verses: 822
+    name: 2 Chronicles
+    testament_order: 14
+    protestant_order: 14
+    luther_order: 15
+    synodal_order: 15
+    german_order: 15
+    kjva_order: 15
+    vulgate_order: 15
+    lxx_order: 15
+    orthodox_order: 15
+    nrsva_order: 15
+    catholic_order: 15
+    finnish_order: 15
+-
+    id: 2CO
+    id_usfx: C2
+    id_osis: 2Cor
+    book_testament: NT
+    book_group: Pauline Epistles
+    chapters: 13
+    verses: 257
+    name: 2 Corinthians
+    testament_order: 8
+    protestant_order: 48
+    luther_order: 60
+    synodal_order: 67
+    german_order: 48
+    kjva_order: 62
+    vulgate_order: 55
+    lxx_order: 66
+    orthodox_order: 62
+    nrsva_order: 65
+    catholic_order: 55
+    finnish_order: 48
+-
+    id: 2ES
+    id_usfx: E2
+    id_osis: 2Esd
+    book_testament: AP
+    book_group: 
+    chapters: 16
+    verses: 0
+    name: 4 Esdras
+    testament_order: 43
+    protestant_order: 83
+    luther_order: NULL
+    synodal_order: 52
+    german_order: NULL
+    kjva_order: 42
+    vulgate_order: 77
+    lxx_order: NULL
+    orthodox_order: NULL
+    nrsva_order: 56
+    catholic_order: NULL
+    finnish_order: NULL
+-
+    id: 2JN
+    id_usfx: J2
+    id_osis: 2John
+    book_testament: NT
+    book_group: General Epistles
+    chapters: 1
+    verses: 13
+    name: 2 John
+    testament_order: 24
+    protestant_order: 64
+    luther_order: 76
+    synodal_order: 62
+    german_order: 64
+    kjva_order: 78
+    vulgate_order: 71
+    lxx_order: 82
+    orthodox_order: 78
+    nrsva_order: 81
+    catholic_order: 71
+    finnish_order: 63
+-
+    id: 2KI
+    id_usfx: K2
+    id_osis: 2Kgs
+    book_testament: OT
+    book_group: Historical Books
+    chapters: 25
+    verses: 719
+    name: 2 Kings
+    testament_order: 12
+    protestant_order: 12
+    luther_order: 13
+    synodal_order: 13
+    german_order: 13
+    kjva_order: 13
+    vulgate_order: 13
+    lxx_order: 13
+    orthodox_order: 13
+    nrsva_order: 13
+    catholic_order: 13
+    finnish_order: 13
+-
+    id: 2MA
+    id_usfx: M2
+    id_osis: 2Macc
+    book_testament: AP
+    book_group: Historical Books
+    chapters: 15
+    verses: 556
+    name: 2 Maccabees
+    testament_order: 39
+    protestant_order: 79
+    luther_order: 47
+    synodal_order: 50
+    german_order: NULL
+    kjva_order: 54
+    vulgate_order: 47
+    lxx_order: 23
+    orthodox_order: 23
+    nrsva_order: 51
+    catholic_order: 22
+    finnish_order: NULL
+-
+    id: 2MQ
+    id_usfx: Q2
+    id_osis: 2Meq
+    book_testament: AP
+    book_group: 
+    chapters: 0
+    verses: 0
+    name: Book of Mekabis of Moab
+    testament_order: 58
+    protestant_order: 98
+    luther_order: NULL
+    synodal_order: NULL
+    german_order: NULL
+    kjva_order: NULL
+    vulgate_order: NULL
+    lxx_order: NULL
+    orthodox_order: NULL
+    nrsva_order: NULL
+    catholic_order: NULL
+    finnish_order: NULL
+-
+    id: 2PE
+    id_usfx: P2
+    id_osis: 2Pet
+    book_testament: NT
+    book_group: General Epistles
+    chapters: 3
+    verses: 61
+    name: 2 Peter
+    testament_order: 22
+    protestant_order: 62
+    luther_order: 74
+    synodal_order: 60
+    german_order: 62
+    kjva_order: 76
+    vulgate_order: 69
+    lxx_order: 80
+    orthodox_order: 76
+    nrsva_order: 79
+    catholic_order: 69
+    finnish_order: 61
+-
+    id: 2SA
+    id_usfx: S2
+    id_osis: 2Sam
+    book_testament: OT
+    book_group: Historical Books
+    chapters: 24
+    verses: 695
+    name: 2 Samuel
+    testament_order: 10
+    protestant_order: 10
+    luther_order: 11
+    synodal_order: 11
+    german_order: 11
+    kjva_order: 11
+    vulgate_order: 11
+    lxx_order: 11
+    orthodox_order: 11
+    nrsva_order: 11
+    catholic_order: 11
+    finnish_order: 11
+-
+    id: 2TH
+    id_usfx: H2
+    id_osis: 2Thess
+    book_testament: NT
+    book_group: Pauline Epistles
+    chapters: 3
+    verses: 47
+    name: 2 Thessalonians
+    testament_order: 14
+    protestant_order: 54
+    luther_order: 66
+    synodal_order: 73
+    german_order: 54
+    kjva_order: 68
+    vulgate_order: 61
+    lxx_order: 72
+    orthodox_order: 68
+    nrsva_order: 71
+    catholic_order: 61
+    finnish_order: 54
+-
+    id: 2TI
+    id_usfx: T2
+    id_osis: 2Tim
+    book_testament: NT
+    book_group: Pauline Epistles
+    chapters: 4
+    verses: 83
+    name: 2 Timothy
+    testament_order: 16
+    protestant_order: 56
+    luther_order: 68
+    synodal_order: 75
+    german_order: 56
+    kjva_order: 70
+    vulgate_order: 63
+    lxx_order: 74
+    orthodox_order: 70
+    nrsva_order: 73
+    catholic_order: 63
+    finnish_order: 56
+-
+    id: 3JN
+    id_usfx: J3
+    id_osis: 3John
+    book_testament: NT
+    book_group: General Epistles
+    chapters: 1
+    verses: 14
+    name: 3 John
+    testament_order: 25
+    protestant_order: 65
+    luther_order: 77
+    synodal_order: 63
+    german_order: 65
+    kjva_order: 79
+    vulgate_order: 72
+    lxx_order: 83
+    orthodox_order: 79
+    nrsva_order: 82
+    catholic_order: 72
+    finnish_order: 64
+-
+    id: 3MA
+    id_usfx: M3
+    id_osis: 3Macc
+    book_testament: AP
+    book_group: Historical Books
+    chapters: 7
+    verses: 228
+    name: 3 Maccabees
+    testament_order: 40
+    protestant_order: 80
+    luther_order: NULL
+    synodal_order: 51
+    german_order: NULL
+    kjva_order: NULL
+    vulgate_order: NULL
+    lxx_order: 24
+    orthodox_order: 24
+    nrsva_order: 55
+    catholic_order: NULL
+    finnish_order: NULL
+-
+    id: 3MQ
+    id_usfx: Q3
+    id_osis: 3Meq
+    book_testament: AP
+    book_group: 
+    chapters: 0
+    verses: 0
+    name: Book of Meqabyan
+    testament_order: 59
+    protestant_order: 99
+    luther_order: NULL
+    synodal_order: NULL
+    german_order: NULL
+    kjva_order: NULL
+    vulgate_order: NULL
+    lxx_order: NULL
+    orthodox_order: NULL
+    nrsva_order: NULL
+    catholic_order: NULL
+    finnish_order: NULL
+-
+    id: 4BA
+    id_usfx: B4
+    id_osis: 4Bar
+    book_testament: AP
+    book_group: 
+    chapters: 0
+    verses: 0
+    name: Rest of the Words of Baruch
+    testament_order: 61
+    protestant_order: 101
+    luther_order: NULL
+    synodal_order: NULL
+    german_order: NULL
+    kjva_order: NULL
+    vulgate_order: NULL
+    lxx_order: NULL
+    orthodox_order: NULL
+    nrsva_order: NULL
+    catholic_order: NULL
+    finnish_order: NULL
+-
+    id: 4MA
+    id_usfx: M4
+    id_osis: 4Macc
+    book_testament: AP
+    book_group: 
+    chapters: 18
+    verses: 481
+    name: 4 Maccabees
+    testament_order: 41
+    protestant_order: 81
+    luther_order: NULL
+    synodal_order: NULL
+    german_order: NULL
+    kjva_order: NULL
+    vulgate_order: NULL
+    lxx_order: 25
+    orthodox_order: 54
+    nrsva_order: 57
+    catholic_order: NULL
+    finnish_order: NULL
+-
+    id: 5EZ
+    id_usfx: E5
+    id_osis: 5Ezra
+    book_testament: AP
+    book_group: 
+    chapters: 2
+    verses: 0
+    name: Preface to Ezra Apocalypse
+    testament_order: 49
+    protestant_order: 89
+    luther_order: NULL
+    synodal_order: NULL
+    german_order: NULL
+    kjva_order: NULL
+    vulgate_order: NULL
+    lxx_order: NULL
+    orthodox_order: NULL
+    nrsva_order: NULL
+    catholic_order: NULL
+    finnish_order: NULL
+-
+    id: 6EZ
+    id_usfx: E6
+    id_osis: 6Ezra
+    book_testament: AP
+    book_group: 
+    chapters: 2
+    verses: 0
+    name: Conclusion to Ezra Apocalypse
+    testament_order: 50
+    protestant_order: 90
+    luther_order: NULL
+    synodal_order: NULL
+    german_order: NULL
+    kjva_order: NULL
+    vulgate_order: NULL
+    lxx_order: NULL
+    orthodox_order: NULL
+    nrsva_order: NULL
+    catholic_order: NULL
+    finnish_order: NULL
+-
+    id: ACT
+    id_usfx: AC
+    id_osis: Acts
+    book_testament: NT
+    book_group: Apostolic History
+    chapters: 28
+    verses: 1007
+    name: Acts
+    testament_order: 5
+    protestant_order: 45
+    luther_order: 57
+    synodal_order: 57
+    german_order: 45
+    kjva_order: 59
+    vulgate_order: 52
+    lxx_order: 63
+    orthodox_order: 59
+    nrsva_order: 62
+    catholic_order: 52
+    finnish_order: 45
+-
+    id: AMO
+    id_usfx: AM
+    id_osis: Amos
+    book_testament: OT
+    book_group: Minor Prophets
+    chapters: 9
+    verses: 146
+    name: Amos
+    testament_order: 30
+    protestant_order: 30
+    luther_order: 31
+    synodal_order: 39
+    german_order: 31
+    kjva_order: 31
+    vulgate_order: 36
+    lxx_order: 36
+    orthodox_order: 34
+    nrsva_order: 31
+    catholic_order: 38
+    finnish_order: 31
+-
+    id: BAR
+    id_usfx: BR
+    id_osis: Bar
+    book_testament: AP
+    book_group: 
+    chapters: 6
+    verses: 213
+    name: The First book of Baruch
+    testament_order: 33
+    protestant_order: 73
+    luther_order: 45
+    synodal_order: 34
+    german_order: NULL
+    kjva_order: 48
+    vulgate_order: 31
+    lxx_order: 49
+    orthodox_order: 47
+    nrsva_order: 46
+    catholic_order: 33
+    finnish_order: NULL
+-
+    id: BEL
+    id_usfx: BL
+    id_osis: Bel
+    book_testament: AP
+    book_group: 
+    chapters: 1
+    verses: 42
+    name: Rest of Daniel
+    testament_order: 37
+    protestant_order: 77
+    luther_order: 50
+    synodal_order: NULL
+    german_order: NULL
+    kjva_order: 51
+    vulgate_order: NULL
+    lxx_order: 56
+    orthodox_order: 53
+    nrsva_order: 49
+    catholic_order: NULL
+    finnish_order: NULL
+-
+    id: COL
+    id_usfx: CL
+    id_osis: Col
+    book_testament: NT
+    book_group: Pauline Epistles
+    chapters: 4
+    verses: 95
+    name: Colossians
+    testament_order: 12
+    protestant_order: 52
+    luther_order: 64
+    synodal_order: 71
+    german_order: 52
+    kjva_order: 66
+    vulgate_order: 59
+    lxx_order: 70
+    orthodox_order: 66
+    nrsva_order: 69
+    catholic_order: 59
+    finnish_order: 52
+-
+    id: DAG
+    id_usfx: DG
+    id_osis: DanGr
+    book_testament: AP
+    book_group: 
+    chapters: 14
+    verses: 0
+    name: Daniel 14
+    testament_order: 51
+    protestant_order: 91
+    luther_order: NULL
+    synodal_order: NULL
+    german_order: NULL
+    kjva_order: NULL
+    vulgate_order: NULL
+    lxx_order: NULL
+    orthodox_order: NULL
+    nrsva_order: NULL
+    catholic_order: NULL
+    finnish_order: NULL
+-
+    id: DAN
+    id_usfx: DN
+    id_osis: Dan
+    book_testament: OT
+    book_group: Major Prophets
+    chapters: 12
+    verses: 357
+    name: Daniel
+    testament_order: 27
+    protestant_order: 27
+    luther_order: 27
+    synodal_order: 36
+    german_order: 28
+    kjva_order: 28
+    vulgate_order: 33
+    lxx_order: 55
+    orthodox_order: 52
+    nrsva_order: 28
+    catholic_order: 35
+    finnish_order: 28
+-
+    id: DEU
+    id_usfx: DT
+    id_osis: Deut
+    book_testament: OT
+    book_group: The Law
+    chapters: 34
+    verses: 959
+    name: Deuteronomy
+    testament_order: 5
+    protestant_order: 5
+    luther_order: 6
+    synodal_order: 6
+    german_order: 6
+    kjva_order: 6
+    vulgate_order: 6
+    lxx_order: 6
+    orthodox_order: 6
+    nrsva_order: 6
+    catholic_order: 6
+    finnish_order: 6
+-
+    id: ECC
+    id_usfx: EC
+    id_osis: Eccl
+    book_testament: OT
+    book_group: Wisdom Books
+    chapters: 12
+    verses: 222
+    name: Ecclesiastes
+    testament_order: 21
+    protestant_order: 21
+    luther_order: 22
+    synodal_order: 26
+    german_order: 22
+    kjva_order: 22
+    vulgate_order: 24
+    lxx_order: 29
+    orthodox_order: 29
+    nrsva_order: 22
+    catholic_order: 26
+    finnish_order: 22
+-
+    id: ENO
+    id_usfx: EO
+    id_osis: 1En
+    book_testament: AP
+    book_group: 
+    chapters: 0
+    verses: 0
+    name: The Book of Enoch
+    testament_order: 56
+    protestant_order: 96
+    luther_order: NULL
+    synodal_order: NULL
+    german_order: NULL
+    kjva_order: NULL
+    vulgate_order: NULL
+    lxx_order: NULL
+    orthodox_order: NULL
+    nrsva_order: NULL
+    catholic_order: NULL
+    finnish_order: NULL
+-
+    id: EPH
+    id_usfx: EP
+    id_osis: Eph
+    book_testament: NT
+    book_group: Pauline Epistles
+    chapters: 6
+    verses: 155
+    name: Ephesians
+    testament_order: 10
+    protestant_order: 50
+    luther_order: 62
+    synodal_order: 69
+    german_order: 50
+    kjva_order: 64
+    vulgate_order: 57
+    lxx_order: 68
+    orthodox_order: 64
+    nrsva_order: 67
+    catholic_order: 57
+    finnish_order: 50
+-
+    id: ESG
+    id_usfx: EG
+    id_osis: EsthGr
+    book_testament: AP
+    book_group: Historical Books
+    chapters: 11
+    verses: 0
+    name: Greek Esther
+    testament_order: 30
+    protestant_order: 70
+    luther_order: NULL
+    synodal_order: NULL
+    german_order: NULL
+    kjva_order: NULL
+    vulgate_order: NULL
+    lxx_order: NULL
+    orthodox_order: NULL
+    nrsva_order: 43
+    catholic_order: NULL
+    finnish_order: NULL
+-
+    id: EST
+    id_usfx: ET
+    id_osis: Esth
+    book_testament: OT
+    book_group: Historical Books
+    chapters: 10
+    verses: 167
+    name: Esther
+    testament_order: 17
+    protestant_order: 17
+    luther_order: 18
+    synodal_order: 22
+    german_order: 18
+    kjva_order: 18
+    vulgate_order: 20
+    lxx_order: 19
+    orthodox_order: 21
+    nrsva_order: 18
+    catholic_order: 20
+    finnish_order: 18
+-
+    id: EXO
+    id_usfx: EX
+    id_osis: Exod
+    book_testament: OT
+    book_group: The Law
+    chapters: 40
+    verses: 1213
+    name: Exodus
+    testament_order: 2
+    protestant_order: 2
+    luther_order: 3
+    synodal_order: 3
+    german_order: 3
+    kjva_order: 3
+    vulgate_order: 3
+    lxx_order: 3
+    orthodox_order: 3
+    nrsva_order: 3
+    catholic_order: 3
+    finnish_order: 3
+-
+    id: EZA
+    id_usfx: EA
+    id_osis: 4Ezra
+    book_testament: AP
+    book_group: 
+    chapters: 0
+    verses: 0
+    name: Ezra Shealtiel
+    testament_order: 48
+    protestant_order: 88
+    luther_order: NULL
+    synodal_order: NULL
+    german_order: NULL
+    kjva_order: NULL
+    vulgate_order: NULL
+    lxx_order: NULL
+    orthodox_order: NULL
+    nrsva_order: NULL
+    catholic_order: NULL
+    finnish_order: NULL
+-
+    id: EZK
+    id_usfx: EK
+    id_osis: Ezek
+    book_testament: OT
+    book_group: Major Prophets
+    chapters: 48
+    verses: 1273
+    name: Ezekiel
+    testament_order: 26
+    protestant_order: 26
+    luther_order: 28
+    synodal_order: 35
+    german_order: 27
+    kjva_order: 27
+    vulgate_order: 32
+    lxx_order: 52
+    orthodox_order: 50
+    nrsva_order: 27
+    catholic_order: 34
+    finnish_order: 27
+-
+    id: EZR
+    id_usfx: ER
+    id_osis: Ezra
+    book_testament: OT
+    book_group: Historical Books
+    chapters: 10
+    verses: 280
+    name: Ezra
+    testament_order: 15
+    protestant_order: 15
+    luther_order: 16
+    synodal_order: 17
+    german_order: 16
+    kjva_order: 16
+    vulgate_order: 16
+    lxx_order: 17
+    orthodox_order: 17
+    nrsva_order: 16
+    catholic_order: 16
+    finnish_order: 16
+-
+    id: GAL
+    id_usfx: GL
+    id_osis: Gal
+    book_testament: NT
+    book_group: Pauline Epistles
+    chapters: 6
+    verses: 149
+    name: Galatians
+    testament_order: 9
+    protestant_order: 49
+    luther_order: 61
+    synodal_order: 68
+    german_order: 49
+    kjva_order: 63
+    vulgate_order: 56
+    lxx_order: 67
+    orthodox_order: 63
+    nrsva_order: 66
+    catholic_order: 56
+    finnish_order: 49
+-
+    id: GEN
+    id_usfx: GN
+    id_osis: Gen
+    book_testament: OT
+    book_group: The Law
+    chapters: 50
+    verses: 1533
+    name: Genesis
+    testament_order: 1
+    protestant_order: 1
+    luther_order: 2
+    synodal_order: 2
+    german_order: 2
+    kjva_order: 2
+    vulgate_order: 2
+    lxx_order: 2
+    orthodox_order: 2
+    nrsva_order: 2
+    catholic_order: 2
+    finnish_order: 2
+-
+    id: HAB
+    id_usfx: HK
+    id_osis: Hab
+    book_testament: OT
+    book_group: Minor Prophets
+    chapters: 3
+    verses: 56
+    name: Habakkuk
+    testament_order: 35
+    protestant_order: 35
+    luther_order: 36
+    synodal_order: 44
+    german_order: 36
+    kjva_order: 36
+    vulgate_order: 41
+    lxx_order: 42
+    orthodox_order: 40
+    nrsva_order: 36
+    catholic_order: 43
+    finnish_order: 36
+-
+    id: HAG
+    id_usfx: HG
+    id_osis: Hag
+    book_testament: OT
+    book_group: Minor Prophets
+    chapters: 2
+    verses: 38
+    name: Haggai
+    testament_order: 37
+    protestant_order: 37
+    luther_order: 38
+    synodal_order: 46
+    german_order: 38
+    kjva_order: 38
+    vulgate_order: 43
+    lxx_order: 44
+    orthodox_order: 42
+    nrsva_order: 38
+    catholic_order: 45
+    finnish_order: 38
+-
+    id: HEB
+    id_usfx: HB
+    id_osis: Heb
+    book_testament: NT
+    book_group: Pauline Epistles
+    chapters: 13
+    verses: 303
+    name: Hebrews
+    testament_order: 19
+    protestant_order: 59
+    luther_order: 71
+    synodal_order: 78
+    german_order: 59
+    kjva_order: 73
+    vulgate_order: 66
+    lxx_order: 77
+    orthodox_order: 73
+    nrsva_order: 76
+    catholic_order: 66
+    finnish_order: 59
+-
+    id: HOS
+    id_usfx: HS
+    id_osis: Hos
+    book_testament: OT
+    book_group: Minor Prophets
+    chapters: 14
+    verses: 197
+    name: Hosea
+    testament_order: 28
+    protestant_order: 28
+    luther_order: 29
+    synodal_order: 37
+    german_order: 29
+    kjva_order: 29
+    vulgate_order: 34
+    lxx_order: 35
+    orthodox_order: 33
+    nrsva_order: 29
+    catholic_order: 36
+    finnish_order: 29
+-
+    id: ISA
+    id_usfx: IS
+    id_osis: Isa
+    book_testament: OT
+    book_group: Major Prophets
+    chapters: 66
+    verses: 1292
+    name: Isaiah
+    testament_order: 23
+    protestant_order: 23
+    luther_order: 24
+    synodal_order: 30
+    german_order: 24
+    kjva_order: 24
+    vulgate_order: 28
+    lxx_order: 47
+    orthodox_order: 45
+    nrsva_order: 24
+    catholic_order: 30
+    finnish_order: 24
+-
+    id: JAS
+    id_usfx: JM
+    id_osis: Jas
+    book_testament: NT
+    book_group: General Epistles
+    chapters: 5
+    verses: 108
+    name: James
+    testament_order: 20
+    protestant_order: 60
+    luther_order: 72
+    synodal_order: 58
+    german_order: 60
+    kjva_order: 74
+    vulgate_order: 67
+    lxx_order: 78
+    orthodox_order: 74
+    nrsva_order: 77
+    catholic_order: 67
+    finnish_order: 65
+-
+    id: JDG
+    id_usfx: JG
+    id_osis: Judg
+    book_testament: OT
+    book_group: Historical Books
+    chapters: 21
+    verses: 618
+    name: Judges
+    testament_order: 7
+    protestant_order: 7
+    luther_order: 8
+    synodal_order: 8
+    german_order: 8
+    kjva_order: 8
+    vulgate_order: 8
+    lxx_order: 8
+    orthodox_order: 8
+    nrsva_order: 8
+    catholic_order: 8
+    finnish_order: 8
+-
+    id: JDT
+    id_usfx: JT
+    id_osis: Jdt
+    book_testament: AP
+    book_group: Historical Books
+    chapters: 16
+    verses: 340
+    name: Judith
+    testament_order: 29
+    protestant_order: 69
+    luther_order: 41
+    synodal_order: 21
+    german_order: NULL
+    kjva_order: 44
+    vulgate_order: 19
+    lxx_order: 20
+    orthodox_order: 20
+    nrsva_order: 42
+    catholic_order: 19
+    finnish_order: NULL
+-
+    id: JER
+    id_usfx: JR
+    id_osis: Jer
+    book_testament: OT
+    book_group: Major Prophets
+    chapters: 52
+    verses: 1364
+    name: Jeremiah
+    testament_order: 24
+    protestant_order: 24
+    luther_order: 25
+    synodal_order: 31
+    german_order: 25
+    kjva_order: 25
+    vulgate_order: 29
+    lxx_order: 48
+    orthodox_order: 46
+    nrsva_order: 25
+    catholic_order: 31
+    finnish_order: 25
+-
+    id: JHN
+    id_usfx: JN
+    id_osis: John
+    book_testament: NT
+    book_group: Gospels
+    chapters: 21
+    verses: 879
+    name: John
+    testament_order: 4
+    protestant_order: 44
+    luther_order: 56
+    synodal_order: 56
+    german_order: 44
+    kjva_order: 58
+    vulgate_order: 51
+    lxx_order: 62
+    orthodox_order: 58
+    nrsva_order: 61
+    catholic_order: 51
+    finnish_order: 44
+-
+    id: JOB
+    id_usfx: JB
+    id_osis: Job
+    book_testament: OT
+    book_group: Wisdom Books
+    chapters: 42
+    verses: 1070
+    name: Job
+    testament_order: 18
+    protestant_order: 18
+    luther_order: 19
+    synodal_order: 23
+    german_order: 19
+    kjva_order: 19
+    vulgate_order: 21
+    lxx_order: 31
+    orthodox_order: 27
+    nrsva_order: 19
+    catholic_order: 23
+    finnish_order: 19
+-
+    id: JOL
+    id_usfx: JL
+    id_osis: Joel
+    book_testament: OT
+    book_group: Minor Prophets
+    chapters: 3
+    verses: 73
+    name: Joel
+    testament_order: 29
+    protestant_order: 29
+    luther_order: 30
+    synodal_order: 38
+    german_order: 30
+    kjva_order: 30
+    vulgate_order: 35
+    lxx_order: 38
+    orthodox_order: 36
+    nrsva_order: 30
+    catholic_order: 37
+    finnish_order: 30
+-
+    id: JON
+    id_usfx: JH
+    id_osis: Jonah
+    book_testament: OT
+    book_group: Minor Prophets
+    chapters: 4
+    verses: 48
+    name: Jonah
+    testament_order: 32
+    protestant_order: 32
+    luther_order: 33
+    synodal_order: 41
+    german_order: 33
+    kjva_order: 33
+    vulgate_order: 38
+    lxx_order: 40
+    orthodox_order: 38
+    nrsva_order: 33
+    catholic_order: 40
+    finnish_order: 33
+-
+    id: JOS
+    id_usfx: JS
+    id_osis: Josh
+    book_testament: OT
+    book_group: Historical Books
+    chapters: 24
+    verses: 658
+    name: Joshua
+    testament_order: 6
+    protestant_order: 6
+    luther_order: 7
+    synodal_order: 7
+    german_order: 7
+    kjva_order: 7
+    vulgate_order: 7
+    lxx_order: 7
+    orthodox_order: 7
+    nrsva_order: 7
+    catholic_order: 7
+    finnish_order: 7
+-
+    id: JUB
+    id_usfx: JU
+    id_osis: Jub
+    book_testament: AP
+    book_group: 
+    chapters: 0
+    verses: 0
+    name: 2 Baruch
+    testament_order: 55
+    protestant_order: 95
+    luther_order: NULL
+    synodal_order: NULL
+    german_order: NULL
+    kjva_order: NULL
+    vulgate_order: NULL
+    lxx_order: NULL
+    orthodox_order: NULL
+    nrsva_order: NULL
+    catholic_order: NULL
+    finnish_order: NULL
+-
+    id: JUD
+    id_usfx: JD
+    id_osis: Jude
+    book_testament: NT
+    book_group: General Epistles
+    chapters: 1
+    verses: 25
+    name: Jude
+    testament_order: 26
+    protestant_order: 66
+    luther_order: 78
+    synodal_order: 64
+    german_order: 66
+    kjva_order: 80
+    vulgate_order: 73
+    lxx_order: 84
+    orthodox_order: 80
+    nrsva_order: 83
+    catholic_order: 73
+    finnish_order: 66
+-
+    id: LAM
+    id_usfx: LM
+    id_osis: Lam
+    book_testament: OT
+    book_group: Major Prophets
+    chapters: 5
+    verses: 154
+    name: Lamentations
+    testament_order: 25
+    protestant_order: 25
+    luther_order: 26
+    synodal_order: 32
+    german_order: 26
+    kjva_order: 26
+    vulgate_order: 30
+    lxx_order: 50
+    orthodox_order: 48
+    nrsva_order: 26
+    catholic_order: 32
+    finnish_order: 26
+-
+    id: LAO
+    id_usfx: LO
+    id_osis: EpLao
+    book_testament: AP
+    book_group: 
+    chapters: 0
+    verses: 0
+    name: Laodiceans
+    testament_order: 62
+    protestant_order: 102
+    luther_order: NULL
+    synodal_order: NULL
+    german_order: NULL
+    kjva_order: NULL
+    vulgate_order: NULL
+    lxx_order: NULL
+    orthodox_order: NULL
+    nrsva_order: NULL
+    catholic_order: NULL
+    finnish_order: NULL
+-
+    id: LBA
+    id_usfx: LB
+    id_osis: EpBar
+    book_testament: AP
+    book_group: 
+    chapters: 0
+    verses: 0
+    name: The Apocalypse of Baruch
+    testament_order: 54
+    protestant_order: 94
+    luther_order: NULL
+    synodal_order: NULL
+    german_order: NULL
+    kjva_order: NULL
+    vulgate_order: NULL
+    lxx_order: NULL
+    orthodox_order: NULL
+    nrsva_order: NULL
+    catholic_order: NULL
+    finnish_order: NULL
+-
+    id: LEV
+    id_usfx: LV
+    id_osis: Lev
+    book_testament: OT
+    book_group: The Law
+    chapters: 27
+    verses: 859
+    name: Leviticus
+    testament_order: 3
+    protestant_order: 3
+    luther_order: 4
+    synodal_order: 4
+    german_order: 4
+    kjva_order: 4
+    vulgate_order: 4
+    lxx_order: 4
+    orthodox_order: 4
+    nrsva_order: 4
+    catholic_order: 4
+    finnish_order: 4
+-
+    id: LJE
+    id_usfx: J1
+    id_osis: EpJer
+    book_testament: AP
+    book_group: 
+    chapters: 1
+    verses: 73
+    name: Rest of Jeremiah
+    testament_order: 34
+    protestant_order: 74
+    luther_order: NULL
+    synodal_order: 33
+    german_order: NULL
+    kjva_order: NULL
+    vulgate_order: NULL
+    lxx_order: 51
+    orthodox_order: 49
+    nrsva_order: NULL
+    catholic_order: NULL
+    finnish_order: NULL
+-
+    id: LUK
+    id_usfx: LK
+    id_osis: Luke
+    book_testament: NT
+    book_group: Gospels
+    chapters: 24
+    verses: 1151
+    name: Luke
+    testament_order: 3
+    protestant_order: 43
+    luther_order: 55
+    synodal_order: 55
+    german_order: 43
+    kjva_order: 57
+    vulgate_order: 50
+    lxx_order: 61
+    orthodox_order: 57
+    nrsva_order: 60
+    catholic_order: 50
+    finnish_order: 43
+-
+    id: MAL
+    id_usfx: ML
+    id_osis: Mal
+    book_testament: OT
+    book_group: Minor Prophets
+    chapters: 4
+    verses: 55
+    name: Malachi
+    testament_order: 39
+    protestant_order: 39
+    luther_order: 40
+    synodal_order: 48
+    german_order: 40
+    kjva_order: 40
+    vulgate_order: 45
+    lxx_order: 46
+    orthodox_order: 44
+    nrsva_order: 40
+    catholic_order: 47
+    finnish_order: 40
+-
+    id: MAN
+    id_usfx: PN
+    id_osis: PrMan
+    book_testament: AP
+    book_group: 
+    chapters: 0
+    verses: 0
+    name: The Prayer of Manasseh
+    testament_order: 44
+    protestant_order: 84
+    luther_order: 52
+    synodal_order: 16
+    german_order: NULL
+    kjva_order: 52
+    vulgate_order: 75
+    lxx_order: 27
+    orthodox_order: 26
+    nrsva_order: 53
+    catholic_order: NULL
+    finnish_order: NULL
+-
+    id: MAT
+    id_usfx: MT
+    id_osis: Matt
+    book_testament: NT
+    book_group: Gospels
+    chapters: 28
+    verses: 1071
+    name: Matthew
+    testament_order: 1
+    protestant_order: 41
+    luther_order: 53
+    synodal_order: 53
+    german_order: 41
+    kjva_order: 55
+    vulgate_order: 48
+    lxx_order: 59
+    orthodox_order: 55
+    nrsva_order: 58
+    catholic_order: 48
+    finnish_order: 41
+-
+    id: MIC
+    id_usfx: MC
+    id_osis: Mic
+    book_testament: OT
+    book_group: Minor Prophets
+    chapters: 7
+    verses: 105
+    name: Micah
+    testament_order: 33
+    protestant_order: 33
+    luther_order: 34
+    synodal_order: 42
+    german_order: 34
+    kjva_order: 34
+    vulgate_order: 39
+    lxx_order: 37
+    orthodox_order: 35
+    nrsva_order: 34
+    catholic_order: 41
+    finnish_order: 34
+-
+    id: MRK
+    id_usfx: MK
+    id_osis: Mark
+    book_testament: NT
+    book_group: Gospels
+    chapters: 16
+    verses: 678
+    name: Mark
+    testament_order: 2
+    protestant_order: 42
+    luther_order: 54
+    synodal_order: 54
+    german_order: 42
+    kjva_order: 56
+    vulgate_order: 49
+    lxx_order: 60
+    orthodox_order: 56
+    nrsva_order: 59
+    catholic_order: 49
+    finnish_order: 42
+-
+    id: NAM
+    id_usfx: NM
+    id_osis: Nah
+    book_testament: OT
+    book_group: Minor Prophets
+    chapters: 3
+    verses: 47
+    name: Nahum
+    testament_order: 34
+    protestant_order: 34
+    luther_order: 35
+    synodal_order: 43
+    german_order: 35
+    kjva_order: 35
+    vulgate_order: 40
+    lxx_order: 41
+    orthodox_order: 39
+    nrsva_order: 35
+    catholic_order: 42
+    finnish_order: 35
+-
+    id: NEH
+    id_usfx: NH
+    id_osis: Neh
+    book_testament: OT
+    book_group: Historical Books
+    chapters: 13
+    verses: 406
+    name: Nehemiah
+    testament_order: 16
+    protestant_order: 16
+    luther_order: 17
+    synodal_order: 18
+    german_order: 17
+    kjva_order: 17
+    vulgate_order: 17
+    lxx_order: 18
+    orthodox_order: 18
+    nrsva_order: 17
+    catholic_order: 17
+    finnish_order: 17
+-
+    id: NUM
+    id_usfx: NU
+    id_osis: Num
+    book_testament: OT
+    book_group: The Law
+    chapters: 36
+    verses: 1288
+    name: Numbers
+    testament_order: 4
+    protestant_order: 4
+    luther_order: 5
+    synodal_order: 5
+    german_order: 5
+    kjva_order: 5
+    vulgate_order: 5
+    lxx_order: 5
+    orthodox_order: 5
+    nrsva_order: 5
+    catholic_order: 5
+    finnish_order: 5
+-
+    id: OBA
+    id_usfx: OB
+    id_osis: Obad
+    book_testament: OT
+    book_group: Minor Prophets
+    chapters: 1
+    verses: 21
+    name: Obadiah
+    testament_order: 31
+    protestant_order: 31
+    luther_order: 32
+    synodal_order: 40
+    german_order: 32
+    kjva_order: 32
+    vulgate_order: 37
+    lxx_order: 39
+    orthodox_order: 37
+    nrsva_order: 32
+    catholic_order: 39
+    finnish_order: 32
+-
+    id: ODA
+    id_usfx: OD
+    id_osis: Odes
+    book_testament: AP
+    book_group: 
+    chapters: 0
+    verses: 0
+    name: The Odes of Solomon
+    testament_order: 46
+    protestant_order: 86
+    luther_order: NULL
+    synodal_order: NULL
+    german_order: NULL
+    kjva_order: NULL
+    vulgate_order: NULL
+    lxx_order: NULL
+    orthodox_order: NULL
+    nrsva_order: NULL
+    catholic_order: NULL
+    finnish_order: NULL
+-
+    id: PHM
+    id_usfx: PM
+    id_osis: Phlm
+    book_testament: NT
+    book_group: Pauline Epistles
+    chapters: 1
+    verses: 25
+    name: Philemon
+    testament_order: 18
+    protestant_order: 58
+    luther_order: 70
+    synodal_order: 77
+    german_order: 58
+    kjva_order: 72
+    vulgate_order: 65
+    lxx_order: 76
+    orthodox_order: 72
+    nrsva_order: 75
+    catholic_order: 65
+    finnish_order: 58
+-
+    id: PHP
+    id_usfx: PP
+    id_osis: Phil
+    book_testament: NT
+    book_group: Pauline Epistles
+    chapters: 4
+    verses: 104
+    name: Philippians
+    testament_order: 11
+    protestant_order: 51
+    luther_order: 63
+    synodal_order: 70
+    german_order: 51
+    kjva_order: 65
+    vulgate_order: 58
+    lxx_order: 69
+    orthodox_order: 65
+    nrsva_order: 68
+    catholic_order: 58
+    finnish_order: 51
+-
+    id: PRO
+    id_usfx: PR
+    id_osis: Prov
+    book_testament: OT
+    book_group: Wisdom Books
+    chapters: 31
+    verses: 915
+    name: Proverbs
+    testament_order: 20
+    protestant_order: 20
+    luther_order: 21
+    synodal_order: 25
+    german_order: 21
+    kjva_order: 21
+    vulgate_order: 23
+    lxx_order: 28
+    orthodox_order: 28
+    nrsva_order: 21
+    catholic_order: 25
+    finnish_order: 21
+-
+    id: PS2
+    id_usfx: PX
+    id_osis: AddPs
+    book_testament: AP
+    book_group: 
+    chapters: 0
+    verses: 0
+    name: The 151st Psalm
+    testament_order: 45
+    protestant_order: 85
+    luther_order: NULL
+    synodal_order: NULL
+    german_order: NULL
+    kjva_order: NULL
+    vulgate_order: 78
+    lxx_order: NULL
+    orthodox_order: NULL
+    nrsva_order: 54
+    catholic_order: NULL
+    finnish_order: NULL
+-
+    id: PS3
+    id_usfx: P3
+    id_osis: 5ApocSyrPss
+    book_testament: AP
+    book_group: 
+    chapters: 3
+    verses: 0
+    name: Psalms 152-155
+    testament_order: 52
+    protestant_order: 92
+    luther_order: NULL
+    synodal_order: NULL
+    german_order: NULL
+    kjva_order: NULL
+    vulgate_order: NULL
+    lxx_order: NULL
+    orthodox_order: NULL
+    nrsva_order: NULL
+    catholic_order: NULL
+    finnish_order: NULL
+-
+    id: PSA
+    id_usfx: PS
+    id_osis: Ps
+    book_testament: OT
+    book_group: Wisdom Books
+    chapters: 150
+    verses: 2461
+    name: Psalm
+    testament_order: 19
+    protestant_order: 19
+    luther_order: 20
+    synodal_order: 24
+    german_order: 20
+    kjva_order: 20
+    vulgate_order: 22
+    lxx_order: 26
+    orthodox_order: 25
+    nrsva_order: 20
+    catholic_order: 24
+    finnish_order: 20
+-
+    id: PSS
+    id_usfx: SP
+    id_osis: PssSol
+    book_testament: AP
+    book_group: 
+    chapters: 0
+    verses: 0
+    name: The Psalms of Solomon
+    testament_order: 47
+    protestant_order: 87
+    luther_order: NULL
+    synodal_order: NULL
+    german_order: NULL
+    kjva_order: NULL
+    vulgate_order: NULL
+    lxx_order: 34
+    orthodox_order: NULL
+    nrsva_order: NULL
+    catholic_order: NULL
+    finnish_order: NULL
+-
+    id: REP
+    id_usfx: RP
+    id_osis: Rep
+    book_testament: AP
+    book_group: 
+    chapters: 0
+    verses: 0
+    name: Proverbs 2
+    testament_order: 60
+    protestant_order: 100
+    luther_order: NULL
+    synodal_order: NULL
+    german_order: NULL
+    kjva_order: NULL
+    vulgate_order: NULL
+    lxx_order: NULL
+    orthodox_order: NULL
+    nrsva_order: NULL
+    catholic_order: NULL
+    finnish_order: NULL
+-
+    id: REV
+    id_usfx: RV
+    id_osis: Rev
+    book_testament: NT
+    book_group: Apocalypse
+    chapters: 22
+    verses: 404
+    name: Revelation
+    testament_order: 27
+    protestant_order: 67
+    luther_order: 79
+    synodal_order: 79
+    german_order: 67
+    kjva_order: 81
+    vulgate_order: 74
+    lxx_order: 85
+    orthodox_order: 81
+    nrsva_order: 84
+    catholic_order: 74
+    finnish_order: 67
+-
+    id: ROM
+    id_usfx: RM
+    id_osis: Rom
+    book_testament: NT
+    book_group: Pauline Epistles
+    chapters: 16
+    verses: 433
+    name: Romans
+    testament_order: 6
+    protestant_order: 46
+    luther_order: 58
+    synodal_order: 65
+    german_order: 46
+    kjva_order: 60
+    vulgate_order: 53
+    lxx_order: 64
+    orthodox_order: 60
+    nrsva_order: 63
+    catholic_order: 53
+    finnish_order: 46
+-
+    id: RUT
+    id_usfx: RT
+    id_osis: Ruth
+    book_testament: OT
+    book_group: Historical Books
+    chapters: 4
+    verses: 85
+    name: Ruth
+    testament_order: 8
+    protestant_order: 8
+    luther_order: 9
+    synodal_order: 9
+    german_order: 9
+    kjva_order: 9
+    vulgate_order: 9
+    lxx_order: 9
+    orthodox_order: 9
+    nrsva_order: 9
+    catholic_order: 9
+    finnish_order: 9
+-
+    id: S3Y
+    id_usfx: PA
+    id_osis: PrAzar
+    book_testament: AP
+    book_group: 
+    chapters: 1
+    verses: 68
+    name: Prayer of Azariah
+    testament_order: 35
+    protestant_order: 75
+    luther_order: 51
+    synodal_order: NULL
+    german_order: NULL
+    kjva_order: 49
+    vulgate_order: NULL
+    lxx_order: 53
+    orthodox_order: NULL
+    nrsva_order: 47
+    catholic_order: NULL
+    finnish_order: NULL
+-
+    id: SIR
+    id_usfx: SR
+    id_osis: Sir
+    book_testament: AP
+    book_group: Wisdom Books
+    chapters: 51
+    verses: 1372
+    name: The Book of Sirach
+    testament_order: 32
+    protestant_order: 72
+    luther_order: 44
+    synodal_order: 29
+    german_order: NULL
+    kjva_order: 47
+    vulgate_order: 27
+    lxx_order: 33
+    orthodox_order: 32
+    nrsva_order: 45
+    catholic_order: 29
+    finnish_order: NULL
+-
+    id: SNG
+    id_usfx: SS
+    id_osis: Song
+    book_testament: OT
+    book_group: Wisdom Books
+    chapters: 8
+    verses: 117
+    name: Song of Songs
+    testament_order: 22
+    protestant_order: 22
+    luther_order: 23
+    synodal_order: 27
+    german_order: 23
+    kjva_order: 23
+    vulgate_order: 25
+    lxx_order: 30
+    orthodox_order: 30
+    nrsva_order: 23
+    catholic_order: 27
+    finnish_order: 23
+-
+    id: SUS
+    id_usfx: SN
+    id_osis: Sus
+    book_testament: AP
+    book_group: 
+    chapters: 1
+    verses: 64
+    name: Greek Daniel
+    testament_order: 36
+    protestant_order: 76
+    luther_order: 49
+    synodal_order: NULL
+    german_order: NULL
+    kjva_order: 50
+    vulgate_order: NULL
+    lxx_order: 54
+    orthodox_order: 51
+    nrsva_order: 48
+    catholic_order: NULL
+    finnish_order: NULL
+-
+    id: TIT
+    id_usfx: TT
+    id_osis: Titus
+    book_testament: NT
+    book_group: Pauline Epistles
+    chapters: 3
+    verses: 46
+    name: Titus
+    testament_order: 17
+    protestant_order: 57
+    luther_order: 69
+    synodal_order: 76
+    german_order: 57
+    kjva_order: 71
+    vulgate_order: 64
+    lxx_order: 75
+    orthodox_order: 71
+    nrsva_order: 74
+    catholic_order: 64
+    finnish_order: 57
+-
+    id: TOB
+    id_usfx: TB
+    id_osis: Tob
+    book_testament: AP
+    book_group: Historical Books
+    chapters: 14
+    verses: 245
+    name: Tobit
+    testament_order: 28
+    protestant_order: 68
+    luther_order: 43
+    synodal_order: 20
+    german_order: NULL
+    kjva_order: 43
+    vulgate_order: 18
+    lxx_order: 21
+    orthodox_order: 19
+    nrsva_order: 41
+    catholic_order: 18
+    finnish_order: NULL
+-
+    id: WIS
+    id_usfx: WS
+    id_osis: wis
+    book_testament: AP
+    book_group: 
+    chapters: 19
+    verses: 436
+    name: The Wisdom of Solomon
+    testament_order: 31
+    protestant_order: 71
+    luther_order: 42
+    synodal_order: 28
+    german_order: NULL
+    kjva_order: 46
+    vulgate_order: 26
+    lxx_order: 32
+    orthodox_order: 31
+    nrsva_order: 44
+    catholic_order: 28
+    finnish_order: NULL
+-
+    id: ZEC
+    id_usfx: ZC
+    id_osis: Zech
+    book_testament: OT
+    book_group: Minor Prophets
+    chapters: 14
+    verses: 211
+    name: Zechariah
+    testament_order: 38
+    protestant_order: 38
+    luther_order: 39
+    synodal_order: 47
+    german_order: 39
+    kjva_order: 39
+    vulgate_order: 44
+    lxx_order: 45
+    orthodox_order: 43
+    nrsva_order: 39
+    catholic_order: 46
+    finnish_order: 39
+-
+    id: ZEP
+    id_usfx: ZP
+    id_osis: Zeph
+    book_testament: OT
+    book_group: Minor Prophets
+    chapters: 3
+    verses: 53
+    name: Zephaniah
+    testament_order: 36
+    protestant_order: 36
+    luther_order: 37
+    synodal_order: 45
+    german_order: 37
+    kjva_order: 37
+    vulgate_order: 42
+    lxx_order: 43
+    orthodox_order: 41
+    nrsva_order: 37
+    catholic_order: 44
+    finnish_order: 37

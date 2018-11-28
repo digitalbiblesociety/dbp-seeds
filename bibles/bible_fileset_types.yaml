@@ -1,0 +1,57 @@
+---
+-
+    id: 1
+    set_type_code: audio_drama
+    name: Dramatized Audio
+-
+    id: 2
+    set_type_code: audio
+    name: Audio
+-
+    id: 3
+    set_type_code: text_plain
+    name: Plain Text
+-
+    id: 4
+    set_type_code: text_format
+    name: Formatted Text
+-
+    id: 5
+    set_type_code: video_stream
+    name: Video
+-
+    id: 6
+    set_type_code: app
+    name: Application
+-
+    id: 7
+    set_type_code: pdf
+    name: PDF
+-
+    id: 8
+    set_type_code: cat
+    name: Catalog 
+-
+    id: 9
+    set_type_code: web
+    name: Website
+-
+    id: 10
+    set_type_code: print
+    name: Printed Work
+-
+    id: 11
+    set_type_code: mobi
+    name: Mobi Format
+-
+    id: 12
+    set_type_code: audio_web
+    name: Audio on Website
+-
+    id: 13
+    set_type_code: epub
+    name: EPUB Format
+-
+    id: 14
+    set_type_code: video_web
+    name: Video on Website

@@ -1,0 +1,41 @@
+---
+-
+    id: 1
+    set_size_code: C
+    name: Complete
+-
+    id: 2
+    set_size_code: NT
+    name: New Testament
+-
+    id: 3
+    set_size_code: NTOTP
+    name: New Testament & Old Testament Portions
+-
+    id: 4
+    set_size_code: NTP
+    name: New Testament Portions
+-
+    id: 5
+    set_size_code: NTPOTP
+    name:  New & Old Testament Portions
+-
+    id: 6
+    set_size_code: OT
+    name: Old Testament
+-
+    id: 7
+    set_size_code: OTNTP
+    name: Old Testament & New Testament Portions
+-
+    id: 8
+    set_size_code: OTP
+    name: Old Testament Portions
+-
+    id: 9
+    set_size_code: P
+    name: Portions
+-
+    id: 10
+    set_size_code: S
+    name: Stories
