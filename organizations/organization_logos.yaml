@@ -2,3030 +2,2525 @@
 -
     organization_id: 1
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/american-bible-society.svg
     icon: 0
 -
     organization_id: 1
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/icon/american-bible-society_icon.svg
     icon: 1
 -
     organization_id: 2
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-league-canada.svg
     icon: 0
 -
     organization_id: 2
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/icon/bible-league-canada_icon.svg
     icon: 1
 -
     organization_id: 3
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-league-international.svg
     icon: 0
 -
     organization_id: 3
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/icon/bible-league-international_icon.svg
     icon: 1
 -
     organization_id: 4
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/biblica.svg
     icon: 0
 -
     organization_id: 4
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/icon/biblica_icon.svg
     icon: 1
 -
     organization_id: 5
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/crossway.svg
     icon: 0
 -
     organization_id: 6
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/door-international.svg
     icon: 0
 -
     organization_id: 7
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/davar.svg
     icon: 0
 -
     organization_id: 7
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/icon/davar_icon.svg
     icon: 1
 -
     organization_id: 8
     language_id: 6414
-    language_iso: eng
     url: http://images.bible.cloud/dbs_logo_title.svg
     icon: 0
 -
     organization_id: 8
     language_id: 6414
-    language_iso: eng
     url: http://images.bible.cloud/logo_dbs.svg
     icon: 1
 -
     organization_id: 9
     language_id: 6414
-    language_iso: eng
     url: https://bible.cloud/images/logo/FCBH_Color.svg
     icon: 0
 -
     organization_id: 10
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/institute-for-bible-translation-moscow.svg
     icon: 0
 -
     organization_id: 10
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/icon/institute-for-bible-translation-moscow_icon.svg
     icon: 1
 -
     organization_id: 11
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/lutheran-bible-translators.svg
     icon: 0
 -
     organization_id: 11
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/icon/lutheran-bible-translators_icon.svg
     icon: 1
 -
     organization_id: 12
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/mars-hill.svg
     icon: 0
 -
     organization_id: 12
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/icon/mars-hill_icon.svg
     icon: 1
 -
     organization_id: 13
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/Ethnos360(new-tribes-mission).svg
     icon: 0
 -
     organization_id: 14
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/one-hope.svg
     icon: 0
 -
     organization_id: 14
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/icon/one-hope_icon.svg
     icon: 1
 -
     organization_id: 15
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/open-doors.svg
     icon: 0
 -
     organization_id: 15
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/icon/open-doors_icon.svg
     icon: 1
 -
     organization_id: 16
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/pioneer-bible-translators.svg
     icon: 0
 -
     organization_id: 16
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/icon/pioneer-bible-translators_icon.svg
     icon: 1
 -
     organization_id: 17
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/Scripture_Union_global_ministry.svg
     icon: 0
 -
     organization_id: 17
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/icon/SU_global_ministry_icon.svg
     icon: 1
 -
     organization_id: 18
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/sgm-life-words.svg
     icon: 0
 -
     organization_id: 18
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/icon/sgm-life-words_icon.svg
     icon: 1
 -
     organization_id: 19
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/SIL_current.svg
     icon: 0
 -
     organization_id: 20
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/sim.svg
     icon: 0
 -
     organization_id: 21
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/talking_bibles_international.svg
     icon: 0
 -
     organization_id: 21
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/icon/talking_bibles_international_icon.svg
     icon: 1
 -
     organization_id: 22
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/taylor-university-center-for-scripture-engagement.svg
     icon: 0
 -
     organization_id: 22
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/icon/taylor-university-center-for-scripture-engagement_icon.svg
     icon: 1
 -
     organization_id: 23
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/jerusalem_center_for_bible_translators.svg
     icon: 0
 -
     organization_id: 23
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/icon/jerusalem_center_for_bible_translators_icon.svg
     icon: 1
 -
     organization_id: 24
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/jfm-logo.svg
     icon: 0
 -
     organization_id: 25
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/seed_company.svg
     icon: 0
 -
     organization_id: 25
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/icon/seed_company_icon.svg
     icon: 1
 -
     organization_id: 26
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/the-word-the-world.svg
     icon: 0
 -
     organization_id: 27
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/united-bible-societies.svg
     icon: 0
 -
     organization_id: 27
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/icon/united-bible-societies_icon.svg
     icon: 1
 -
     organization_id: 28
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/virtual-storehouse.svg
     icon: 0
 -
     organization_id: 29
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/world-mission.svg
     icon: 0
 -
     organization_id: 30
     language_id: 6411
-    language_iso: spa
     url: https://images.bible.cloud/logo/wycliffe-bible-translators.svg
     icon: 0
 -
     organization_id: 30
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/wycliffe-bible-translators.svg
     icon: 0
 -
     organization_id: 30
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/icon/wycliffe-bible-translators_icon.svg
     icon: 1
 -
     organization_id: 31
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/all-saints-of-north-america-orthodox-church.svg
     icon: 0
 -
     organization_id: 32
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/amazon-evangelical-mission.svg
     icon: 0
 -
     organization_id: 33
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/judson_press.svg
     icon: 0
 -
     organization_id: 34
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/american-board-of-commissioners-for-foreign-missions.svg
     icon: 0
 -
     organization_id: 36
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/amity-printing-company.svg
     icon: 0
 -
     organization_id: 37
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-argentina.svg
     icon: 0
 -
     organization_id: 38
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/armenian-apostolic-church.svg
     icon: 0
 -
     organization_id: 39
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/armenian-missionary-association-of-america.svg
     icon: 0
 -
     organization_id: 40
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bayard.png
     icon: 0
 -
     organization_id: 41
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-in-australia.svg
     icon: 0
 -
     organization_id: 42
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-albania.svg
     icon: 0
 -
     organization_id: 43
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-angola.svg
     icon: 0
 -
     organization_id: 44
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-armenia.svg
     icon: 0
 -
     organization_id: 45
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-bangladesh.svg
     icon: 0
 -
     organization_id: 46
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-belarus.svg
     icon: 0
 -
     organization_id: 47
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-benin.svg
     icon: 0
 -
     organization_id: 48
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-bolivia.svg
     icon: 0
 -
     organization_id: 49
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-botswana.svg
     icon: 0
 -
     organization_id: 50
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-brazil.svg
     icon: 0
 -
     organization_id: 51
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-bulgaria.svg
     icon: 0
 -
     organization_id: 52
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-burkina-faso.svg
     icon: 0
 -
     organization_id: 53
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-burundi.svg
     icon: 0
 -
     organization_id: 54
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-cambodia.svg
     icon: 0
 -
     organization_id: 55
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-cameroon.svg
     icon: 0
 -
     organization_id: 56
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-canada.svg
     icon: 0
 -
     organization_id: 57
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-ceylon.svg
     icon: 0
 -
     organization_id: 58
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-chad.svg
     icon: 0
 -
     organization_id: 59
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-chile.svg
     icon: 0
 -
     organization_id: 60
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/ubs_grey_filler_icon.svg
     icon: 0
 -
     organization_id: 61
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-comoros.svg
     icon: 0
 -
     organization_id: 62
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-cote-divoire.svg
     icon: 0
 -
     organization_id: 63
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/ubs_grey_filler_icon.svg
     icon: 0
 -
     organization_id: 64
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-egypt.svg
     icon: 0
 -
     organization_id: 65
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/ubs_grey_filler_icon.svg
     icon: 0
 -
     organization_id: 66
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-ethiopia.svg
     icon: 0
 -
     organization_id: 67
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-finland.svg
     icon: 0
 -
     organization_id: 68
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-gabon.svg
     icon: 0
 -
     organization_id: 69
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-geneva.svg
     icon: 0
 -
     organization_id: 70
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-georgia.svg
     icon: 0
 -
     organization_id: 71
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-germany.svg
     icon: 0
 -
     organization_id: 72
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-ghana.svg
     icon: 0
 -
     organization_id: 73
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-guatemala.svg
     icon: 0
 -
     organization_id: 74
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-guyana.svg
     icon: 0
 -
     organization_id: 75
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-haiti.svg
     icon: 0
 -
     organization_id: 76
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-honduras.svg
     icon: 0
 -
     organization_id: 77
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-hong-kong.svg
     icon: 0
 -
     organization_id: 78
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-hungary.svg
     icon: 0
 -
     organization_id: 79
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-iceland.svg
     icon: 0
 -
     organization_id: 80
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-india.svg
     icon: 0
 -
     organization_id: 81
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-indonesia.svg
     icon: 0
 -
     organization_id: 82
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-israel.svg
     icon: 0
 -
     organization_id: 83
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-japan.svg
     icon: 0
 -
     organization_id: 84
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-kenya.svg
     icon: 0
 -
     organization_id: 85
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-korea.svg
     icon: 0
 -
     organization_id: 86
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-latvia.svg
     icon: 0
 -
     organization_id: 87
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-lebanon.svg
     icon: 0
 -
     organization_id: 88
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/ubs_grey_filler_icon.svg
     icon: 0
 -
     organization_id: 89
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-lithuania.svg
     icon: 0
 -
     organization_id: 90
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-malagasy.svg
     icon: 0
 -
     organization_id: 91
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-malawi.svg
     icon: 0
 -
     organization_id: 92
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-malaysia.svg
     icon: 0
 -
     organization_id: 93
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-mali.svg
     icon: 0
 -
     organization_id: 94
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/ubs_grey_filler_icon.svg
     icon: 0
 -
     organization_id: 95
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/ubs_grey_filler_icon.svg
     icon: 0
 -
     organization_id: 96
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-mexico.svg
     icon: 0
 -
     organization_id: 97
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/ubs_grey_filler_icon.svg
     icon: 0
 -
     organization_id: 98
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-mongolia.svg
     icon: 0
 -
     organization_id: 99
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-morocco.svg
     icon: 0
 -
     organization_id: 100
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-mozambique.svg
     icon: 0
 -
     organization_id: 101
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-myanmar.svg
     icon: 0
 -
     organization_id: 102
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-namibia.svg
     icon: 0
 -
     organization_id: 103
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-nepal.svg
     icon: 0
 -
     organization_id: 104
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-new-zealand.svg
     icon: 0
 -
     organization_id: 105
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-nicaragua.svg
     icon: 0
 -
     organization_id: 106
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-nigeria.svg
     icon: 0
 -
     organization_id: 107
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-norway.svg
     icon: 0
 -
     organization_id: 108
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-pakistan.svg
     icon: 0
 -
     organization_id: 109
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-panama.svg
     icon: 0
 -
     organization_id: 110
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-papua-new-guinea.svg
     icon: 0
 -
     organization_id: 111
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-paraguay.svg
     icon: 0
 -
     organization_id: 112
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-peru.svg
     icon: 0
 -
     organization_id: 113
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-poland.svg
     icon: 0
 -
     organization_id: 114
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-portugal.svg
     icon: 0
 -
     organization_id: 115
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-romania.svg
     icon: 0
 -
     organization_id: 116
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-russia.svg
     icon: 0
 -
     organization_id: 117
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-rwanda.svg
     icon: 0
 -
     organization_id: 118
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/ubs_grey_filler_icon.svg
     icon: 0
 -
     organization_id: 119
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-sierra-leone.svg
     icon: 0
 -
     organization_id: 120
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-singapore.svg
     icon: 0
 -
     organization_id: 121
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-slovenia.svg
     icon: 0
 -
     organization_id: 122
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/ubs_grey_filler_icon.svg
     icon: 0
 -
     organization_id: 123
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-south-africa.svg
     icon: 0
 -
     organization_id: 124
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-south-sudan.svg
     icon: 0
 -
     organization_id: 125
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-spain.svg
     icon: 0
 -
     organization_id: 126
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/ubs_grey_filler_icon.svg
     icon: 0
 -
     organization_id: 127
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-guyana.svg
     icon: 0
 -
     organization_id: 128
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-swaziland.svg
     icon: 0
 -
     organization_id: 129
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-sweden.svg
     icon: 0
 -
     organization_id: 130
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-taiwan.svg
     icon: 0
 -
     organization_id: 131
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-tanzania.svg
     icon: 0
 -
     organization_id: 132
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-thailand.svg
     icon: 0
 -
     organization_id: 133
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-the-central-african-republic.svg
     icon: 0
 -
     organization_id: 134
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-the-czech-republic.svg
     icon: 0
 -
     organization_id: 135
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-the-democratic-republic-of-congo.svg
     icon: 0
 -
     organization_id: 136
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-the-dominican-republic.svg
     icon: 0
 -
     organization_id: 137
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-the-east-caribbean.svg
     icon: 0
 -
     organization_id: 138
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-the-gambia.svg
     icon: 0
 -
     organization_id: 139
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-the-netherlands.png
     icon: 0
 -
     organization_id: 140
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-the-philippines.svg
     icon: 0
 -
     organization_id: 141
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-the-south-pacific.svg
     icon: 0
 -
     organization_id: 142
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-togo.svg
     icon: 0
 -
     organization_id: 143
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-turkey.svg
     icon: 0
 -
     organization_id: 144
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-uganda.svg
     icon: 0
 -
     organization_id: 145
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-ukraine.svg
     icon: 0
 -
     organization_id: 146
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-vietnam.svg
     icon: 0
 -
     organization_id: 147
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-west-indies.svg
     icon: 0
 -
     organization_id: 148
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-zambia.svg
     icon: 0
 -
     organization_id: 149
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-zimbabwe.svg
     icon: 0
 -
     organization_id: 150
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bibles-international.svg
     icon: 0
 -
     organization_id: 151
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/biblical-studies-press.svg
     icon: 0
 -
     organization_id: 152
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/brepols-publishers.png
     icon: 0
 -
     organization_id: 153
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/british-and-foreign-bible-society.svg
     icon: 0
 -
     organization_id: 153
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/icon/british-and-foreign-bible-society_icon.svg
     icon: 1
 -
     organization_id: 156
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/cameroon-association-for-bible-translation-and-literacy.svg
     icon: 0
 -
     organization_id: 157
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/carpe-diem-media.svg
     icon: 0
 -
     organization_id: 158
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/catholic-bible-foundation.svg
     icon: 0
 -
     organization_id: 159
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/catholic-bible-society.svg
     icon: 0
 -
     organization_id: 160
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/catholic-bishops-conference-of-bangladesh.svg
     icon: 0
 -
     organization_id: 161
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/cherokee-bible-project.svg
     icon: 0
 -
     organization_id: 162
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/chinese-bible-international.svg
     icon: 0
 -
     organization_id: 163
     language_id: 6411
-    language_iso: spa
     url: https://images.bible.cloud/logo/wycliffe_alianza_global.svg
     icon: 0
 -
     organization_id: 163
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/wycliffe-global-alliance.svg
     icon: 0
 -
     organization_id: 163
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/icon/wycliffe-global-alliance_icon.svg
     icon: 1
 -
     organization_id: 164
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/church-missionary-society.png
     icon: 0
 -
     organization_id: 165
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/claretian-publications.svg
     icon: 0
 -
     organization_id: 166
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/concordant-publishing-concern.svg
     icon: 0
 -
     organization_id: 167
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/cornerstone-ministies.svg
     icon: 0
 -
     organization_id: 168
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/cornish-bible-project.svg
     icon: 0
 -
     organization_id: 169
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/cornish-language-board.svg
     icon: 0
 -
     organization_id: 170
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-denmark.svg
     icon: 0
 -
     organization_id: 171
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/david-c-cook.svg
     icon: 0
 -
     organization_id: 171
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/icon/david-c-cook_icon.svg
     icon: 1
 -
     organization_id: 172
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/deaf-bible.svg
     icon: 0
 -
     organization_id: 172
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/icon/deaf-bible_icon.svg
     icon: 1
 -
     organization_id: 173
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/desclee-de-brouwer.svg
     icon: 0
 -
     organization_id: 174
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/diocesis-de-quiche.svg
     icon: 0
 -
     organization_id: 176
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/editorial-clie.svg
     icon: 0
 -
     organization_id: 177
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/elam-ministries.svg
     icon: 0
 -
     organization_id: 178
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/evertype.svg
     icon: 0
 -
     organization_id: 179
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/single_author.svg
     icon: 0
 -
     organization_id: 180
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/fayard.svg
     icon: 0
 -
     organization_id: 181
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/finnish-lutheran-church.svg
     icon: 0
 -
     organization_id: 182
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/folkandsprak.svg
     icon: 0
 -
     organization_id: 183
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-france.svg
     icon: 0
 -
     organization_id: 184
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/fundacja-wrota-nadziei.svg
     icon: 0
 -
     organization_id: 185
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/gallimard.svg
     icon: 0
 -
     organization_id: 186
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/ghana-institute-of-linguistics-literacy-and-bible-translation.svg
     icon: 0
 -
     organization_id: 188
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/global-bible-initiative.svg
     icon: 0
 -
     organization_id: 189
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/GRN.svg
     icon: 0
 -
     organization_id: 189
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/icon/GRN_icon.svg
     icon: 1
 -
     organization_id: 191
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/single_author.svg
     icon: 0
 -
     organization_id: 192
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/hagefen-publishing.png
     icon: 1
 -
     organization_id: 193
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/harpercollins.svg
     icon: 0
 -
     organization_id: 194
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/single_author.svg
     icon: 0
 -
     organization_id: 195
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/hellenic-bible-society.svg
     icon: 0
 -
     organization_id: 196
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/holman-bible-publishers.svg
     icon: 0
 -
     organization_id: 199
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/institucio-biblica-evangelica-de-catalunya.svg
     icon: 0
 -
     organization_id: 200
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/institute-for-bible-translation-helsinki.svg
     icon: 0
 -
     organization_id: 201
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/institute-for-bible-translation-moscow.svg
     icon: 0
 -
     organization_id: 202
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/institute-for-bible-translation-stockholm.svg
     icon: 0
 -
     organization_id: 203
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/international-sharif-bible-society.svg
     icon: 0
 -
     organization_id: 205
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/single_author.svg
     icon: 0
 -
     organization_id: 206
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/jewish-publication-society.svg
     icon: 0
 -
     organization_id: 207
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/kairos-international.svg
     icon: 0
 -
     organization_id: 208
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/kale-heywet-church.svg
     icon: 0
 -
     organization_id: 210
     language_id: 6414
-    language_iso: eng
     url: https://bible.cloud/images/logo/kindred-productions.svg
     icon: 0
 -
     organization_id: 211
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/la-buona-novella.svg
     icon: 0
 -
     organization_id: 212
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/la-casa-de-la-biblia.svg
     icon: 0
 -
     organization_id: 215
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/le-cerf.svg
     icon: 0
 -
     organization_id: 216
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/lederer-messianic-ministries.svg
     icon: 0
 -
     organization_id: 217
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/letra-paraguay.svg
     icon: 1
 -
     organization_id: 218
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/libreria-editrice-vaticana.svg
     icon: 0
 -
     organization_id: 219
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/life-sentence.svg
     icon: 0
 -
     organization_id: 220
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/liga-biblica-del-peru.svg
     icon: 0
 -
     organization_id: 221
     language_id: 6414
-    language_iso: eng
     url: https://bible.cloud/images/icon/bible-league-international_icon.svg
     icon: 0
 -
     organization_id: 222
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/lutheran-church-nigeria.svg
     icon: 0
 -
     organization_id: 224
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/literacy-and-bible-translation.svg
     icon: 0
 -
     organization_id: 225
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/living-stream-ministry.svg
     icon: 0
 -
     organization_id: 226
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/logos-bible-software.svg
     icon: 0
 -
     organization_id: 227
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/loukas-foundation.svg
     icon: 0
 -
     organization_id: 228
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/malvoday.svg
     icon: 0
 -
     organization_id: 230
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/single_author.svg
     icon: 0
 -
     organization_id: 231
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/mary-knoll.svg
     icon: 0
 -
     organization_id: 235
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/single_author.svg
     icon: 0
 -
     organization_id: 236
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/military-bible-association.svg
     icon: 0
 -
     organization_id: 237
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/mission-aides-incorporated.png
     icon: 0
 -
     organization_id: 240
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/bible-society-of-mongolia.svg
     icon: 0
 -
     organization_id: 241
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/bible-society-of-mongolia.svg
     icon: 0
 -
     organization_id: 242
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/moravian-church-in-newfoundland-and-labrador.png
     icon: 0
 -
     organization_id: 244
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/single_author.svg
     icon: 0
 -
     organization_id: 245
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/national-bible-society-of-ireland.svg
     icon: 0
 -
     organization_id: 246
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/national-bible-society-of-scotland.svg
     icon: 0
 -
     organization_id: 247
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/new-life-literature.svg
     icon: 0
 -
     organization_id: 250
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/single_author.svg
     icon: 0
 -
     organization_id: 251
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/norsk-bibel.svg
     icon: 0
 -
     organization_id: 252
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/north-thailand-christian-mission.svg
     icon: 0
 -
     organization_id: 253
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/norwegian-samlaget.svg
     icon: 0
 -
     organization_id: 254
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/omf-international-philippines.svg
     icon: 0
 -
     organization_id: 255
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/overseas-missionary-fellowship.svg
     icon: 0
 -
     organization_id: 256
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/oxford-the-clarendon-press.svg
     icon: 0
 -
     organization_id: 258
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/palatine-bible-club.svg
     icon: 0
 -
     organization_id: 259
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/pallottinum-publishers.svg
     icon: 0
 -
     organization_id: 260
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/pamir-productions.svg
     icon: 0
 -
     organization_id: 262
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/peninsula-bible-church.svg
     icon: 0
 -
     organization_id: 263
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/perkins-school-of-theology.svg
     icon: 0
 -
     organization_id: 264
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/png-bible-translation-association.svg
     icon: 0
 -
     organization_id: 264
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/icon/png-bible-translation-association_icon.svg
     icon: 1
 -
     organization_id: 265
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/presbyterian-church-in-taiwan.svg
     icon: 0
 -
     organization_id: 266
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/primitive-methodist-church.svg
     icon: 0
 -
     organization_id: 268
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/projet-babel.svg
     icon: 0
 -
     organization_id: 269
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/public-domain.svg
     icon: 0
 -
     organization_id: 271
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/romanes-arbeit-marburg-e-v.png
     icon: 0
 -
     organization_id: 272
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/church.svg
     icon: 0
 -
     organization_id: 273
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/church.svg
     icon: 0
 -
     organization_id: 274
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/saint-stephen-society.svg
     icon: 0
 -
     organization_id: 276
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/seuil.svg
     icon: 0
 -
     organization_id: 277
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/church.svg
     icon: 0
 -
     organization_id: 278
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/slovak-bible-society.svg
     icon: 0
 -
     organization_id: 279
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/society-for-promoting-christian-knowledge.svg
     icon: 0
 -
     organization_id: 280
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/society-of-biblical-literature.svg
     icon: 0
 -
     organization_id: 281
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/sovereign-grace-publishers.svg
     icon: 0
 -
     organization_id: 282
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/spyrys-a-gernow.svg
     icon: 0
 -
     organization_id: 284
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/st-paul-publishing.svg
     icon: 0
 -
     organization_id: 286
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/swedish-bible-foundation.svg
     icon: 0
 -
     organization_id: 287
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/swedish-mission-alliance.svg
     icon: 0
 -
     organization_id: 288
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/lockman.svg
     icon: 0
 -
     organization_id: 288
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/icon/lockman_icon.svg
     icon: 1
 -
     organization_id: 290
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/the-university-of-chicago-press.svg
     icon: 0
 -
     organization_id: 291
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/thomas-nelson.svg
     icon: 0
 -
     organization_id: 292
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/tiospaye-bible-baptist.svg
     icon: 0
 -
     organization_id: 293
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/toronto-auxiliary-bible-society.svg
     icon: 0
 -
     organization_id: 294
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/trinitarian-bible-society.svg
     icon: 0
 -
     organization_id: 295
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/tyndale-house-publishers.svg
     icon: 0
 -
     organization_id: 296
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/u-s-center-for-world-missions.svg
     icon: 0
 -
     organization_id: 297
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/uyghurche-muqeddes-kitab-jemiyiti.svg
     icon: 0
 -
     organization_id: 298
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/veren-publishers.png
     icon: 0
 -
     organization_id: 299
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/vicariato-apostolico-de-aguarico.png
     icon: 0
 -
     organization_id: 301
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/words-of-grace-ministries.svg
     icon: 0
 -
     organization_id: 302
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/world-bible-translation-center.svg
     icon: 0
 -
     organization_id: 303
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/world-team.svg
     icon: 0
 -
     organization_id: 304
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/worldwide-bible-society.svg
     icon: 0
 -
     organization_id: 305
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/yayasan-sumber-sejahtera.svg
     icon: 0
 -
     organization_id: 306
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/yeni-yasam-yayinlari.svg
     icon: 0
 -
     organization_id: 307
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/zondervan-publishing-house.svg
     icon: 0
 -
     organization_id: 308
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/zurich-theological-publisher.svg
     icon: 0
 -
     organization_id: 309
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/gnpi.svg
     icon: 0
 -
     organization_id: 313
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/johannes-gutenberg.svg
     icon: 0
 -
     organization_id: 314
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/evangelical-church-of-guinea-bissau.svg
     icon: 0
 -
     organization_id: 315
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/ulster-scots-language-society.svg
     icon: 0
 -
     organization_id: 319
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/single_author.svg
     icon: 0
 -
     organization_id: 320
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/pyongyang-bible.svg
     icon: 0
 -
     organization_id: 321
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/international-alliance-of-independent-publishers.svg
     icon: 0
 -
     organization_id: 322
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/chilton-book-publishing.svg
     icon: 0
 -
     organization_id: 323
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/hendrickson-publishing.svg
     icon: 0
 -
     organization_id: 324
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/abwe-international.svg
     icon: 0
 -
     organization_id: 325
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/word-of-life-press.svg
     icon: 0
 -
     organization_id: 328
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/historical-text.svg
     icon: 0
 -
     organization_id: 329
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/african-books-collective.svg
     icon: 0
 -
     organization_id: 329
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/icon/african-books-collective_icon.svg
     icon: 1
 -
     organization_id: 334
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-colombia.svg
     icon: 0
 -
     organization_id: 337
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/darton-longman-and-todd.svg
     icon: 0
 -
     organization_id: 338
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/london-missionary-society.svg
     icon: 1
 -
     organization_id: 339
     language_id: 6414
-    language_iso: eng
     url: https://bible.cloud/images/logo/bible-society-of-south-sudan.svg
     icon: 0
 -
     organization_id: 339
     language_id: 6414
-    language_iso: eng
     url: https://bible.cloud/images/icon/bible-society-of-south-sudan_icon.svg
     icon: 1
 -
     organization_id: 342
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/proa.svg
     icon: 0
 -
     organization_id: 344
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/publisher-society-of-christ-hlondianum.svg
     icon: 0
 -
     organization_id: 346
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/f-a-brockhaus-ag.svg
     icon: 0
 -
     organization_id: 347
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/kregel-publications.svg
     icon: 0
 -
     organization_id: 348
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/destiny-publishers.svg
     icon: 0
 -
     organization_id: 349
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/halleluyah-scriptures.svg
     icon: 0
 -
     organization_id: 350
     language_id: 6414
-    language_iso: eng
     url: https://bible.cloud/images/logo/baker-publishing-group.svg
     icon: 0
 -
     organization_id: 351
     language_id: 6414
-    language_iso: eng
     url: https://bible.cloud/images/logo/baronius-press.svg
     icon: 0
 -
     organization_id: 352
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/national-council-of-the-churches-of-christ.svg
     icon: 0
 -
     organization_id: 353
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/wycliffe-thailand.svg
     icon: 0
 -
     organization_id: 354
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/single_author.svg
     icon: 0
 -
     organization_id: 355
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/christian-missionary-society.svg
     icon: 0
 -
     organization_id: 357
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/single_author.svg
     icon: 0
 -
     organization_id: 358
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/hodder-and-stoughton.svg
     icon: 0
 -
     organization_id: 359
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/institute-for-scripture-research.svg
     icon: 0
 -
     organization_id: 360
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/gomer-press.svg
     icon: 0
 -
     organization_id: 361
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/cambridge-university-press.svg
     icon: 0
 -
     organization_id: 362
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/legacy-of-st-wenceslas.svg
     icon: 0
 -
     organization_id: 363
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/single_author.svg
     icon: 0
 -
     organization_id: 366
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/northern-christian-evangelical-mission.svg
     icon: 0
 -
     organization_id: 369
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/single_author.svg
     icon: 0
 -
     organization_id: 370
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/divine-name-publishers.svg
     icon: 0
 -
     organization_id: 371
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/e-bible.svg
     icon: 0
 -
     organization_id: 372
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/ccb-publishing.svg
     icon: 0
 -
     organization_id: 373
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/svetopisemska-druzba-slovenije.svg
     icon: 0
 -
     organization_id: 374
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/cornell-university-library.svg
     icon: 0
 -
     organization_id: 376
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/rainbow-missions.svg
     icon: 0
 -
     organization_id: 376
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/icon/rainbow-missions_icon.svg
     icon: 1
 -
     organization_id: 377
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/university-of-michigan-library.svg
     icon: 0
 -
     organization_id: 378
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/j-rai-bible-association.svg
     icon: 0
 -
     organization_id: 379
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/elpenor.svg
     icon: 0
 -
     organization_id: 380
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/lenape-texts.svg
     icon: 0
 -
     organization_id: 381
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/johnston-press.svg
     icon: 0
 -
     organization_id: 382
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/single_author.svg
     icon: 0
 -
     organization_id: 383
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/archimandrite-guri-karpov-.svg
     icon: 0
 -
     organization_id: 385
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/the-provide.svg
     icon: 0
 -
     organization_id: 386
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/regional-culture-publishing-company.svg
     icon: 0
 -
     organization_id: 387
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/single_author.svg
     icon: 0
 -
     organization_id: 388
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/amity-printing-company.svg
     icon: 0
 -
     organization_id: 393
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/single_author.svg
     icon: 0
 -
     organization_id: 395
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/massachusetts-bible-society.svg
     icon: 0
 -
     organization_id: 397
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/sound-teaching-on-electronic-media-stem.svg
     icon: 0
 -
     organization_id: 398
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/single_author.svg
     icon: 0
 -
     organization_id: 400
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/leipzig-university-library.svg
     icon: 0
 -
     organization_id: 402
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/single_author.svg
     icon: 0
 -
     organization_id: 403
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/standard-publishing-company.svg
     icon: 0
 -
     organization_id: 404
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/bible-society-of-italy.svg
     icon: 0
 -
     organization_id: 406
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/the-light-publishing.svg
     icon: 0
 -
     organization_id: 408
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/paris-foriegn-missions-society.jpg
     icon: 0
 -
     organization_id: 409
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/sherbimi-informues-biblik.svg
     icon: 0
 -
     organization_id: 410
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/evangelical-church-of-papua-new-guinea.svg
     icon: 0
 -
     organization_id: 412
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/trinitarian-bible-society-of-brazil.svg
     icon: 0
 -
     organization_id: 416
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/bible-study-tools.svg
     icon: 0
 -
     organization_id: 417
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/bible-gateway.svg
     icon: 0
 -
     organization_id: 419
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/al-haya-tv.svg
     icon: 0
 -
     organization_id: 420
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/ambassadors-for-christ.svg
     icon: 0
 -
     organization_id: 421
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/amin-khoshnood-ministries.svg
     icon: 0
 -
     organization_id: 424
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/arab-world-ministries-pioneer.svg
     icon: 0
 -
     organization_id: 429
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/charisma-media.svg
     icon: 0
 -
     organization_id: 430
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/child-evangelism-fellowship.svg
     icon: 0
 -
     organization_id: 431
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/china-christian-books.svg
     icon: 0
 -
     organization_id: 432
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/chinese-christian-internet-mission.svg
     icon: 0
 -
     organization_id: 433
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/christian-broadcasting-network.svg
     icon: 0
 -
     organization_id: 433
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/icon/christian-broadcasting-network_icon.svg
     icon: 1
 -
     organization_id: 438
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/create_international.svg
     icon: 0
 -
     organization_id: 438
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/icon/create_international_icon.svg
     icon: 1
 -
     organization_id: 441
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/desiring-god.svg
     icon: 0
 -
     organization_id: 442
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/dota.svg
     icon: 0
 -
     organization_id: 443
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/e-bible.svg
     icon: 0
 -
     organization_id: 444
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/esword.png
     icon: 0
 -
     organization_id: 445
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/equipping-the-saints.png
     icon: 0
 -
     organization_id: 446
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/every-tribe-every-nation-eten.svg
     icon: 0
 -
     organization_id: 449
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/farsi-praise.svg
     icon: 0
 -
     organization_id: 450
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/fellowship-for-faith-for-the-muslims.svg
     icon: 0
 -
     organization_id: 451
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/freedom-in-christ.svg
     icon: 0
 -
     organization_id: 452
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/the-forum-of-bible-agencies.svg
     icon: 0
 -
     organization_id: 452
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/icon/the-forum-of-bible-agencies_icon.svg
     icon: 1
 -
     organization_id: 453
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/glasgow-iranian-church.svg
     icon: 0
 -
     organization_id: 454
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/global-media-outreach.svg
     icon: 0
 -
     organization_id: 455
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/goodseed.jpg
     icon: 0
 -
     organization_id: 456
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/gospel-comics.svg
     icon: 0
 -
     organization_id: 457
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/gospel-communications-intl.svg
     icon: 0
 -
     organization_id: 459
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/hayate-abadi.svg
     icon: 0
 -
     organization_id: 460
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/hong-kong-bible-society.svg
     icon: 0
 -
     organization_id: 461
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/international-mission-board.svg
     icon: 0
 -
     organization_id: 463
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/int-lutheran-laymen-rsquo-s-league.svg
     icon: 0
 -
     organization_id: 464
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/internationaa-gt-lt-li-gt.svg
     icon: 0
 -
     organization_id: 465
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/iran-alive-ministries.svg
     icon: 0
 -
     organization_id: 467
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/joseph-films.svg
     icon: 0
 -
     organization_id: 468
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/josh-mcdowell-ministries.svg
     icon: 0
 -
     organization_id: 470
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/lifegate-gospel.svg
     icon: 0
 -
     organization_id: 471
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/sgm-life-words.svg
     icon: 0
 -
     organization_id: 471
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/icon/sgm-life-words_icon.svg
     icon: 1
 -
     organization_id: 475
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/megavoice.svg
     icon: 0
 -
     organization_id: 475
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/icon/megavoice_icon.svg
     icon: 1
 -
     organization_id: 476
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/middle-east-media.svg
     icon: 0
 -
     organization_id: 477
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/mission-aviation-fellowship-maf.svg
     icon: 0
 -
     organization_id: 478
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/mission-india.svg
     icon: 0
 -
     organization_id: 480
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/more-than-dreams.svg
     icon: 0
 -
     organization_id: 482
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/multiplication-network.svg
     icon: 0
 -
     organization_id: 484
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/gospelgo.svg
     icon: 0
 -
     organization_id: 485
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/open-scriptures.svg
     icon: 0
 -
     organization_id: 486
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/bible-movie-app.svg
     icon: 0
 -
     organization_id: 487
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/overseas-campus-magazine.svg
     icon: 0
 -
     organization_id: 489
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/partners-international.svg
     icon: 0
 -
     organization_id: 492
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/pioneers-ministries.svg
     icon: 0
 -
     organization_id: 497
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/rock-international.svg
     icon: 0
 -
     organization_id: 501
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/scripture-earth.svg
     icon: 0
 -
     organization_id: 503
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/school-of-christ.svg
     icon: 0
 -
     organization_id: 505
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/harmony-bible.svg
     icon: 0
 -
     organization_id: 508
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/talim-ministries.svg
     icon: 0
 -
     organization_id: 510
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/the-god-story-project.svg
     icon: 0
 -
     organization_id: 512
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/third-millennium-ministries.svg
     icon: 0
 -
     organization_id: 516
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/world-christian-broadcasting.svg
     icon: 0
 -
     organization_id: 518
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/benawekokshi.svg
     icon: 0
 -
     organization_id: 519
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/youth-with-a-mission.svg
     icon: 0
 -
     organization_id: 520
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/vom.svg
     icon: 0
 -
     organization_id: 520
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/icon/vom_icon.svg
     icon: 1
 -
     organization_id: 521
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/jfm-logo.svg
     icon: 0
 -
     organization_id: 522
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/vimeo.svg
     icon: 0
 -
     organization_id: 523
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/lockman.svg
     icon: 0
 -
     organization_id: 525
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/one-hope.svg
     icon: 0
 -
     organization_id: 526
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/open-doors.svg
     icon: 0
 -
     organization_id: 527
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/sim.svg
     icon: 0
 -
     organization_id: 529
     language_id: 6414
-    language_iso: eng
     url: https://images.bible.cloud/logo/single_author.svg
     icon: 0
 -
     organization_id: 530
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/digital-bible-library.svg
     icon: 0
 -
     organization_id: 531
     language_id: 6414
-    language_iso: eng
     url: https://bible.cloud/images/logo/youversion.svg
     icon: 0
 -
     organization_id: 531
     language_id: 6414
-    language_iso: eng
     url: https://bible.cloud/images/icon/youversion_icon.svg
     icon: 1
 -
     organization_id: 532
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/bible-search.svg
     icon: 0
 -
     organization_id: 533
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/2k-denmark.svg
     icon: 0
 -
     organization_id: 536
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/international-mission-board.svg
     icon: 0
 -
     organization_id: 539
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/swiss-bible-society.svg
     icon: 0
 -
     organization_id: 541
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/lumo-project.svg
     icon: 0
 -
     organization_id: 552
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/torchtrust.svg
     icon: 0
 -
     organization_id: 556
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/idisciple.svg
     icon: 0
 -
     organization_id: 557
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/pioneers-ministries.svg
     icon: 0
 -
     organization_id: 559
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/the-bible-org.svg
     icon: 0
 -
     organization_id: 568
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/swim.svg
     icon: 0
 -
     organization_id: 569
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/bible-society-of-finland.svg
     icon: 0
 -
     organization_id: 571
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/press-bible.svg
     icon: 0
 -
     organization_id: 578
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/church.svg
     icon: 0
 -
     organization_id: 579
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/glo-bible.svg
     icon: 0
 -
     organization_id: 580
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/china-partnership.svg
     icon: 0
 -
     organization_id: 583
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/z-bible.svg
     icon: 0
 -
     organization_id: 584
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/bible-museum.svg
     icon: 0
 -
     organization_id: 587
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/power-to-change.svg
     icon: 0
 -
     organization_id: 590
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/olive-tree-bible.svg
     icon: 0
 -
     organization_id: 591
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/worldreader.svg
     icon: 0
 -
     organization_id: 594
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/prison-fellowship-international.svg
     icon: 0
 -
     organization_id: 595
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/world-bibles.svg
     icon: 0
 -
     organization_id: 597
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/clarion-creative.svg
     icon: 0
 -
     organization_id: 598
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/editora-mundo-cristao.svg
     icon: 0
 -
     organization_id: 599
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/one-hundred-fold.svg
     icon: 0
 -
     organization_id: 609
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/operation-mobilization-international.svg
     icon: 0
 -
     organization_id: 613
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/crazy-love-ministries.svg
     icon: 0
 -
     organization_id: 618
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/4-2-20-foundation.svg
     icon: 0
 -
     organization_id: 623
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/church.svg
     icon: 0
 -
     organization_id: 624
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/malagasy-bible-society.svg
     icon: 0
 -
     organization_id: 629
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/union-nacional-de-traductores-indigenas-a-c.svg
     icon: 0
 -
     organization_id: 635
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/wycliffe-bible-translators-australia.svg
     icon: 0
 -
     organization_id: 639
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/bible-society-of-hungary.svg
     icon: 0
 -
     organization_id: 640
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/bible-society-of-cambodia.svg
     icon: 0
 -
     organization_id: 642
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/the-archdiocese-of-kota-kinabalu.svg
     icon: 0
 -
     organization_id: 643
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/association-chretienne-dexpression-berbere.svg
     icon: 0
 -
     organization_id: 644
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/wycliffe-india.svg
     icon: 0
 -
     organization_id: 744
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/bible-society-of-egypt.svg
     icon: 0
 -
     organization_id: 914
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/church.svg
     icon: 0
 -
     organization_id: 943
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/free-bibles-india.svg
     icon: 0
 -
     organization_id: 956
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/global-bible-translators.svg
     icon: 0
 -
     organization_id: 979
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/evangelical-bible-institute.svg
     icon: 0
 -
     organization_id: 984
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/church.svg
     icon: 0
 -
     organization_id: 1003
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/potters-field-ministries.svg
     icon: 0
 -
     organization_id: 1012
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/ufm-international.svg
     icon: 0
 -
     organization_id: 1048
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/spoken-worldwide.svg
     icon: 0
 -
     organization_id: 1048
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/icon/spoken-worldwide_icon.svg
     icon: 1
 -
     organization_id: 1051
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/bible-project.svg
     icon: 0
 -
     organization_id: 1055
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/alpha-international.svg
     icon: 0
 -
     organization_id: 1057
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/bible-league-bulgaria.svg
     icon: 0
 -
     organization_id: 1058
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/reformed-evangelical-mission-of-the-netherlands.svg
     icon: 0
 -
     organization_id: 1059
     language_id: 6414
-    language_iso: eng
     url: https://dbs-bible-cloud.s3.amazonaws.com/images/logo/bible-translation-institute-at-zaoksky-russia.svg
     icon: 0

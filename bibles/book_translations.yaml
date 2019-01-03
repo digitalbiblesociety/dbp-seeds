@@ -1,0 +1,601 @@
+---
+-
+    language_id: 6414
+    book_id: 1CH
+    name: 1 Chronicles
+-
+    language_id: 6414
+    book_id: 1CO
+    name: 1 Corinthians
+-
+    language_id: 6414
+    book_id: 1ES
+    name: 1 ESDRAS
+-
+    language_id: 6414
+    book_id: 1JN
+    name: 1 John
+-
+    language_id: 6414
+    book_id: 1KI
+    name: 1 Kings
+-
+    language_id: 6414
+    book_id: 1MA
+    name: 1 Maccabees
+-
+    language_id: 6414
+    book_id: 1PE
+    name: 1 Peter
+-
+    language_id: 6414
+    book_id: 1SA
+    name: 1 Samuel
+-
+    language_id: 6414
+    book_id: 1TH
+    name: 1 Thessalonians
+-
+    language_id: 6414
+    book_id: 1TI
+    name: 1 Timothy
+-
+    language_id: 6414
+    book_id: 2CH
+    name: 2 Chronicles
+-
+    language_id: 6414
+    book_id: 2CO
+    name: 2 Corinthians
+-
+    language_id: 6414
+    book_id: 2ES
+    name: 2 ESDRAS
+-
+    language_id: 6414
+    book_id: 2JN
+    name: 2 John
+-
+    language_id: 6414
+    book_id: 2KI
+    name: 2 Kings
+-
+    language_id: 6414
+    book_id: 2MA
+    name: 2 Maccabees
+-
+    language_id: 6414
+    book_id: 2PE
+    name: 2 Peter
+-
+    language_id: 6414
+    book_id: 2SA
+    name: 2 Samuel
+-
+    language_id: 6414
+    book_id: 2TH
+    name: 2 Thessalonians
+-
+    language_id: 6414
+    book_id: 2TI
+    name: 2 Timothy
+-
+    language_id: 6414
+    book_id: 3JN
+    name: 3 John
+-
+    language_id: 6414
+    book_id: 3MA
+    name: 3 Maccabees
+-
+    language_id: 6414
+    book_id: 4MA
+    name: 4 Maccabees
+-
+    language_id: 6414
+    book_id: ACT
+    name: Acts
+-
+    language_id: 6414
+    book_id: AMO
+    name: Amos
+-
+    language_id: 6414
+    book_id: BAR
+    name: Baruch
+-
+    language_id: 6414
+    book_id: BEL
+    name: BEL AND THE DRAGON
+-
+    language_id: 6414
+    book_id: COL
+    name: Colossians
+-
+    language_id: 6414
+    book_id: DAG
+    name: Daniel (Greek)
+-
+    language_id: 6414
+    book_id: DAN
+    name: Daniel
+-
+    language_id: 6414
+    book_id: DEU
+    name: Deuteronomy
+-
+    language_id: 6414
+    book_id: ECC
+    name: Ecclesiastes
+-
+    language_id: 6414
+    book_id: EPH
+    name: Ephesians
+-
+    language_id: 6414
+    book_id: ESG
+    name: ESTHER (GREEK)
+-
+    language_id: 6414
+    book_id: EST
+    name: Esther
+-
+    language_id: 6414
+    book_id: EXO
+    name: Exodus
+-
+    language_id: 6414
+    book_id: EZK
+    name: Ezekiel
+-
+    language_id: 6414
+    book_id: EZR
+    name: Ezra
+-
+    language_id: 6414
+    book_id: GAL
+    name: Galatians
+-
+    language_id: 6414
+    book_id: GEN
+    name: Genesis
+-
+    language_id: 6414
+    book_id: HAB
+    name: Habakkuk
+-
+    language_id: 6414
+    book_id: HAG
+    name: Haggai
+-
+    language_id: 6414
+    book_id: HEB
+    name: Hebrews
+-
+    language_id: 6414
+    book_id: HOS
+    name: Hosea
+-
+    language_id: 6414
+    book_id: ISA
+    name: Isaiah
+-
+    language_id: 6414
+    book_id: JAS
+    name: James
+-
+    language_id: 6414
+    book_id: JDG
+    name: Judges
+-
+    language_id: 6414
+    book_id: JDT
+    name: Judith
+-
+    language_id: 6414
+    book_id: JER
+    name: Jeremiah
+-
+    language_id: 6414
+    book_id: JHN
+    name: John
+-
+    language_id: 6414
+    book_id: JOB
+    name: Job
+-
+    language_id: 6414
+    book_id: JOL
+    name: Joel
+-
+    language_id: 6414
+    book_id: JON
+    name: Jonah
+-
+    language_id: 6414
+    book_id: JOS
+    name: Joshua
+-
+    language_id: 6414
+    book_id: JUD
+    name: Jude
+-
+    language_id: 6414
+    book_id: LAM
+    name: Lamentations
+-
+    language_id: 6414
+    book_id: LEV
+    name: Leviticus
+-
+    language_id: 6414
+    book_id: LUK
+    name: Luke
+-
+    language_id: 6414
+    book_id: MAL
+    name: Malachi
+-
+    language_id: 6414
+    book_id: MAN
+    name: PRAYER OF MANASSES
+-
+    language_id: 6414
+    book_id: MAT
+    name: Matthew
+-
+    language_id: 6414
+    book_id: MIC
+    name: Micah
+-
+    language_id: 6414
+    book_id: MRK
+    name: Mark
+-
+    language_id: 6414
+    book_id: NAM
+    name: Nahum
+-
+    language_id: 6414
+    book_id: NEH
+    name: Nehemiah
+-
+    language_id: 6414
+    book_id: NUM
+    name: Numbers
+-
+    language_id: 6414
+    book_id: OBA
+    name: Obadiah
+-
+    language_id: 6414
+    book_id: PHM
+    name: Philemon
+-
+    language_id: 6414
+    book_id: PHP
+    name: Philippians
+-
+    language_id: 6414
+    book_id: PRO
+    name: Proverbs
+-
+    language_id: 6414
+    book_id: PS2
+    name: Psalm 151
+-
+    language_id: 6414
+    book_id: PSA
+    name: Psalm
+-
+    language_id: 6414
+    book_id: REV
+    name: Revelation
+-
+    language_id: 6414
+    book_id: ROM
+    name: Romans
+-
+    language_id: 6414
+    book_id: RUT
+    name: Ruth
+-
+    language_id: 6414
+    book_id: S3Y
+    name: SONG OF THE 3 HOLY CHILDREN
+-
+    language_id: 6414
+    book_id: SIR
+    name: Sirach
+-
+    language_id: 6414
+    book_id: SNG
+    name: Song of Songs
+-
+    language_id: 6414
+    book_id: SUS
+    name: SUSANNA
+-
+    language_id: 6414
+    book_id: TIT
+    name: Titus
+-
+    language_id: 6414
+    book_id: TOB
+    name: Tobit
+-
+    language_id: 6414
+    book_id: WIS
+    name: Wisdom of Solomon
+-
+    language_id: 6414
+    book_id: ZEC
+    name: Zechariah
+-
+    language_id: 6414
+    book_id: ZEP
+    name: Zephaniah
+-
+    language_id: 6411
+    book_id: 1CH
+    name: 1 Cronicas
+-
+    language_id: 6411
+    book_id: 1CO
+    name: 1 Corintios
+-
+    language_id: 6411
+    book_id: 1JN
+    name: 1 San Juan
+-
+    language_id: 6411
+    book_id: 1KI
+    name: 1 Reyes
+-
+    language_id: 6411
+    book_id: 1PE
+    name: 1 San Pedro
+-
+    language_id: 6411
+    book_id: 1SA
+    name: 1 Samuel
+-
+    language_id: 6411
+    book_id: 1TH
+    name: 1 Tesalonicenses
+-
+    language_id: 6411
+    book_id: 1TI
+    name: 1 Timoteo
+-
+    language_id: 6411
+    book_id: 2CH
+    name: 2 Cronicas
+-
+    language_id: 6411
+    book_id: 2CO
+    name: 2 Corintios
+-
+    language_id: 6411
+    book_id: 2JN
+    name: 2 San Juan
+-
+    language_id: 6411
+    book_id: 2KI
+    name: 2 Reyes
+-
+    language_id: 6411
+    book_id: 2PE
+    name: 2 San Pedro
+-
+    language_id: 6411
+    book_id: 2SA
+    name: 2 Samuel
+-
+    language_id: 6411
+    book_id: 2TH
+    name: 2 Tesalonicenses
+-
+    language_id: 6411
+    book_id: 2TI
+    name: 2 Timoteo
+-
+    language_id: 6411
+    book_id: 3JN
+    name: 3 San Juan
+-
+    language_id: 6411
+    book_id: ACT
+    name: Hechos
+-
+    language_id: 6411
+    book_id: AMO
+    name: Amós
+-
+    language_id: 6411
+    book_id: COL
+    name: Colosenses
+-
+    language_id: 6411
+    book_id: DAN
+    name: Daniel
+-
+    language_id: 6411
+    book_id: DEU
+    name: Deuteronomio
+-
+    language_id: 6411
+    book_id: ECC
+    name: Eclesiastes
+-
+    language_id: 6411
+    book_id: EPH
+    name: Efesios
+-
+    language_id: 6411
+    book_id: EST
+    name: Ester
+-
+    language_id: 6411
+    book_id: EXO
+    name: Exodo
+-
+    language_id: 6411
+    book_id: EZK
+    name: Ezequiel
+-
+    language_id: 6411
+    book_id: EZR
+    name: Esdras
+-
+    language_id: 6411
+    book_id: GAL
+    name: Gálatas
+-
+    language_id: 6411
+    book_id: GEN
+    name: Génesis
+-
+    language_id: 6411
+    book_id: HAB
+    name: Habacuc
+-
+    language_id: 6411
+    book_id: HAG
+    name: Hageo
+-
+    language_id: 6411
+    book_id: HEB
+    name: Hebreos
+-
+    language_id: 6411
+    book_id: HOS
+    name: Oseas
+-
+    language_id: 6411
+    book_id: ISA
+    name: Isaias
+-
+    language_id: 6411
+    book_id: JAS
+    name: Santiago
+-
+    language_id: 6411
+    book_id: JDG
+    name: Jueces
+-
+    language_id: 6411
+    book_id: JER
+    name: Jeremias
+-
+    language_id: 6411
+    book_id: JHN
+    name: San Juan
+-
+    language_id: 6411
+    book_id: JOB
+    name: Job
+-
+    language_id: 6411
+    book_id: JOL
+    name: Joel
+-
+    language_id: 6411
+    book_id: JON
+    name: Jonas
+-
+    language_id: 6411
+    book_id: JOS
+    name: Josue
+-
+    language_id: 6411
+    book_id: JUD
+    name: San Judas
+-
+    language_id: 6411
+    book_id: LAM
+    name: Lamentaciones
+-
+    language_id: 6411
+    book_id: LEV
+    name: Levitico
+-
+    language_id: 6411
+    book_id: LUK
+    name: San Lucas
+-
+    language_id: 6411
+    book_id: MAL
+    name: Malaquias
+-
+    language_id: 6411
+    book_id: MAT
+    name: San Mateo
+-
+    language_id: 6411
+    book_id: MIC
+    name: Miqueas
+-
+    language_id: 6411
+    book_id: MRK
+    name: San Marcos
+-
+    language_id: 6411
+    book_id: NAM
+    name: Nahum
+-
+    language_id: 6411
+    book_id: NEH
+    name: Nehemias
+-
+    language_id: 6411
+    book_id: NUM
+    name: Numeros
+-
+    language_id: 6411
+    book_id: OBA
+    name: Abdias
+-
+    language_id: 6411
+    book_id: PHM
+    name: Filemon
+-
+    language_id: 6411
+    book_id: PHP
+    name: Filipenses
+-
+    language_id: 6411
+    book_id: PRO
+    name: Los Proverbios
+-
+    language_id: 6411
+    book_id: PSA
+    name: Los Salmos
+-
+    language_id: 6411
+    book_id: REV
+    name: El Apocalipsis
+-
+    language_id: 6411
+    book_id: ROM
+    name: Romanos
+-
+    language_id: 6411
+    book_id: RUT
+    name: Rut
+-
+    language_id: 6411
+    book_id: SNG
+    name: Cantares
+-
+    language_id: 6411
+    book_id: TIT
+    name: Tito
+-
+    language_id: 6411
+    book_id: ZEC
+    name: Zacarias
+-
+    language_id: 6411
+    book_id: ZEP
+    name: Sofonias

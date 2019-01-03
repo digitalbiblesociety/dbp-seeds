@@ -1,0 +1,19 @@
+---
+-
+    id: 1
+    bible_file_id: 1215691
+    file_name: Buamu_MRK_1-1-8_R_av480p.m3u8
+    bandwidth: 6267000
+    resolution_width: 854
+    resolution_height: 480
+    codec: avc1.4d001f,mp4a.40.2
+    stream: 1
+-
+    id: 2
+    bible_file_id: 1215691
+    file_name: Buamu_MRK_1-1-8_R_av720p.m3u8
+    bandwidth: 11788000
+    resolution_width: 1280
+    resolution_height: 720
+    codec: avc1.4d001f,mp4a.40.2
+    stream: 1
